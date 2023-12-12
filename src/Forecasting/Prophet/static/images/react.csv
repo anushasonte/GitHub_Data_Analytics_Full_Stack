@@ -1,0 +1,314 @@
+type,issue_number,created_at,closed_at,labels,state,author,pr_number
+issue,27731.0,2023-11-20,,['Status: Unconfirmed'],open,ziir,
+issue,27729.0,2023-11-20,,['Status: Unconfirmed'],open,marcusdarmstrong,
+issue,27728.0,2023-11-20,,"['Type: Bug', 'Status: Unconfirmed', 'Component: Developer Tools']",open,Tungquantedge,
+issue,27727.0,2023-11-18,,[],open,yuriystasiv,
+issue,27726.0,2023-11-18,2023-11-18,[],closed,yuriystasiv,
+issue,27725.0,2023-11-18,,[],open,codesculpture,
+issue,27724.0,2023-11-17,,"['Type: Bug', 'Status: Unconfirmed', 'Component: Developer Tools']",open,zeroxx1986,
+issue,27723.0,2023-11-17,,['Status: Unconfirmed'],open,SamarthKadam,
+issue,27721.0,2023-11-17,,['Status: Unconfirmed'],open,seydanurhatipoglu,
+issue,27719.0,2023-11-17,2023-11-22,['Status: Unconfirmed'],closed,yangliguo7,
+issue,27718.0,2023-11-17,2023-11-17,[],closed,nhathanhcao,
+issue,27716.0,2023-11-16,,['Status: Unconfirmed'],open,artem-malko,
+issue,27715.0,2023-11-16,,['Status: Unconfirmed'],open,boliangleung,
+issue,27714.0,2023-11-16,,[],open,kobehht,
+issue,27711.0,2023-11-15,,['Status: Unconfirmed'],open,danieltroger,
+issue,27710.0,2023-11-15,,['Status: Unconfirmed'],open,rendi12345678,
+issue,27708.0,2023-11-15,,['Status: Unconfirmed'],open,sznowicki,
+issue,27707.0,2023-11-15,,[],open,tienlx97,
+issue,27706.0,2023-11-15,,[],open,estrepo1,
+issue,27705.0,2023-11-15,,"['Type: Bug', 'Status: Unconfirmed', 'Component: Developer Tools']",open,incmak,
+issue,27702.0,2023-11-14,,['Status: Unconfirmed'],open,arklanq,
+issue,27700.0,2023-11-14,,['Status: Unconfirmed'],open,toastdriven,
+issue,27698.0,2023-11-14,2023-11-16,['Status: Unconfirmed'],closed,saku-1101,
+issue,27697.0,2023-11-14,,['Status: Unconfirmed'],open,Gul7333,
+issue,27696.0,2023-11-14,,['Status: Unconfirmed'],open,axetroy,
+issue,27693.0,2023-11-13,,['Status: Unconfirmed'],open,e-kibet,
+issue,27691.0,2023-11-11,,['Status: Unconfirmed'],open,TajAlasfiyaa,
+issue,27690.0,2023-11-11,2023-11-18,['Status: Unconfirmed'],closed,yoonminsang,
+issue,27686.0,2023-11-10,,['Status: Unconfirmed'],open,AndrewBarzu,
+issue,27683.0,2023-11-10,,[],open,jcabrerazuniga,
+issue,27682.0,2023-11-10,,['Status: Unconfirmed'],open,jianxiansining,
+issue,27679.0,2023-11-09,,['Status: Unconfirmed'],open,francois-roget,
+issue,27678.0,2023-11-09,,['Status: Unconfirmed'],open,pkellner,
+issue,27675.0,2023-11-09,2023-11-20,['Status: Unconfirmed'],closed,rimline,
+issue,27673.0,2023-11-08,,[],open,lifeiscontent,
+issue,27670.0,2023-11-08,,['Status: Unconfirmed'],open,bvaughn,
+issue,27669.0,2023-11-08,,[],open,ITenthusiasm,
+issue,27667.0,2023-11-08,2023-11-13,['Status: Unconfirmed'],closed,Nazar-D-Aleannlab,
+issue,27666.0,2023-11-08,,['Status: Unconfirmed'],open,silviuaavram,
+issue,27663.0,2023-11-08,,['Status: Unconfirmed'],open,uranusis04,
+issue,27662.0,2023-11-07,,['Status: Unconfirmed'],open,jeromepl,
+issue,27660.0,2023-11-07,,['Status: Unconfirmed'],open,mramirarab,
+issue,27658.0,2023-11-06,,['Status: Unconfirmed'],open,123cmp,
+issue,27657.0,2023-11-06,,['Component: DOM'],open,Biki-das,
+issue,27639.0,2023-11-01,2023-11-02,['Status: Unconfirmed'],closed,Biki-das,
+issue,27638.0,2023-11-01,2023-11-02,[],closed,richardoptibrium,
+issue,27630.0,2023-10-31,,[],open,Veath,
+issue,27628.0,2023-10-30,,['Status: Unconfirmed'],open,ajwootto,
+issue,27625.0,2023-10-30,,['Status: Unconfirmed'],open,hajinajib,
+issue,27622.0,2023-10-30,2023-10-30,[],closed,darshitkhant142,
+issue,27621.0,2023-10-29,,['Status: Unconfirmed'],open,HugeLetters,
+issue,27619.0,2023-10-29,2023-11-05,['Status: Unconfirmed'],closed,nathan-osman,
+issue,27618.0,2023-10-28,,['Status: Unconfirmed'],open,greebl3,
+issue,27617.0,2023-10-28,,['Status: Unconfirmed'],open,dorshinar,
+issue,27613.0,2023-10-27,,['Status: Unconfirmed'],open,mareolan,
+issue,27611.0,2023-10-27,,['Status: Unconfirmed'],open,yaodingyd,
+issue,27609.0,2023-10-27,2023-10-27,['Status: Unconfirmed'],closed,Frankoissa,
+issue,27602.0,2023-10-27,,['Status: Unconfirmed'],open,rmschindler,
+issue,27589.0,2023-10-25,,['Status: Unconfirmed'],open,Diggsey,
+issue,27585.0,2023-10-25,2023-10-25,['Status: Unconfirmed'],closed,gnoff,
+issue,27578.0,2023-10-25,2023-10-25,"['Type: Bug', 'Status: Unconfirmed', 'Component: Developer Tools']",closed,vitoyucepi,
+issue,27575.0,2023-10-24,2023-10-30,['Status: Unconfirmed'],closed,fbgrigolo,
+issue,27574.0,2023-10-24,,['Status: Unconfirmed'],open,TNSaturday,
+issue,27573.0,2023-10-24,,['Status: Unconfirmed'],open,troovi,
+issue,27572.0,2023-10-24,2023-10-31,['HTML'],closed,philwolstenholme,
+issue,27567.0,2023-10-23,2023-10-23,"['Type: Bug', 'Status: Unconfirmed', 'Resolution: Needs More Information', 'Component: Developer Tools']",closed,savalemilind6984,
+issue,27564.0,2023-10-22,,[],open,denis-ttk-1975,
+issue,27558.0,2023-10-20,,['Status: Unconfirmed'],open,HotariTobu,
+issue,27557.0,2023-10-20,2023-10-22,[],closed,tbathat,
+issue,27555.0,2023-10-20,2023-10-22,['Status: Unconfirmed'],closed,TigWork,
+issue,27554.0,2023-10-20,,['Status: Unconfirmed'],open,St2r,
+issue,27553.0,2023-10-20,2023-10-22,['Status: Unconfirmed'],closed,vaynevayne,
+issue,27548.0,2023-10-19,,['Status: Unconfirmed'],open,Thaigun,
+issue,27547.0,2023-10-19,2023-10-19,"['Type: Bug', 'Status: Unconfirmed', 'Component: Developer Tools']",closed,amirfSellerCloud,
+issue,27545.0,2023-10-18,,['Status: Unconfirmed'],open,speculees,
+issue,27540.0,2023-10-18,2023-10-18,['Status: Unconfirmed'],closed,gnoff,
+issue,27529.0,2023-10-16,2023-10-18,[],closed,ericthomson13,
+issue,27524.0,2023-10-15,,['Type: Needs Investigation'],open,atersolis,
+issue,27520.0,2023-10-14,2023-10-19,['Status: Unconfirmed'],closed,saraOrkide,
+issue,27519.0,2023-10-14,2023-10-19,['Status: Unconfirmed'],closed,zroug,
+issue,27518.0,2023-10-13,,['Status: Unconfirmed'],open,yepitschunked,
+issue,27515.0,2023-10-13,2023-10-19,['Status: Unconfirmed'],closed,jrmuizel,
+issue,27510.0,2023-10-12,,['Status: Unconfirmed'],open,gmaxlev,
+issue,27503.0,2023-10-11,2023-10-19,['Status: Unconfirmed'],closed,maxbaun,
+issue,27501.0,2023-10-11,2023-10-19,['Status: Unconfirmed'],closed,dleavitt,
+issue,27499.0,2023-10-10,2023-10-10,['Status: Unconfirmed'],closed,Yashshiva75,
+issue,27497.0,2023-10-10,2023-10-10,['Status: Unconfirmed'],closed,Yashshiva75,
+issue,27486.0,2023-10-09,,['Status: Unconfirmed'],open,codeAbinash,
+issue,27479.0,2023-10-07,,['Status: Unconfirmed'],open,Semigradsky,
+issue,27478.0,2023-10-07,,['Status: Unconfirmed'],open,HenriqueLimas,
+issue,27476.0,2023-10-07,2023-10-19,['Status: Unconfirmed'],closed,nmnmtttt,
+issue,27475.0,2023-10-06,,['Status: Unconfirmed'],open,djizco,
+issue,27473.0,2023-10-06,2023-10-06,[],closed,flooklnw2499,
+issue,27469.0,2023-10-05,2023-10-19,['Status: Unconfirmed'],closed,iradukundairenee,
+issue,27467.0,2023-10-05,2023-10-19,['Status: Unconfirmed'],closed,Antionetteean1,
+issue,27449.0,2023-10-02,2023-10-19,['Status: Unconfirmed'],closed,hoorncj-student,
+issue,27448.0,2023-10-02,2023-10-03,['Status: Unconfirmed'],closed,bradevans,
+issue,27437.0,2023-09-29,2023-09-30,[],closed,Mifloy,
+issue,27432.0,2023-09-28,2023-10-19,['Status: Unconfirmed'],closed,theKashey,
+issue,27431.0,2023-09-28,,"['Resolution: Needs More Information', 'Component: ESLint Rules']",open,ecraig12345,
+issue,27429.0,2023-09-28,,['Component: Developer Tools'],open,VLPUBI,
+issue,27423.0,2023-09-26,,['Status: Unconfirmed'],open,fedemp,
+issue,27420.0,2023-09-25,2023-10-19,['Status: Unconfirmed'],closed,testerez,
+issue,27415.0,2023-09-25,2023-10-04,[],closed,Taurean05,
+issue,27413.0,2023-09-24,2023-09-28,[],closed,MouradGitHub,
+issue,27411.0,2023-09-23,2023-09-25,['Status: Unconfirmed'],closed,InsightfulFuture,
+issue,27403.0,2023-09-21,2023-10-19,[],closed,emmclaughlin,
+issue,27402.0,2023-09-21,,['Status: Unconfirmed'],open,ejjraifihamza,
+pull_request,,2023-11-21,,,open,hoxyq,27734.0
+pull_request,,2023-11-21,,,open,Jack-Works,27733.0
+pull_request,,2023-11-21,,,open,WilliamDecker,27732.0
+pull_request,,2023-11-20,,,open,kassens,27730.0
+pull_request,,2023-11-17,,,open,Biki-das,27722.0
+pull_request,,2023-11-17,,,open,veksa,27720.0
+pull_request,,2023-11-16,2023-11-17,,closed,jackpope,27717.0
+pull_request,,2023-11-16,2023-11-16,,closed,dependabot[bot],27713.0
+pull_request,,2023-11-15,2023-11-15,,closed,gnoff,27712.0
+pull_request,,2023-11-15,,,open,hoxyq,27709.0
+pull_request,,2023-11-15,2023-11-15,,closed,George3d6,27704.0
+pull_request,,2023-11-15,,,open,tyao1,27703.0
+pull_request,,2023-11-14,,,open,markerikson,27701.0
+pull_request,,2023-11-14,2023-11-16,,closed,saku-1101,27699.0
+pull_request,,2023-11-14,2023-11-14,,closed,sebmarkbage,27695.0
+pull_request,,2023-11-13,2023-11-14,,closed,kassens,27694.0
+pull_request,,2023-11-11,2023-11-16,,closed,PrathamLalwani,27692.0
+pull_request,,2023-11-10,2023-11-10,,closed,kassens,27689.0
+pull_request,,2023-11-10,,,open,unstubbable,27688.0
+pull_request,,2023-11-10,2023-11-10,,closed,rubennorte,27687.0
+pull_request,,2023-11-10,2023-11-10,,closed,sebmarkbage,27684.0
+pull_request,,2023-11-09,2023-11-10,,closed,kassens,27681.0
+pull_request,,2023-11-09,2023-11-09,,closed,kassens,27680.0
+pull_request,,2023-11-09,2023-11-10,,closed,mofeiZ,27677.0
+pull_request,,2023-11-09,,,open,bvaughn,27676.0
+pull_request,,2023-11-09,2023-11-09,,closed,gnoff,27674.0
+pull_request,,2023-11-08,2023-11-08,,closed,gnoff,27672.0
+pull_request,,2023-11-08,2023-11-09,,closed,hoxyq,27671.0
+pull_request,,2023-11-08,2023-11-08,,closed,hoxyq,27668.0
+pull_request,,2023-11-08,2023-11-09,,closed,hoxyq,27665.0
+pull_request,,2023-11-08,2023-11-08,,closed,hoxyq,27664.0
+pull_request,,2023-11-07,2023-11-07,,closed,hoxyq,27661.0
+pull_request,,2023-11-06,2023-11-14,,closed,hoxyq,27659.0
+pull_request,,2023-11-03,2023-11-03,,closed,MarceloSpessoto,27648.0
+pull_request,,2023-11-03,,,open,kassens,27647.0
+pull_request,,2023-11-03,2023-11-08,,closed,tyao1,27646.0
+pull_request,,2023-11-03,2023-11-07,,closed,gnoff,27641.0
+pull_request,,2023-11-02,2023-11-02,,closed,kassens,27640.0
+pull_request,,2023-11-01,,,open,RohitPaul0007,27637.0
+pull_request,,2023-11-01,,,open,RohitPaul0007,27636.0
+pull_request,,2023-11-01,,,open,devongovett,27635.0
+pull_request,,2023-11-01,2023-11-01,,closed,gnoff,27634.0
+pull_request,,2023-11-01,2023-11-01,,closed,ztanner,27633.0
+pull_request,,2023-10-31,2023-10-31,,closed,SouSingh,27632.0
+pull_request,,2023-10-31,2023-10-31,,closed,oskarski,27631.0
+pull_request,,2023-10-30,,,open,acdlite,27629.0
+pull_request,,2023-10-30,2023-10-30,,closed,hoxyq,27627.0
+pull_request,,2023-10-30,,,open,anandfresh,27626.0
+pull_request,,2023-10-30,2023-10-30,,closed,aziyatali,27624.0
+pull_request,,2023-10-30,2023-10-30,,closed,aziyatali,27623.0
+pull_request,,2023-10-29,2023-10-30,,closed,m-shahjalal,27620.0
+pull_request,,2023-10-28,2023-11-01,,closed,dependabot[bot],27616.0
+pull_request,,2023-10-28,2023-11-01,,closed,dependabot[bot],27615.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27614.0
+pull_request,,2023-10-27,2023-11-07,,closed,hoxyq,27612.0
+pull_request,,2023-10-27,2023-10-27,,closed,gnoff,27610.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27608.0
+pull_request,,2023-10-27,2023-10-27,,closed,byaccident,27607.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27606.0
+pull_request,,2023-10-27,2023-11-03,,closed,Gamez0,27605.0
+pull_request,,2023-10-27,2023-10-27,,closed,abrar-khan007,27603.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27601.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27599.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27600.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27597.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],27598.0
+pull_request,,2023-10-26,,,open,kassens,27596.0
+pull_request,,2023-10-26,2023-11-02,,closed,noahlemen,27595.0
+pull_request,,2023-10-26,2023-10-26,,closed,sebmarkbage,27594.0
+pull_request,,2023-10-26,2023-10-26,,closed,dependabot[bot],27593.0
+pull_request,,2023-10-26,2023-10-26,,closed,dependabot[bot],27591.0
+pull_request,,2023-10-26,2023-10-26,,closed,dependabot[bot],27592.0
+pull_request,,2023-10-25,2023-11-01,,closed,gkz,27590.0
+pull_request,,2023-10-25,2023-10-26,,closed,dependabot[bot],27588.0
+pull_request,,2023-10-25,2023-10-26,,closed,dependabot[bot],27587.0
+pull_request,,2023-10-25,2023-10-25,,closed,gnoff,27586.0
+pull_request,,2023-10-25,2023-10-25,,closed,kassens,27584.0
+pull_request,,2023-10-25,2023-11-16,,closed,kassens,27583.0
+pull_request,,2023-10-25,2023-10-25,,closed,dependabot[bot],27582.0
+pull_request,,2023-10-25,2023-10-25,,closed,dependabot[bot],27581.0
+pull_request,,2023-10-25,2023-10-25,,closed,dependabot[bot],27580.0
+pull_request,,2023-10-25,,,open,alunyov,27579.0
+pull_request,,2023-10-24,2023-10-25,,closed,kassens,27577.0
+pull_request,,2023-10-24,2023-10-24,,closed,sebmarkbage,27576.0
+pull_request,,2023-10-24,2023-11-01,,closed,acdlite,27571.0
+pull_request,,2023-10-23,2023-10-23,,closed,acdlite,27570.0
+pull_request,,2023-10-23,2023-10-23,,closed,sebmarkbage,27569.0
+pull_request,,2023-10-23,2023-10-23,,closed,rovoskarl,27568.0
+pull_request,,2023-10-22,,,open,Gamez0,27566.0
+pull_request,,2023-10-22,2023-10-22,,closed,Gamez0,27565.0
+pull_request,,2023-10-22,,,open,sebmarkbage,27563.0
+pull_request,,2023-10-21,,,open,arjunsohal12,27561.0
+pull_request,,2023-10-21,,,open,leegeunhyeok,27560.0
+pull_request,,2023-10-20,2023-10-21,,closed,acdlite,27559.0
+pull_request,,2023-10-20,,,open,Shubhdeep12,27556.0
+pull_request,,2023-10-20,2023-10-21,,closed,gnoff,27552.0
+pull_request,,2023-10-19,2023-10-20,,closed,gnoff,27551.0
+pull_request,,2023-10-19,2023-10-23,,closed,acdlite,27550.0
+pull_request,,2023-10-19,2023-10-19,,closed,sebmarkbage,27549.0
+pull_request,,2023-10-19,,,open,sbearben,27546.0
+pull_request,,2023-10-18,2023-10-19,,closed,alunyov,27544.0
+pull_request,,2023-10-18,2023-10-18,,closed,gnoff,27543.0
+pull_request,,2023-10-18,2023-10-20,,closed,kassens,27542.0
+pull_request,,2023-10-18,2023-10-18,,closed,gnoff,27541.0
+pull_request,,2023-10-18,2023-10-20,,closed,dependabot[bot],27539.0
+pull_request,,2023-10-18,2023-10-18,,closed,hoxyq,27538.0
+pull_request,,2023-10-18,2023-10-19,,closed,sebmarkbage,27537.0
+pull_request,,2023-10-18,2023-10-18,,closed,sebmarkbage,27536.0
+pull_request,,2023-10-17,2023-10-20,,closed,dependabot[bot],27535.0
+pull_request,,2023-10-17,,,open,gnoff,27534.0
+pull_request,,2023-10-17,2023-11-09,,closed,kassens,27533.0
+pull_request,,2023-10-17,2023-10-20,,closed,dependabot[bot],27532.0
+pull_request,,2023-10-17,2023-10-20,,closed,dependabot[bot],27531.0
+pull_request,,2023-10-16,2023-10-20,,closed,dependabot[bot],27530.0
+pull_request,,2023-10-16,2023-10-20,,closed,dependabot[bot],27528.0
+pull_request,,2023-10-16,2023-10-20,,closed,dependabot[bot],27527.0
+pull_request,,2023-10-16,2023-10-20,,closed,dependabot[bot],27526.0
+pull_request,,2023-10-16,2023-11-01,,closed,cpojer,27525.0
+pull_request,,2023-10-15,2023-10-16,,closed,AsanAzimkulov,27523.0
+pull_request,,2023-10-15,2023-10-20,,closed,yujunjung,27522.0
+pull_request,,2023-10-14,2023-10-16,,closed,alunyov,27521.0
+pull_request,,2023-10-13,2023-10-17,,closed,hoxyq,27517.0
+pull_request,,2023-10-13,2023-10-16,,closed,hoxyq,27516.0
+pull_request,,2023-10-13,2023-10-13,,closed,jbroma,27514.0
+pull_request,,2023-10-13,2023-10-13,,closed,sebmarkbage,27513.0
+pull_request,,2023-10-12,2023-10-17,,closed,acdlite,27512.0
+pull_request,,2023-10-12,2023-10-12,,closed,gnoff,27511.0
+pull_request,,2023-10-12,2023-10-17,,closed,acdlite,27509.0
+pull_request,,2023-10-12,2023-10-12,,closed,jbroma,27508.0
+pull_request,,2023-10-12,,,open,suravshrestha,27507.0
+pull_request,,2023-10-12,2023-10-12,,closed,kumarmurikipudi786,27506.0
+pull_request,,2023-10-12,2023-10-15,,closed,acdlite,27505.0
+pull_request,,2023-10-12,2023-10-21,,closed,mattcarrollcode,27504.0
+pull_request,,2023-10-11,2023-10-11,,closed,sebmarkbage,27502.0
+pull_request,,2023-10-10,2023-10-10,,closed,acdlite,27500.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27496.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27495.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27494.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27493.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27491.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27492.0
+pull_request,,2023-10-09,2023-10-11,,closed,dependabot[bot],27490.0
+pull_request,,2023-10-09,,,open,acdlite,27489.0
+pull_request,,2023-10-09,2023-10-10,,closed,hoxyq,27488.0
+pull_request,,2023-10-09,,,open,naronchen,27485.0
+pull_request,,2023-10-08,2023-10-10,,closed,joekohler,27484.0
+pull_request,,2023-10-08,,,open,Umeshmalik,27483.0
+pull_request,,2023-10-08,,,open,zbw-zbw,27482.0
+pull_request,,2023-10-08,2023-10-08,,closed,zbw-zbw,27481.0
+pull_request,,2023-10-07,,,open,Semigradsky,27480.0
+pull_request,,2023-10-07,2023-10-07,,closed,mayankkamboj47,27477.0
+pull_request,,2023-10-06,2023-10-11,,closed,sebmarkbage,27474.0
+pull_request,,2023-10-06,2023-10-17,,closed,hoxyq,27472.0
+pull_request,,2023-10-05,2023-10-05,,closed,gnoff,27471.0
+pull_request,,2023-10-05,2023-10-05,,closed,gnoff,27470.0
+pull_request,,2023-10-05,2023-10-11,,closed,dependabot[bot],27468.0
+pull_request,,2023-10-05,,,open,chcoomilk,27466.0
+pull_request,,2023-10-04,,,open,josephsavona,27465.0
+pull_request,,2023-10-04,2023-10-05,,closed,eps1lon,27464.0
+pull_request,,2023-10-04,2023-10-12,,closed,poteto,27463.0
+pull_request,,2023-10-04,2023-10-04,,closed,gnoff,27462.0
+pull_request,,2023-10-04,2023-10-04,,closed,acdlite,27461.0
+pull_request,,2023-10-04,2023-10-04,,closed,acdlite,27460.0
+pull_request,,2023-10-04,2023-10-04,,closed,acdlite,27459.0
+pull_request,,2023-10-04,2023-10-10,,closed,javache,27458.0
+pull_request,,2023-10-04,2023-10-04,,closed,javache,27457.0
+pull_request,,2023-10-04,2023-10-04,,closed,sebmarkbage,27456.0
+pull_request,,2023-10-04,,,open,revskill10,27455.0
+pull_request,,2023-10-03,2023-10-04,,closed,acdlite,27454.0
+pull_request,,2023-10-03,2023-10-03,,closed,acdlite,27453.0
+pull_request,,2023-10-03,,,open,shavidze,27452.0
+pull_request,,2023-10-03,2023-10-11,,closed,dependabot[bot],27451.0
+pull_request,,2023-10-03,,,open,alunyov,27450.0
+pull_request,,2023-10-02,2023-10-11,,closed,dependabot[bot],27447.0
+pull_request,,2023-10-02,2023-10-10,,closed,faheem-cmd,27446.0
+pull_request,,2023-10-02,2023-10-02,,closed,sebmarkbage,27445.0
+pull_request,,2023-09-30,2023-10-02,,closed,sophiebits,27443.0
+pull_request,,2023-09-29,2023-09-29,,closed,sebmarkbage,27440.0
+pull_request,,2023-09-29,2023-09-29,,closed,acdlite,27439.0
+pull_request,,2023-09-29,2023-09-29,,closed,sebmarkbage,27436.0
+pull_request,,2023-09-28,,,open,ecraig12345,27435.0
+pull_request,,2023-09-28,2023-09-28,,closed,acdlite,27434.0
+pull_request,,2023-09-28,2023-09-28,,closed,gnoff,27433.0
+pull_request,,2023-09-28,,,open,zignis,27430.0
+pull_request,,2023-09-27,2023-09-27,,closed,gnoff,27428.0
+pull_request,,2023-09-27,2023-09-27,,closed,gnoff,27427.0
+pull_request,,2023-09-27,2023-09-27,,closed,ElDemetriou,27425.0
+pull_request,,2023-09-27,2023-09-28,,closed,sebmarkbage,27424.0
+pull_request,,2023-09-25,2023-11-02,,closed,gnoff,27422.0
+pull_request,,2023-09-25,2023-09-25,,closed,sebmarkbage,27421.0
+pull_request,,2023-09-25,2023-09-25,,closed,hoxyq,27419.0
+pull_request,,2023-09-25,2023-09-25,,closed,sebmarkbage,27418.0
+pull_request,,2023-09-25,2023-09-25,,closed,hoxyq,27417.0
+pull_request,,2023-09-25,,,open,Guakocius,27416.0
+pull_request,,2023-09-25,,,open,nyqykk,27414.0
+pull_request,,2023-09-24,,,open,gizmo49,27412.0
+pull_request,,2023-09-23,,,open,jayagr26,27410.0
+pull_request,,2023-09-23,2023-09-23,,closed,sophiebits,27409.0
+pull_request,,2023-09-23,2023-09-23,,closed,sebmarkbage,27408.0
+pull_request,,2023-09-22,2023-09-22,,closed,kassens,27407.0
+pull_request,,2023-09-22,,,open,vvhybe,27406.0
+pull_request,,2023-09-22,2023-09-22,,closed,sebmarkbage,27405.0
+pull_request,,2023-09-22,,,open,mateusmtoledo,27404.0
+pull_request,,2023-09-21,2023-10-02,,closed,sophiebits,27401.0
+pull_request,,2023-09-21,2023-09-26,,closed,gnoff,27400.0

@@ -1,0 +1,1920 @@
+type,issue_number,created_at,closed_at,labels,state,author,pr_number
+issue,53107.0,2023-11-21,,[],open,anthonychavis,
+issue,53106.0,2023-11-21,,[],open,zygarios,
+issue,53105.0,2023-11-21,,[],open,anthonychavis,
+issue,53103.0,2023-11-21,,[],open,bgotink,
+issue,53099.0,2023-11-21,2023-11-21,[],closed,budzichd,
+issue,53096.0,2023-11-21,,['area: adev'],open,fleckc3,
+issue,53095.0,2023-11-21,,"['area: aio', 'area: adev']",open,Gharantes,
+issue,53094.0,2023-11-21,2023-11-21,[],closed,AntonioCait,
+issue,53091.0,2023-11-21,2023-11-21,[],closed,ajaysingh-25,
+issue,53090.0,2023-11-21,,['area: adev'],open,Assassinduck,
+issue,53089.0,2023-11-21,,['area: i18n'],open,CodeAndWeb,
+issue,53088.0,2023-11-21,,['area: adev'],open,anisabboud,
+issue,53086.0,2023-11-21,2023-11-21,[],closed,rajendrakumaryadav,
+issue,53085.0,2023-11-21,2023-11-21,[],closed,huineng,
+issue,53083.0,2023-11-21,2023-11-21,[],closed,leo6104,
+issue,53082.0,2023-11-21,,['area: adev'],open,calebthewood,
+issue,53078.0,2023-11-21,,['area: adev'],open,racz16,
+issue,53077.0,2023-11-21,,['area: adev'],open,racz16,
+issue,53075.0,2023-11-20,,['area: adev'],open,racz16,
+issue,53074.0,2023-11-20,,['area: adev-infra'],open,racz16,
+issue,53073.0,2023-11-20,,['area: adev'],open,racz16,
+issue,53070.0,2023-11-20,,['area: adev'],open,racz16,
+issue,53068.0,2023-11-20,,"['area: migrations', 'core: control flow']",open,pweyrich,
+issue,53067.0,2023-11-20,2023-11-20,[],closed,ajuni880,
+issue,53066.0,2023-11-20,2023-11-20,[],closed,angemariya,
+issue,53064.0,2023-11-20,2023-11-20,['area: router'],closed,troquatte,
+issue,53060.0,2023-11-20,,['area: adev'],open,Tayuelo,
+issue,53057.0,2023-11-20,,['area: aio'],open,antoninklopp,
+issue,53053.0,2023-11-20,,"['help wanted', 'good first issue', 'area: adev']",open,veera20k,
+issue,53052.0,2023-11-20,2023-11-20,[],closed,ben-spiller,
+issue,53051.0,2023-11-20,,"['state: has PR', 'area: adev']",open,fleckc3,
+issue,53050.0,2023-11-20,2023-11-20,[],closed,dagarint,
+issue,53049.0,2023-11-20,2023-11-20,[],closed,octagony,
+issue,53047.0,2023-11-20,,['area: adev'],open,veera20k,
+issue,53046.0,2023-11-20,,"['area: testing', 'needs reproduction']",open,NavneetVaid,
+issue,53044.0,2023-11-20,2023-11-20,[],closed,veera20k,
+issue,53043.0,2023-11-20,2023-11-20,[],closed,alanzheng88,
+issue,53042.0,2023-11-20,,['area: forms'],open,SergeyBarskiyTyler,
+issue,53041.0,2023-11-20,,['area: adev'],open,BrittanyLouviere,
+issue,53037.0,2023-11-19,,"['state: blocked', 'good first issue', 'area: adev']",open,Oluwapelumi11,
+issue,53038.0,2023-11-19,,['area: compiler'],open,laurenzfiala,
+issue,53030.0,2023-11-18,2023-11-19,[],closed,racz16,
+issue,53029.0,2023-11-18,2023-11-19,[],closed,racz16,
+issue,53027.0,2023-11-18,2023-11-19,[],closed,drbenn,
+issue,53024.0,2023-11-18,2023-11-18,[],closed,huajian123,
+issue,53023.0,2023-11-18,2023-11-18,[],closed,yavuzgunay,
+issue,53020.0,2023-11-17,,['area: adev-infra'],open,stot3,
+issue,53017.0,2023-11-17,2023-11-20,"['state: has PR', 'area: migrations', 'core: control flow']",closed,jessicajaniuk,
+issue,53016.0,2023-11-17,,"['hotlist: devrel', 'area: adev-infra']",open,stot3,
+issue,53015.0,2023-11-17,,[],open,stot3,
+issue,53014.0,2023-11-17,2023-11-17,[],closed,viniciusschuelter,
+issue,53013.0,2023-11-17,,"['state: has PR', 'area: compiler', 'core: CSS encapsulation', 'P3']",open,viniciusschuelter,
+issue,53009.0,2023-11-17,2023-11-20,"['state: has PR', 'area: migrations', 'core: control flow']",closed,jessicajaniuk,
+issue,53007.0,2023-11-17,2023-11-18,[],closed,dontpanicux,
+issue,53005.0,2023-11-17,,[],open,nathan-nusign,
+issue,53003.0,2023-11-17,,['area: adev-infra'],open,danielalexis,
+issue,53002.0,2023-11-17,,['area: testing'],open,atscott,
+issue,53000.0,2023-11-17,2023-11-18,[],closed,desarrollovelmar,
+issue,52998.0,2023-11-17,2023-11-20,"['needs reproduction', 'area: migrations']",closed,mazlano27,
+issue,52997.0,2023-11-17,,['area: adev-infra'],open,stot3,
+issue,52996.0,2023-11-17,2023-11-17,[],closed,penfold,
+issue,52994.0,2023-11-17,2023-11-17,[],closed,DimitriTsikaridze,
+issue,52993.0,2023-11-17,,['area: adev-infra'],open,DimitriTsikaridze,
+issue,52989.0,2023-11-17,2023-11-17,"['help wanted', 'good first issue', 'area: adev']",closed,TerranceKhumalo-absa,
+issue,52988.0,2023-11-17,2023-11-17,[],closed,vneogi199,
+issue,52987.0,2023-11-17,2023-11-17,[],closed,PrabhuTeja-Dasari,
+issue,52986.0,2023-11-17,,['area: adev-infra'],open,JaydevVadachhak,
+issue,52981.0,2023-11-16,,['area: adev-infra'],open,dostarora97,
+issue,52980.0,2023-11-16,,['area: devtools'],open,JHarrisGTI,
+issue,52978.0,2023-11-16,2023-11-16,[],closed,lucascouto,
+issue,52974.0,2023-11-16,2023-11-16,[],closed,elfilado,
+issue,52969.0,2023-11-16,,"['area: core', 'core: control flow']",open,penfold,
+issue,52968.0,2023-11-16,,['area: adev'],open,JaydevVadachhak,
+issue,52967.0,2023-11-16,2023-11-16,[],closed,m-aouzal,
+issue,52965.0,2023-11-16,2023-11-16,[],closed,nishanthvallambatla,
+issue,52963.0,2023-11-16,2023-11-16,[],closed,sedax90,
+issue,52962.0,2023-11-16,,[],open,davidpanic,
+issue,52961.0,2023-11-16,,"['area: aio', 'help wanted', 'good first issue']",open,stbn1699,
+issue,52960.0,2023-11-16,,"['help wanted', 'good first issue', 'area: adev']",open,denilson32,
+issue,52959.0,2023-11-16,2023-11-16,[],closed,JohnStamatelos,
+issue,52955.0,2023-11-16,,['area: adev'],open,andreandersson,
+issue,52954.0,2023-11-16,2023-11-16,[],closed,Niclassg,
+issue,52953.0,2023-11-16,,['area: docs'],open,e-oz,
+issue,52952.0,2023-11-16,2023-11-16,[],closed,PieterjanDeClippel,
+issue,52951.0,2023-11-16,2023-11-16,[],closed,arindamgit,
+issue,52950.0,2023-11-16,2023-11-16,[],closed,PieterjanDeClippel,
+issue,52949.0,2023-11-16,2023-11-16,[],closed,dan-laskowski,
+issue,52948.0,2023-11-16,2023-11-16,[],closed,diyxiaoshitou,
+issue,52947.0,2023-11-16,2023-11-16,[],closed,KarlXOL,
+issue,52946.0,2023-11-16,,"['area: router', 'P3', 'area: docs']",open,merkisoft,
+issue,52945.0,2023-11-15,,['area: compiler'],open,conorblencowe,
+issue,52944.0,2023-11-15,2023-11-15,[],closed,KIK22670,
+issue,52940.0,2023-11-15,,"['area: core', 'cross-cutting: signals']",open,brentyates,
+issue,52937.0,2023-11-15,2023-11-15,[],closed,vasnimartin,
+issue,52936.0,2023-11-15,2023-11-15,[],closed,denilson32,
+issue,52933.0,2023-11-15,2023-11-20,['area: devtools'],closed,Vbuddies,
+issue,52932.0,2023-11-15,2023-11-20,"['area: devtools', 'bug']",closed,NsdHSO,
+issue,52930.0,2023-11-15,2023-11-15,[],closed,AsandahDevs,
+issue,52929.0,2023-11-15,,"['area: server', 'needs: clarification']",open,jdgamble555,
+issue,52928.0,2023-11-15,,"['area: core', 'core: change detection', 'core: dynamic view creation']",open,pkozlowski-opensource,
+issue,52927.0,2023-11-15,2023-11-20,"['area: migrations', 'core: control flow']",closed,bjornharvold,
+issue,52925.0,2023-11-15,2023-11-15,[],closed,AsandahDevs,
+issue,52924.0,2023-11-15,2023-11-15,['area: router'],closed,martincoutts,
+issue,52921.0,2023-11-15,2023-11-15,[],closed,swapnilnakate7,
+issue,52920.0,2023-11-15,2023-11-15,[],closed,MunMunMiao,
+issue,52917.0,2023-11-14,2023-11-16,"['area: core', 'state: has PR', 'bug', 'core: control flow']",closed,jjw99,
+issue,52915.0,2023-11-14,2023-11-14,['area: adev'],closed,Fabricio-developer,
+issue,52913.0,2023-11-14,2023-11-14,[],closed,mcfdez,
+issue,52912.0,2023-11-14,,"['area: core', 'core: hydration']",open,jeffwhelpley,
+issue,52911.0,2023-11-14,2023-11-14,"['help wanted', 'good first issue', 'area: adev']",closed,rkvpratapreddy,
+issue,52909.0,2023-11-14,,"['help wanted', 'area: adev']",open,CondensedMilk7,
+issue,52906.0,2023-11-14,2023-11-14,['area: server'],closed,newvladimirov,
+issue,52900.0,2023-11-14,,['area: adev'],open,jsuryakt,
+issue,52898.0,2023-11-14,,"['feature', 'area: core', 'feature: votes required', 'core: defer']",open,edwarddubi,
+issue,52897.0,2023-11-14,2023-11-15,"['area: aio', 'area: core', 'state: has PR', 'core: defer', 'area: adev']",closed,e-oz,
+issue,52896.0,2023-11-14,2023-11-14,[],closed,SandeepBhartiya,
+issue,52895.0,2023-11-14,,['area: animations'],open,simonmumenthaler,
+issue,52894.0,2023-11-14,,['area: router'],open,decoursin,
+issue,52892.0,2023-11-14,2023-11-20,"['needs reproduction', 'area: router']",closed,leonelvsc,
+issue,52891.0,2023-11-14,,['area: adev'],open,aghilesh,
+issue,52890.0,2023-11-14,2023-11-14,[],closed,nagashimam,
+issue,52889.0,2023-11-14,,"['feature', 'feature: votes required', 'area: devtools', 'cross-cutting: signals']",open,FilipeJohansson,
+issue,52888.0,2023-11-14,2023-11-14,"['area: core', 'core: defer']",closed,andrei-agdo,
+issue,52886.0,2023-11-14,2023-11-14,[],closed,florinteodorescu,
+issue,52885.0,2023-11-14,2023-11-15,"['state: has PR', 'area: compiler', 'P1', 'bug', 'core: control flow']",closed,sysmat,
+issue,52884.0,2023-11-14,,['area: adev'],open,chriswoodie,
+issue,52883.0,2023-11-14,,"['feature', 'area: router', 'feature: votes required']",open,zygarios,
+issue,52879.0,2023-11-13,2023-11-13,[],closed,consman,
+issue,52877.0,2023-11-13,,"['area: router', 'P5', 'area: adev', 'area: docs']",open,puschie286,
+issue,52876.0,2023-11-13,,"['area: core', 'state: has PR', 'P2', 'core: defer']",open,naveedahmed1,
+issue,52871.0,2023-11-13,2023-11-13,"['hotlist: devrel', 'area: adev', 'area: docs']",closed,Leiloukou,
+issue,52922.0,2023-11-13,,['area: server'],open,jnizet,
+issue,52861.0,2023-11-13,2023-11-13,[],closed,paulnaber,
+issue,52860.0,2023-11-13,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,SagiHalevy,
+issue,52859.0,2023-11-13,2023-11-13,['area: adev'],closed,MasterReptilian77,
+issue,52858.0,2023-11-13,2023-11-13,[],closed,cesco69,
+issue,52857.0,2023-11-13,2023-11-13,[],closed,ikefakis,
+issue,52855.0,2023-11-13,,"['area: compiler', 'bug', 'core: control flow']",open,stefannikolei,
+issue,52854.0,2023-11-13,2023-11-13,"['area: migrations', 'core: control flow']",closed,kbrilla,
+issue,52853.0,2023-11-13,2023-11-13,[],closed,aktasahmet,
+issue,52852.0,2023-11-13,,"['state: blocked', 'help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,CodeAndWeb,
+issue,52847.0,2023-11-13,2023-11-13,[],closed,bielmc11,
+issue,52846.0,2023-11-13,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,sdedieu,
+issue,52845.0,2023-11-13,2023-11-13,[],closed,osamasynergy,
+issue,52844.0,2023-11-13,2023-11-13,[],closed,sleptsov,
+issue,52843.0,2023-11-13,2023-11-13,"['help wanted', 'good first issue', 'area: adev']",closed,devOfJava,
+issue,52842.0,2023-11-13,2023-11-13,"['area: migrations', 'core: control flow']",closed,stefannikolei,
+issue,52841.0,2023-11-13,,"['state: blocked', 'area: dev-infra', 'P1', 'area: adev']",open,bozo88,
+issue,52839.0,2023-11-12,2023-11-12,[],closed,mattveraldi,
+issue,52837.0,2023-11-12,2023-11-12,[],closed,mamjerez,
+issue,52836.0,2023-11-12,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,ArneCaluwe,
+issue,52835.0,2023-11-12,2023-11-12,[],closed,4javier,
+issue,52834.0,2023-11-12,2023-11-12,[],closed,jasbel,
+issue,52833.0,2023-11-12,2023-11-13,['area: adev-infra'],closed,pBouillon,
+issue,52832.0,2023-11-12,2023-11-13,[],closed,Oidlichtnwoada,
+issue,52830.0,2023-11-12,2023-11-12,[],closed,Vikas-AppliedSystems,
+issue,52828.0,2023-11-12,2023-11-13,"['area: adev', 'area: docs']",closed,milar7,
+issue,52827.0,2023-11-12,2023-11-12,"['help wanted', 'good first issue', 'area: adev']",closed,axeleguia,
+issue,52825.0,2023-11-11,2023-11-13,['area: adev'],closed,VictorPerezAsuaje,
+issue,52824.0,2023-11-11,2023-11-11,[],closed,ZebaNazneen,
+issue,52823.0,2023-11-11,,"['help wanted', 'good first issue', 'browser: firefox', 'area: adev', 'area: adev-infra']",open,rdechiara,
+issue,52822.0,2023-11-11,2023-11-11,[],closed,Melkye,
+issue,52819.0,2023-11-11,2023-11-12,[],closed,mvdluit,
+issue,52818.0,2023-11-11,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev', 'area: adev-infra']",open,keidachird,
+issue,52817.0,2023-11-11,2023-11-15,"['area: testing', 'regression', 'state: has PR', 'P2']",closed,satanTime,
+issue,52815.0,2023-11-11,2023-11-11,[],closed,KevTale,
+issue,52813.0,2023-11-11,2023-11-11,[],closed,ArneCaluwe,
+issue,52812.0,2023-11-11,2023-11-11,[],closed,ashleychootim,
+issue,52809.0,2023-11-11,2023-11-11,"['help wanted', 'good first issue', 'area: adev']",closed,MBDesu,
+issue,52805.0,2023-11-11,,['area: core'],open,Gnyblast,
+issue,52801.0,2023-11-10,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,sream,
+issue,52800.0,2023-11-10,,"['feature', 'area: core', 'feature: under consideration', 'core: defer']",open,tomastrajan,
+issue,52799.0,2023-11-10,,"['feature', 'area: core', 'feature: under consideration', 'core: defer']",open,tomastrajan,
+issue,52797.0,2023-11-10,2023-11-13,"['state: has PR', 'area: adev']",closed,azeek21,
+issue,52794.0,2023-11-10,,"['help wanted', 'good first issue', 'area: adev']",open,Klerith,
+issue,52793.0,2023-11-10,,['area: adev'],open,rsivan,
+issue,52789.0,2023-11-10,2023-11-10,"['area: core', 'cross-cutting: standalone']",closed,marcindz88,
+issue,52786.0,2023-11-10,2023-11-10,['area: devtools'],closed,ngmariusz,
+issue,52787.0,2023-11-10,2023-11-13,['area: migrations'],closed,Coly010,
+issue,52785.0,2023-11-10,2023-11-13,['area: adev'],closed,SamEdwardsWEG,
+issue,52781.0,2023-11-10,2023-11-10,[],closed,WeihanLi,
+issue,52779.0,2023-11-10,2023-11-10,[],closed,jeffwhelpley,
+issue,52778.0,2023-11-10,2023-11-10,['area: adev'],closed,sametcelikbicak,
+issue,52777.0,2023-11-10,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,enstenr,
+issue,52773.0,2023-11-10,2023-11-10,[],closed,sdedieu,
+issue,52771.0,2023-11-10,2023-11-13,['area: docs'],closed,sdedieu,
+issue,52770.0,2023-11-10,2023-11-10,[],closed,sachinkannaujiya98,
+issue,52769.0,2023-11-10,2023-11-10,[],closed,mcwebdev,
+issue,52768.0,2023-11-10,2023-11-13,['area: adev'],closed,dustineichler,
+issue,52767.0,2023-11-10,2023-11-20,"['state: has PR', 'area: compiler', 'core: control flow']",closed,nyannyacha,
+issue,52766.0,2023-11-10,,"['help wanted', 'good first issue', 'area: adev']",open,mvdluit,
+issue,52765.0,2023-11-09,2023-11-13,"['area: migrations', 'core: control flow']",closed,grosch-intl,
+issue,52764.0,2023-11-09,2023-11-09,[],closed,GuillaumeNury,
+issue,52760.0,2023-11-09,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,AppleLAN,
+issue,52758.0,2023-11-09,,['area: adev'],open,AppleLAN,
+issue,52757.0,2023-11-09,2023-11-09,[],closed,AppleLAN,
+issue,52756.0,2023-11-09,2023-11-20,"['area: migrations', 'core: control flow']",closed,sfabriece,
+issue,52750.0,2023-11-09,,['area: aio'],open,hittten,
+issue,52751.0,2023-11-09,2023-11-13,"['area: aio', 'help wanted', 'state: has PR', 'good first issue', 'area: adev']",closed,anukiransolur,
+issue,52749.0,2023-11-09,2023-11-09,"['hotlist: devrel', 'area: adev-infra']",closed,Gortyser,
+issue,52747.0,2023-11-09,2023-11-09,['area: adev'],closed,devbyray,
+issue,52746.0,2023-11-09,,"['feature', 'area: core', 'feature: under consideration', 'core: defer']",open,rainerhahnekamp,
+issue,52741.0,2023-11-09,2023-11-09,['area: adev'],closed,SandeepBhartiya,
+issue,52740.0,2023-11-09,2023-11-09,[],closed,Gortyser,
+issue,52739.0,2023-11-09,,"['feature', 'area: core', 'feature: in backlog', 'core: defer']",open,AndrewKushnir,
+issue,52735.0,2023-11-09,,"['help wanted', 'area: core', 'cross-cutting: signals', 'area: adev']",open,ChefBierfles31,
+issue,52734.0,2023-11-09,,"['state: blocked', 'help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,mvdluit,
+issue,52730.0,2023-11-09,2023-11-09,"['state: has PR', 'bug', 'core: control flow']",closed,nyannyacha,
+issue,52728.0,2023-11-09,2023-11-09,[],closed,rafaelnl84,
+issue,52725.0,2023-11-09,2023-11-09,['area: adev-infra'],closed,brampeirs,
+issue,52723.0,2023-11-09,2023-11-09,[],closed,sdev95,
+issue,52722.0,2023-11-09,2023-11-09,[],closed,cesco69,
+issue,52720.0,2023-11-09,2023-11-09,['area: language-service'],closed,cesco69,
+issue,52719.0,2023-11-09,2023-11-09,['area: adev'],closed,OrestVanForest,
+issue,52713.0,2023-11-09,2023-11-10,"['needs reproduction', 'area: server']",closed,exovus,
+issue,52710.0,2023-11-09,,"['area: core', 'core: defer']",open,SkyZeroZx,
+issue,52709.0,2023-11-09,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,JeanMeche,
+issue,52707.0,2023-11-08,2023-11-09,"['needs reproduction', 'area: core', 'core: defer']",closed,naveedahmed1,
+issue,52706.0,2023-11-08,,"['hotlist: devrel', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52705.0,2023-11-08,,"['state: blocked', 'help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52702.0,2023-11-08,,['area: aio'],open,benclarkdev,
+issue,52701.0,2023-11-08,2023-11-08,[],closed,Remid12,
+issue,52700.0,2023-11-08,2023-11-08,"['area: aio', 'area: adev']",closed,humanbotgit,
+issue,52695.0,2023-11-08,,"['help wanted', 'area: adev']",open,DavidJournot,
+issue,52692.0,2023-11-08,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,kaibolay,
+issue,52690.0,2023-11-08,,"['area: core', 'core: reactivity', 'cross-cutting: signals']",open,neo3587,
+issue,52686.0,2023-11-08,2023-11-08,['area: aio'],closed,Julien-Marcou,
+issue,52684.0,2023-11-08,2023-11-09,"['good first issue', 'area: adev']",closed,dwilches,
+issue,52682.0,2023-11-08,2023-11-09,['area: adev-infra'],closed,dwilches,
+issue,52681.0,2023-11-08,2023-11-09,['area: adev-infra'],closed,SebastianEShelby,
+issue,52680.0,2023-11-08,,"['area: core', 'core: reactivity']",open,blueiceprj,
+issue,52672.0,2023-11-08,2023-11-08,['area: adev-infra'],closed,fantasy0v0,
+issue,52671.0,2023-11-08,2023-11-09,"['good first issue', 'area: adev']",closed,amilamen,
+issue,52670.0,2023-11-08,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,amilamen,
+issue,52669.0,2023-11-08,2023-11-09,"['good first issue', 'area: adev']",closed,amilamen,
+issue,52634.0,2023-11-08,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,amilamen,
+issue,52624.0,2023-11-08,,['area: forms'],open,dev-rajat-bacancy,
+issue,52623.0,2023-11-08,2023-11-08,[],closed,k3nsei,
+issue,52622.0,2023-11-08,2023-11-08,[],closed,jashwin264,
+issue,52621.0,2023-11-08,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,amilamen,
+issue,52620.0,2023-11-08,2023-11-09,"['good first issue', 'area: adev']",closed,amilamen,
+issue,52618.0,2023-11-08,2023-11-08,"['hotlist: devrel', 'area: adev-infra']",closed,akshay3001,
+issue,52616.0,2023-11-08,2023-11-08,[],closed,StormLx,
+issue,52615.0,2023-11-08,2023-11-08,['area: aio'],closed,hakimio,
+issue,52614.0,2023-11-08,2023-11-09,['area: adev-infra'],closed,jnizet,
+issue,52612.0,2023-11-08,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,HymanZHAN,
+issue,52611.0,2023-11-08,,['area: compiler'],open,jpike88,
+issue,52610.0,2023-11-08,2023-11-08,[],closed,TomTomB,
+issue,52609.0,2023-11-07,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,Ryth-cs,
+issue,52603.0,2023-11-07,,"['state: blocked', 'help wanted', 'area: adev', 'area: adev-infra']",open,mvdluit,
+issue,52600.0,2023-11-07,,"['feature', 'area: core', 'feature: votes required', 'core: defer']",open,chaosmonster,
+issue,52599.0,2023-11-07,2023-11-13,['area: upgrade'],closed,samdoeswork,
+issue,52598.0,2023-11-07,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev', 'area: adev-infra']",open,azeek21,
+issue,52596.0,2023-11-07,2023-11-07,['area: aio'],closed,ddelavega,
+issue,52595.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,ddelavega,
+issue,52594.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,ddelavega,
+issue,52593.0,2023-11-07,,"['feature', 'area: core', 'feature: votes required', 'core: defer']",open,chaosmonster,
+issue,52591.0,2023-11-07,2023-11-08,['area: adev-infra'],closed,moniuch,
+issue,52584.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,McFLoDuR,
+issue,52583.0,2023-11-07,2023-11-07,[],closed,samdoeswork,
+issue,52582.0,2023-11-07,2023-11-07,[],closed,magioloro,
+issue,52581.0,2023-11-07,2023-11-07,[],closed,geekycrooner,
+issue,52579.0,2023-11-07,2023-11-07,[],closed,KevTale,
+issue,52576.0,2023-11-07,2023-11-07,[],closed,dagarint,
+issue,52575.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,ESE-MONDAY,
+issue,52574.0,2023-11-07,2023-11-08,"['hotlist: devrel', 'area: dev-infra']",closed,t-mish,
+issue,52573.0,2023-11-07,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,davidlj95,
+issue,52571.0,2023-11-07,,"['help wanted', 'area: adev', 'area: adev-infra']",open,grubeninspekteur,
+issue,52566.0,2023-11-07,2023-11-09,"['hotlist: devrel', 'area: adev']",closed,digit81,
+issue,52565.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,makesh-kumar,
+issue,52564.0,2023-11-07,2023-11-07,[],closed,NirajD10,
+issue,52563.0,2023-11-07,2023-11-07,[],closed,akashmadhavai,
+issue,52562.0,2023-11-07,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,rajguru827,
+issue,52561.0,2023-11-07,,"['help wanted', 'area: adev']",open,spfuller,
+issue,52560.0,2023-11-07,2023-11-07,[],closed,praveeno,
+issue,52559.0,2023-11-07,,"['area: forms', 'area: compiler']",open,zijianhuang,
+issue,52556.0,2023-11-06,,"['feature', 'area: core', 'feature: votes required', 'core: defer']",open,Martinspire,
+issue,52555.0,2023-11-06,2023-11-07,[],closed,mikimaine,
+issue,52554.0,2023-11-06,,"['area: core', 'core: defer']",open,mdafanasev,
+issue,52553.0,2023-11-06,2023-11-09,"['good first issue', 'area: adev']",closed,LouMauriege,
+issue,52552.0,2023-11-06,,"['feature', 'area: core', 'core: content projection', 'feature: under consideration']",open,ejiang,
+issue,52551.0,2023-11-06,,"['area: aio', 'P5']",open,hittten,
+issue,52550.0,2023-11-06,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,joshpayette,
+issue,52549.0,2023-11-06,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,ddellacqua97,
+issue,52548.0,2023-11-06,2023-11-06,[],closed,mxwssl,
+issue,52547.0,2023-11-06,2023-11-09,"['area: aio-infra', 'area: adev']",closed,Jordan-Hall,
+issue,52542.0,2023-11-06,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,MorkovnySok,
+issue,52539.0,2023-11-06,2023-11-09,"['state: has PR', 'good first issue', 'area: adev']",closed,adarshdhital007,
+issue,52538.0,2023-11-06,2023-11-13,"['area: animations', 'animations: async']",closed,zip-fa,
+issue,52537.0,2023-11-06,,['area: devtools'],open,Martinspire,
+issue,52533.0,2023-11-06,2023-11-07,"['area: core', 'core: control flow']",closed,zip-fa,
+issue,52528.0,2023-11-06,,"['area: core', 'core: control flow']",open,zip-fa,
+issue,52527.0,2023-11-06,2023-11-06,[],closed,zip-fa,
+issue,52526.0,2023-11-06,,"['area: animations', 'area: core', 'core: control flow']",open,e-oz,
+issue,52524.0,2023-11-06,2023-11-09,"['needs reproduction', 'area: core', 'core: control flow']",closed,naveedahmed1,
+issue,52523.0,2023-11-06,2023-11-06,"['area: migrations', 'core: control flow']",closed,zip-fa,
+issue,52522.0,2023-11-06,2023-11-06,"['area: migrations', 'core: control flow']",closed,zip-fa,
+issue,52521.0,2023-11-06,,['area: common'],open,cesco69,
+issue,52540.0,2023-11-06,2023-11-20,"['area: core', 'state: has PR']",closed,zip-fa,
+issue,52520.0,2023-11-06,2023-11-20,['area: upgrade'],closed,NavneetVaid,
+issue,52518.0,2023-11-05,2023-11-08,"['area: migrations', 'core: control flow']",closed,zip-fa,
+issue,52517.0,2023-11-05,2023-11-08,"['area: migrations', 'core: control flow']",closed,zip-fa,
+issue,52516.0,2023-11-05,2023-11-08,"['area: migrations', 'core: control flow']",closed,zip-fa,
+issue,52513.0,2023-11-05,2023-11-08,"['area: migrations', 'core: control flow']",closed,naveedahmed1,
+issue,52633.0,2023-11-03,,"['state: blocked', 'help wanted', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52509.0,2023-11-03,2023-11-03,[],closed,trukhinyuri,
+issue,52502.0,2023-11-03,2023-11-03,"['state: has PR', 'area: migrations', 'bug']",closed,naveedahmed1,
+issue,52496.0,2023-11-02,2023-11-02,[],closed,Marvv90,
+issue,52494.0,2023-11-02,,['area: common/http'],open,alessbell,
+issue,52636.0,2023-11-02,,"['help wanted', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52637.0,2023-11-02,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,alyssamichelle,
+issue,52638.0,2023-11-02,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,9kubczas4,
+issue,52639.0,2023-11-02,,"['help wanted', 'state: has PR', 'good first issue', 'area: adev']",open,alyssamichelle,
+issue,52477.0,2023-10-31,,"['area: core', 'core: hydration']",open,arturovt,
+issue,52471.0,2023-10-31,,"['area: aio', 'help wanted', 'area: i18n', 'good first issue', 'area: adev']",open,sroucheray,
+issue,52470.0,2023-10-31,2023-10-31,[],closed,asadakkhan,
+issue,52469.0,2023-10-31,2023-10-31,[],closed,asadakkhan,
+issue,52467.0,2023-10-31,2023-10-31,[],closed,asadakkhan,
+issue,52466.0,2023-10-31,,['area: zones'],open,sschoeb,
+issue,52461.0,2023-10-30,,['area: i18n'],open,10kc-manoj,
+issue,52460.0,2023-10-30,2023-10-31,"['area: migrations', 'core: control flow']",closed,naveedahmed1,
+issue,52454.0,2023-10-30,2023-10-30,[],closed,web-dave,
+issue,52446.0,2023-10-30,2023-10-31,"['state: has PR', 'area: compiler', 'core: control flow']",closed,cexbrayat,
+issue,52443.0,2023-10-29,2023-10-29,[],closed,kukjevov,
+issue,52429.0,2023-10-27,,['area: core'],open,atscott,
+issue,52428.0,2023-10-27,2023-10-27,[],closed,dminovski0,
+issue,52424.0,2023-10-27,,['area: common/http'],open,mihaiDumea,
+issue,52421.0,2023-10-27,2023-10-31,"['state: has PR', 'area: migrations', 'core: control flow']",closed,cexbrayat,
+issue,52416.0,2023-10-27,,"['feature', 'area: router', 'feature: votes required']",open,gilsdav,
+issue,52412.0,2023-10-27,2023-10-27,"['area: core', 'core: event listeners', 'needs: clarification']",closed,princemaple,
+issue,52640.0,2023-10-26,,"['help wanted', 'hotlist: devrel', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52406.0,2023-10-26,2023-10-26,[],closed,mlc-mlapis,
+issue,52396.0,2023-10-26,2023-10-26,[],closed,arizon-dread,
+issue,52392.0,2023-10-26,2023-10-26,[],closed,ebiton-eig,
+issue,52391.0,2023-10-26,2023-10-26,[],closed,Gregoire75017,
+issue,52641.0,2023-10-25,,"['state: blocked', 'area: adev', 'area: adev-infra']",open,9kubczas4,
+issue,52642.0,2023-10-25,,"['help wanted', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52377.0,2023-10-25,2023-10-25,[],closed,dev-garcia,
+issue,52376.0,2023-10-25,,['area: common/http'],open,edgarogh,
+issue,52372.0,2023-10-25,2023-10-25,[],closed,Gregoire75017,
+issue,52371.0,2023-10-25,2023-10-25,['area: router'],closed,Raza27630,
+issue,52366.0,2023-10-25,2023-10-25,[],closed,iKrishnaSahu,
+issue,52360.0,2023-10-24,2023-10-26,['area: server'],closed,naveedahmed1,
+issue,52349.0,2023-10-24,,['area: service-worker'],open,angelaki,
+issue,52346.0,2023-10-24,2023-10-24,[],closed,ArielGueta,
+issue,52345.0,2023-10-24,2023-10-24,[],closed,atomicrobokid,
+issue,52344.0,2023-10-24,2023-10-25,"['area: testing', 'area: router']",closed,reduckted,
+issue,52341.0,2023-10-24,2023-10-24,[],closed,leo6104,
+issue,52340.0,2023-10-24,2023-11-02,"['area: aio', 'good first issue']",closed,syoho,
+issue,52325.0,2023-10-23,2023-10-23,[],closed,zlepper,
+issue,52324.0,2023-10-23,2023-10-31,"['state: has PR', 'area: compiler', 'P3']",closed,tanishqmanuja,
+issue,52643.0,2023-10-23,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,eneajaho,
+issue,52318.0,2023-10-23,,"['area: compiler', 'compiler: extended diagnostics', 'core: control flow']",open,jpike88,
+issue,52317.0,2023-10-23,,['area: devtools'],open,azmhyy2021,
+issue,52316.0,2023-10-23,2023-10-23,[],closed,jpike88,
+issue,52315.0,2023-10-23,2023-10-23,"['state: has PR', 'bug', 'core: control flow']",closed,jpike88,
+issue,52644.0,2023-10-22,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52313.0,2023-10-22,2023-10-24,"['area: core', 'state: has PR', 'P2', 'core: defer']",closed,cexbrayat,
+issue,52308.0,2023-10-21,2023-10-21,[],closed,ninggaoqian,
+issue,52307.0,2023-10-21,2023-10-21,[],closed,ChellappanRajan,
+issue,52304.0,2023-10-20,2023-10-23,"['area: core', 'state: has PR', 'P2', 'core: defer']",closed,eneajaho,
+issue,52296.0,2023-10-20,2023-10-20,[],closed,moon-web75,
+issue,52295.0,2023-10-20,2023-11-07,"['needs reproduction', 'area: migrations', 'core: control flow']",closed,gmfun,
+issue,52286.0,2023-10-19,,['area: compiler'],open,cexbrayat,
+issue,52285.0,2023-10-19,2023-10-25,"['area: migrations', 'core: control flow']",closed,cexbrayat,
+issue,52284.0,2023-10-19,,"['area: core', 'area: language-service', 'area: compiler', 'core: defer']",open,JeanMeche,
+issue,52283.0,2023-10-19,,"['needs reproduction', 'area: forms']",open,DragonSkills99,
+issue,52645.0,2023-10-19,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,jeinygroove,
+issue,52277.0,2023-10-19,2023-10-31,"['area: core', 'core: control flow']",closed,swami-sanapathi,
+issue,52275.0,2023-10-18,,"['area: core', 'core: hydration']",open,dchicurel,
+issue,52267.0,2023-10-18,2023-10-18,[],closed,deprecated-guy,
+issue,52260.0,2023-10-18,2023-11-14,['area: aio'],closed,ice-blaze,
+issue,52256.0,2023-10-18,,"['area: core', 'core: host and host bindings']",open,oleh-kazban-gl,
+issue,52251.0,2023-10-17,2023-10-18,[],closed,nawlbergs,
+issue,52246.0,2023-10-17,2023-10-18,[],closed,brianpilati,
+issue,52244.0,2023-10-17,,['area: service-worker'],open,nsbarsukov,
+issue,52243.0,2023-10-17,2023-10-17,[],closed,dadadcko,
+issue,52241.0,2023-10-17,,['area: i18n'],open,spock123,
+issue,52242.0,2023-10-17,2023-10-18,"['area: i18n', 'security', 'state: has PR']",closed,mgszy,
+issue,52646.0,2023-10-16,,"['help wanted', 'area: adev', 'area: adev-infra']",open,dgp1130,
+issue,52230.0,2023-10-16,2023-10-16,[],closed,ledihildawan,
+issue,52224.0,2023-10-16,2023-10-16,"['state: has PR', 'area: compiler']",closed,sosukesuzuki,
+issue,52217.0,2023-10-15,2023-10-16,"['area: core', 'cross-cutting: types', 'core: reactivity', 'cross-cutting: signals']",closed,Harpush,
+issue,52213.0,2023-10-14,2023-10-14,[],closed,Razorshnegax018,
+issue,52210.0,2023-10-14,2023-10-15,"['area: core', 'cross-cutting: signals']",closed,indraraj26,
+issue,52201.0,2023-10-13,,['area: aio'],open,adriancuadrado,
+issue,52200.0,2023-10-13,2023-10-31,"['area: aio', 'area: server']",closed,aleesaan,
+issue,52196.0,2023-10-12,2023-10-14,"['area: core', 'core: defer']",closed,Jefftopia,
+issue,52193.0,2023-10-12,2023-11-14,"['feature', 'area: core', 'feature: votes required', 'cross-cutting: signals']",closed,birkskyum,
+issue,52190.0,2023-10-12,2023-10-12,[],closed,ahmed-dardery,
+issue,52187.0,2023-10-12,2023-10-17,['area: router'],closed,web-dave,
+issue,52185.0,2023-10-12,,"['hotlist: error messages', 'area: compiler', 'P3']",open,nikita-fuchs,
+issue,52184.0,2023-10-12,,"['area: core', 'core: control flow']",open,cexbrayat,
+issue,52182.0,2023-10-12,2023-10-15,['area: server'],closed,MickL,
+issue,52177.0,2023-10-12,,['area: i18n'],open,peteduel,
+issue,52176.0,2023-10-12,,"['area: core', 'core: reactivity', 'cross-cutting: signals']",open,e-oz,
+issue,52175.0,2023-10-12,2023-10-12,[],closed,GeorgeKnap,
+issue,52172.0,2023-10-11,,['area: service-worker'],open,angelaki,
+issue,52160.0,2023-10-11,,"['area: core', 'area: zones', 'core: hydration']",open,sod,
+issue,52154.0,2023-10-11,2023-10-11,[],closed,adriancuadrado,
+issue,52647.0,2023-10-10,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,9kubczas4,
+issue,52142.0,2023-10-10,2023-10-17,"['area: core', 'state: has PR', 'core: defer']",closed,devknoll,
+issue,52139.0,2023-10-10,2023-10-10,[],closed,MunMunMiao,
+issue,52135.0,2023-10-10,,['area: forms'],open,usarskyy,
+issue,52132.0,2023-10-10,2023-10-10,"['area: core', 'state: has PR', 'bug']",closed,joshuamorony,
+issue,52131.0,2023-10-10,2023-10-10,[],closed,aleksander351,
+issue,52130.0,2023-10-10,2023-10-11,"['area: core', 'area: dev-infra']",closed,crisbeto,
+issue,52128.0,2023-10-10,2023-10-10,[],closed,syoho,
+issue,52117.0,2023-10-09,2023-10-10,"['area: core', 'core: inputs / outputs', 'core: dynamic view creation']",closed,PowerSupply,
+issue,52113.0,2023-10-09,2023-10-10,"['area: core', 'state: has PR', 'bug', 'core: defer']",closed,ArielGueta,
+issue,52111.0,2023-10-09,2023-10-09,['area: forms'],closed,JayAhn2,
+issue,52108.0,2023-10-08,2023-10-11,"['area: router', 'needs: clarification']",closed,Erbenos,
+issue,52107.0,2023-10-08,,"['feature', 'area: core', 'compiler: template type-checking', 'core: control flow']",open,cexbrayat,
+issue,52106.0,2023-10-08,2023-10-10,"['area: router', 'state: has PR']",closed,Erbenos,
+issue,52104.0,2023-10-08,2023-10-08,[],closed,zezo2020alborhi,
+issue,52103.0,2023-10-08,2023-10-11,"['area: core', 'core: control flow']",closed,cexbrayat,
+issue,52102.0,2023-10-08,2023-10-10,"['area: core', 'state: has PR', 'P3', 'bug', 'core: control flow']",closed,cexbrayat,
+issue,52101.0,2023-10-08,2023-10-08,[],closed,b-rohan,
+issue,52100.0,2023-10-08,2023-10-08,[],closed,marcus-sa,
+issue,52098.0,2023-10-08,2023-10-08,[],closed,quanbetter,
+issue,52096.0,2023-10-07,2023-10-12,"['area: animations', 'state: has PR', 'animations: async']",closed,zip-fa,
+issue,52094.0,2023-10-07,2023-10-09,"['area: core', 'state: has PR', 'core: defer']",closed,zip-fa,
+issue,52648.0,2023-10-06,,"['help wanted', 'area: adev', 'area: adev-infra']",open,twerske,
+issue,52649.0,2023-10-06,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,leoortizz,
+issue,52086.0,2023-10-06,2023-10-08,"['area: animations', 'area: core', 'state: needs more investigation', 'core: defer']",closed,robertIsaac,
+issue,52082.0,2023-10-06,2023-10-06,[],closed,zip-fa,
+issue,52079.0,2023-10-06,2023-10-06,[],closed,Vic-rider,
+issue,52650.0,2023-10-06,,"['help wanted', 'area: adev', 'area: adev-infra']",open,9kubczas4,
+issue,52078.0,2023-10-06,2023-10-18,"['area: core', 'core: reactivity', 'cross-cutting: signals']",closed,zip-fa,
+issue,52077.0,2023-10-06,2023-10-09,"['state: has PR', 'area: compiler', 'compiler: template type-checking']",closed,ArielGueta,
+issue,52076.0,2023-10-06,2023-10-10,"['area: animations', 'hotlist: components team', 'state: has PR', 'animations: async']",closed,crisbeto,
+issue,52074.0,2023-10-06,2023-10-06,[],closed,aljaznuncic,
+issue,52072.0,2023-10-06,2023-10-09,"['area: core', 'state: has PR', 'bug']",closed,GuillaumeNury,
+issue,52070.0,2023-10-06,,['area: i18n'],open,projectX21,
+issue,52068.0,2023-10-06,2023-10-06,"['area: core', 'state: has PR', 'core: defer']",closed,Madhust,
+issue,52067.0,2023-10-06,2023-10-09,[],closed,JonWallsten,
+issue,52063.0,2023-10-05,,"['area: performance', 'area: zones']",open,eneajaho,
+issue,52651.0,2023-10-05,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,lacolaco,
+issue,52058.0,2023-10-05,2023-11-09,"['area: aio', 'P3', 'cross-cutting: standalone']",closed,phalgunv,
+issue,52055.0,2023-10-05,2023-10-05,[],closed,ansh218,
+issue,52052.0,2023-10-05,2023-10-10,"['area: compiler', 'core: control flow']",closed,garrettld,
+issue,52050.0,2023-10-05,,"['area: core', 'core: control flow']",open,wszydlak,
+issue,52652.0,2023-10-05,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,ExactlyNoSense,
+issue,52048.0,2023-10-05,,"['area: aio', 'good first issue']",open,Magnuti,
+issue,52044.0,2023-10-05,2023-10-05,[],closed,stefan-willems-beech,
+issue,52027.0,2023-10-04,,"['security', 'area: common/http']",open,phalgunv,
+issue,52026.0,2023-10-04,2023-10-04,[],closed,hiagodotme,
+issue,52018.0,2023-10-04,,"['area: aio', 'state: has PR']",open,sdedieu,
+issue,52015.0,2023-10-04,2023-10-04,[],closed,tkolok,
+issue,52014.0,2023-10-04,2023-10-04,"['state: has PR', 'bug', 'core: defer']",closed,eneajaho,
+issue,52013.0,2023-10-04,2023-10-04,[],closed,mebibou,
+issue,52012.0,2023-10-04,2023-10-04,"['area: core', 'state: has PR', 'core: defer']",closed,JeanMeche,
+issue,52011.0,2023-10-04,2023-10-10,['area: i18n'],closed,emeryao,
+issue,52008.0,2023-10-04,,['area: language-service'],open,mhamri,
+issue,52007.0,2023-10-04,2023-10-08,"['area: core', 'cross-cutting: signals']",closed,chrisrocco,
+issue,51995.0,2023-10-03,,['area: forms'],open,ssaso,
+issue,51993.0,2023-10-03,2023-10-04,"['area: core', 'state: has PR', 'bug', 'core: control flow']",closed,arambazamba,
+issue,51982.0,2023-10-02,2023-10-02,[],closed,spock123,
+issue,51976.0,2023-10-02,2023-10-02,[],closed,JKAngular,
+issue,51973.0,2023-10-01,2023-10-02,"['area: core', 'state: has PR', 'core: defer']",closed,robertIsaac,
+issue,51970.0,2023-10-01,2023-10-02,"['area: core', 'state: has PR', 'core: defer']",closed,elgreco247,
+issue,51967.0,2023-09-30,2023-10-01,[],closed,aialok,
+issue,51954.0,2023-09-29,2023-09-29,[],closed,Xriuk,
+issue,51953.0,2023-09-29,2023-09-29,[],closed,ram450-dot,
+issue,51949.0,2023-09-29,2023-10-31,"['area: core', 'core: reactivity', 'cross-cutting: signals']",closed,pcbowers,
+issue,51941.0,2023-09-28,2023-10-11,"['area: core', 'core: error handling']",closed,crutchcorn,
+issue,52653.0,2023-09-27,,"['area: adev', 'area: adev-infra']",open,AndrewKushnir,
+issue,51940.0,2023-09-27,,['area: forms'],open,Den-dp,
+issue,51938.0,2023-09-27,2023-10-04,[],closed,Nikovic,
+issue,51934.0,2023-09-27,2023-10-19,"['area: router', 'router: guards/resolvers', 'bug']",closed,Erbenos,
+issue,52654.0,2023-09-27,,"['help wanted', 'good first issue', 'area: adev', 'area: adev-infra']",open,atscott,
+issue,51930.0,2023-09-27,2023-09-27,[],closed,danilobatistaqueiroz,
+issue,51927.0,2023-09-27,2023-09-27,[],closed,alcaidio,
+issue,51924.0,2023-09-27,2023-09-27,"['area: aio', 'state: has PR']",closed,MrJithil,
+issue,51906.0,2023-09-26,2023-09-26,"['area: compiler', 'compiler: extended diagnostics']",closed,c-harding,
+issue,51904.0,2023-09-26,2023-09-26,[],closed,imvikasdeep,
+issue,51901.0,2023-09-26,2023-09-26,[],closed,avtaniket,
+issue,51888.0,2023-09-25,2023-09-26,"['area: core', 'core: di']",closed,JeanMeche,
+issue,51882.0,2023-09-23,,['area: common'],open,andrewalderson,
+issue,51881.0,2023-09-23,2023-09-27,"['area: aio', 'help wanted', 'state: has PR', 'good first issue', 'bug']",closed,ammarmashfj-sy,
+issue,51880.0,2023-09-23,,"['area: core', 'core: dynamic view creation']",open,krp12345,
+issue,51879.0,2023-09-23,,"['area: core', 'core: binding & interpolation']",open,examan,
+issue,51878.0,2023-09-22,,"['area: core', 'core: dynamic view creation']",open,cusher,
+issue,51869.0,2023-09-22,2023-09-22,[],closed,spock123,
+issue,51868.0,2023-09-22,2023-09-22,[],closed,undsoft,
+issue,51866.0,2023-09-22,,"['feature', 'area: forms', 'feature: votes required']",open,kemsky,
+issue,51861.0,2023-09-22,2023-09-22,[],closed,aleesaan,
+issue,51860.0,2023-09-22,2023-09-22,[],closed,alex5956,
+issue,51859.0,2023-09-22,2023-09-22,[],closed,sschoorens,
+issue,51853.0,2023-09-21,2023-09-22,[],closed,rkeithhill-keysight,
+issue,51852.0,2023-09-21,2023-09-22,[],closed,SebastianPodgajny,
+issue,51850.0,2023-09-21,2023-09-22,[],closed,wwjhu,
+issue,51849.0,2023-09-21,2023-09-21,[],closed,panda-byte,
+pull_request,,2023-11-21,,,open,angular-robot,53101.0
+pull_request,,2023-11-21,,,open,angular-robot,53100.0
+pull_request,,2023-11-21,,,open,aramirezj,53098.0
+pull_request,,2023-11-21,,,open,crisbeto,53097.0
+pull_request,,2023-11-21,2023-11-21,,closed,crisbeto,53093.0
+pull_request,,2023-11-21,,,open,rzeznik-kasia,53092.0
+pull_request,,2023-11-21,2023-11-21,,closed,crisbeto,53087.0
+pull_request,,2023-11-21,,,open,sasidharansd,53084.0
+pull_request,,2023-11-21,,,open,sasidharansd,53081.0
+pull_request,,2023-11-21,,,open,sasidharansd,53080.0
+pull_request,,2023-11-21,2023-11-21,,closed,sasidharansd,53079.0
+pull_request,,2023-11-20,,,open,jessicajaniuk,53076.0
+pull_request,,2023-11-20,,,open,JeanMeche,53072.0
+pull_request,,2023-11-20,2023-11-21,,closed,rzeznik-kasia,53071.0
+pull_request,,2023-11-20,,,open,eneajaho,53069.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53065.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53063.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53062.0
+pull_request,,2023-11-20,,,open,frodi-karlsson,53061.0
+pull_request,,2023-11-20,2023-11-20,,closed,jessicajaniuk,53058.0
+pull_request,,2023-11-20,2023-11-20,,closed,timdeschryver,53056.0
+pull_request,,2023-11-20,,,open,sasidharansd,53055.0
+pull_request,,2023-11-20,,,open,JeanMeche,53048.0
+pull_request,,2023-11-20,,,open,Digoro,53045.0
+pull_request,,2023-11-20,2023-11-20,,closed,zhysky,53040.0
+pull_request,,2023-11-20,,,open,isaacaggrey,53039.0
+pull_request,,2023-11-19,2023-11-20,,closed,JeanMeche,53035.0
+pull_request,,2023-11-18,,,open,arturovt,53033.0
+pull_request,,2023-11-18,2023-11-20,,closed,JeanMeche,53032.0
+pull_request,,2023-11-18,2023-11-20,,closed,arturovt,53031.0
+pull_request,,2023-11-18,,,open,aramirezj,53026.0
+pull_request,,2023-11-18,2023-11-20,,closed,Nicoss54,53025.0
+pull_request,,2023-11-17,,,open,atscott,53022.0
+pull_request,,2023-11-17,,,open,atscott,53021.0
+pull_request,,2023-11-17,2023-11-17,,closed,crisbeto,53012.0
+pull_request,,2023-11-17,,,open,atscott,53011.0
+pull_request,,2023-11-17,2023-11-20,,closed,jessicajaniuk,53010.0
+pull_request,,2023-11-17,2023-11-20,,closed,jessicajaniuk,53006.0
+pull_request,,2023-11-17,2023-11-20,,closed,atscott,53001.0
+pull_request,,2023-11-17,,,open,atscott,52999.0
+pull_request,,2023-11-17,2023-11-17,,closed,sasidharansd,52995.0
+pull_request,,2023-11-17,2023-11-20,,closed,crisbeto,52992.0
+pull_request,,2023-11-17,2023-11-20,,closed,arturovt,52991.0
+pull_request,,2023-11-17,2023-11-20,,closed,arturovt,52990.0
+pull_request,,2023-11-17,,,open,dylhunn,52985.0
+pull_request,,2023-11-16,2023-11-16,,closed,atscott,52983.0
+pull_request,,2023-11-16,2023-11-17,,closed,eneajaho,52982.0
+pull_request,,2023-11-16,,,open,sdedieu,52979.0
+pull_request,,2023-11-16,,,open,atscott,52977.0
+pull_request,,2023-11-16,2023-11-17,,closed,LukeSchlangen,52976.0
+pull_request,,2023-11-16,,,open,atscott,52975.0
+pull_request,,2023-11-16,2023-11-16,,closed,AndrewKushnir,52973.0
+pull_request,,2023-11-16,2023-11-20,,closed,AnthonyFr75,52972.0
+pull_request,,2023-11-16,2023-11-16,,closed,jessicajaniuk,52971.0
+pull_request,,2023-11-16,,,open,sasidharansd,52970.0
+pull_request,,2023-11-16,,,open,sdedieu,52966.0
+pull_request,,2023-11-16,,,open,sdedieu,52964.0
+pull_request,,2023-11-16,2023-11-20,,closed,crisbeto,52958.0
+pull_request,,2023-11-16,,,open,akib1997,52956.0
+pull_request,,2023-11-21,,,open,angular-robot,53101.0
+pull_request,,2023-11-21,,,open,angular-robot,53100.0
+pull_request,,2023-11-21,,,open,aramirezj,53098.0
+pull_request,,2023-11-21,,,open,crisbeto,53097.0
+pull_request,,2023-11-21,2023-11-21,,closed,crisbeto,53093.0
+pull_request,,2023-11-21,,,open,rzeznik-kasia,53092.0
+pull_request,,2023-11-21,2023-11-21,,closed,crisbeto,53087.0
+pull_request,,2023-11-21,,,open,sasidharansd,53084.0
+pull_request,,2023-11-21,,,open,sasidharansd,53081.0
+pull_request,,2023-11-21,,,open,sasidharansd,53080.0
+pull_request,,2023-11-21,2023-11-21,,closed,sasidharansd,53079.0
+pull_request,,2023-11-20,,,open,jessicajaniuk,53076.0
+pull_request,,2023-11-20,,,open,JeanMeche,53072.0
+pull_request,,2023-11-20,2023-11-21,,closed,rzeznik-kasia,53071.0
+pull_request,,2023-11-20,,,open,eneajaho,53069.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53065.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53063.0
+pull_request,,2023-11-20,2023-11-20,,closed,AndrewKushnir,53062.0
+pull_request,,2023-11-20,,,open,frodi-karlsson,53061.0
+pull_request,,2023-11-20,2023-11-20,,closed,jessicajaniuk,53058.0
+pull_request,,2023-11-20,2023-11-20,,closed,timdeschryver,53056.0
+pull_request,,2023-11-20,,,open,sasidharansd,53055.0
+pull_request,,2023-11-20,,,open,JeanMeche,53048.0
+pull_request,,2023-11-20,,,open,Digoro,53045.0
+pull_request,,2023-11-20,2023-11-20,,closed,zhysky,53040.0
+pull_request,,2023-11-20,,,open,isaacaggrey,53039.0
+pull_request,,2023-11-19,2023-11-20,,closed,JeanMeche,53035.0
+pull_request,,2023-11-18,,,open,arturovt,53033.0
+pull_request,,2023-11-18,2023-11-20,,closed,JeanMeche,53032.0
+pull_request,,2023-11-18,2023-11-20,,closed,arturovt,53031.0
+pull_request,,2023-11-18,,,open,aramirezj,53026.0
+pull_request,,2023-11-18,2023-11-20,,closed,Nicoss54,53025.0
+pull_request,,2023-11-17,,,open,atscott,53022.0
+pull_request,,2023-11-17,,,open,atscott,53021.0
+pull_request,,2023-11-17,2023-11-17,,closed,crisbeto,53012.0
+pull_request,,2023-11-17,,,open,atscott,53011.0
+pull_request,,2023-11-17,2023-11-20,,closed,jessicajaniuk,53010.0
+pull_request,,2023-11-17,2023-11-20,,closed,jessicajaniuk,53006.0
+pull_request,,2023-11-17,2023-11-20,,closed,atscott,53001.0
+pull_request,,2023-11-17,,,open,atscott,52999.0
+pull_request,,2023-11-17,2023-11-17,,closed,sasidharansd,52995.0
+pull_request,,2023-11-17,2023-11-20,,closed,crisbeto,52992.0
+pull_request,,2023-11-17,2023-11-20,,closed,arturovt,52991.0
+pull_request,,2023-11-17,2023-11-20,,closed,arturovt,52990.0
+pull_request,,2023-11-17,,,open,dylhunn,52985.0
+pull_request,,2023-11-16,2023-11-16,,closed,atscott,52983.0
+pull_request,,2023-11-16,2023-11-17,,closed,eneajaho,52982.0
+pull_request,,2023-11-16,,,open,sdedieu,52979.0
+pull_request,,2023-11-16,,,open,atscott,52977.0
+pull_request,,2023-11-16,2023-11-17,,closed,LukeSchlangen,52976.0
+pull_request,,2023-11-16,,,open,atscott,52975.0
+pull_request,,2023-11-16,2023-11-16,,closed,AndrewKushnir,52973.0
+pull_request,,2023-11-16,2023-11-20,,closed,AnthonyFr75,52972.0
+pull_request,,2023-11-16,2023-11-16,,closed,jessicajaniuk,52971.0
+pull_request,,2023-11-16,,,open,sasidharansd,52970.0
+pull_request,,2023-11-16,,,open,sdedieu,52966.0
+pull_request,,2023-11-16,,,open,sdedieu,52964.0
+pull_request,,2023-11-16,2023-11-20,,closed,crisbeto,52958.0
+pull_request,,2023-11-16,,,open,akib1997,52956.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52943.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52942.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52941.0
+pull_request,,2023-11-15,2023-11-16,,closed,jessicajaniuk,52939.0
+pull_request,,2023-11-15,2023-11-15,,closed,dgp1130,52938.0
+pull_request,,2023-11-15,2023-11-15,,closed,crisbeto,52935.0
+pull_request,,2023-11-15,2023-11-20,,closed,leonelvsc,52934.0
+pull_request,,2023-11-15,2023-11-16,,closed,crisbeto,52931.0
+pull_request,,2023-11-15,,,open,alxhub,52926.0
+pull_request,,2023-11-15,,,open,lsst25,52923.0
+pull_request,,2023-11-15,2023-11-16,,closed,Ahmed-Hakeem,52919.0
+pull_request,,2023-11-15,,,open,AndrewKushnir,52918.0
+pull_request,,2023-11-14,2023-11-15,,closed,AndrewKushnir,52916.0
+pull_request,,2023-11-14,2023-11-14,,closed,aramirezj,52914.0
+pull_request,,2023-11-14,,,open,CondensedMilk7,52910.0
+pull_request,,2023-11-14,,,open,sasidharansd,52908.0
+pull_request,,2023-11-14,2023-11-14,,closed,akib1997,52907.0
+pull_request,,2023-11-14,,,open,SahulKola,52905.0
+pull_request,,2023-11-14,2023-11-14,,closed,jsuryakt,52904.0
+pull_request,,2023-11-14,2023-11-15,,closed,jessicajaniuk,52903.0
+pull_request,,2023-11-14,,,open,JeevanMahesha,52902.0
+pull_request,,2023-11-14,,,open,SahulKola,52901.0
+pull_request,,2023-11-14,2023-11-14,,closed,SahulKola,52899.0
+pull_request,,2023-11-14,,,open,JeanMeche,52893.0
+pull_request,,2023-11-14,2023-11-14,,closed,SahulKola,52887.0
+pull_request,,2023-11-14,,,open,prasantht96,52882.0
+pull_request,,2023-11-14,,,open,AndrewKushnir,52881.0
+pull_request,,2023-11-14,2023-11-14,,closed,prasantht96,52880.0
+pull_request,,2023-11-13,2023-11-13,,closed,MarkTechson,52878.0
+pull_request,,2023-11-13,2023-11-14,,closed,atscott,52875.0
+pull_request,,2023-11-13,2023-11-14,,closed,tomastrajan,52874.0
+pull_request,,2023-11-13,2023-11-13,,closed,josephperrott,52873.0
+pull_request,,2023-11-13,2023-11-13,,closed,axeleguia,52872.0
+pull_request,,2023-11-13,2023-11-13,,closed,jessicajaniuk,52869.0
+pull_request,,2023-11-13,,,open,timonkrebs,52868.0
+pull_request,,2023-11-13,,,open,JeanMeche,52867.0
+pull_request,,2023-11-13,2023-11-14,,closed,atscott,52866.0
+pull_request,,2023-11-13,2023-11-13,,closed,akib1997,52865.0
+pull_request,,2023-11-13,,,open,sasidharansd,52864.0
+pull_request,,2023-11-13,2023-11-13,,closed,jessicajaniuk,52863.0
+pull_request,,2023-11-13,2023-11-13,,closed,JeanMeche,52862.0
+pull_request,,2023-11-13,2023-11-13,,closed,rbaliwal00,52856.0
+pull_request,,2023-11-13,,,open,sasidharansd,52851.0
+pull_request,,2023-11-13,2023-11-14,,closed,sasidharansd,52850.0
+pull_request,,2023-11-13,,,open,AlexanderMelde,52849.0
+pull_request,,2023-11-13,,,open,sdedieu,52848.0
+pull_request,,2023-11-12,2023-11-13,,closed,JeanMeche,52840.0
+pull_request,,2023-11-12,2023-11-13,,closed,oliv37,52838.0
+pull_request,,2023-11-12,2023-11-13,,closed,JGhignatti,52831.0
+pull_request,,2023-11-12,2023-11-13,,closed,sasidharansd,52829.0
+pull_request,,2023-11-12,,,open,ranma42,52826.0
+pull_request,,2023-11-11,,,open,dnlrbz,52821.0
+pull_request,,2023-11-11,2023-11-11,,closed,dnlrbz,52820.0
+pull_request,,2023-11-11,,,open,rlmestre,52816.0
+pull_request,,2023-11-11,2023-11-13,,closed,dmmishchenko,52807.0
+pull_request,,2023-11-11,,,open,sdedieu,52806.0
+pull_request,,2023-11-11,2023-11-21,,closed,angular-robot,52804.0
+pull_request,,2023-11-11,2023-11-14,,closed,swami-sanapathi,52803.0
+pull_request,,2023-11-11,,,open,sasidharansd,52802.0
+pull_request,,2023-11-10,2023-11-13,,closed,sasidharansd,52798.0
+pull_request,,2023-11-10,2023-11-13,,closed,jessicajaniuk,52796.0
+pull_request,,2023-11-10,2023-11-13,,closed,ice-blaze,52795.0
+pull_request,,2023-11-10,2023-11-13,,closed,SamEdwardsWEG,52792.0
+pull_request,,2023-11-10,2023-11-10,,closed,AleksanderBodurri,52791.0
+pull_request,,2023-11-10,,,open,azeek21,52790.0
+pull_request,,2023-11-10,2023-11-10,,closed,VasileDurlesteanu,52783.0
+pull_request,,2023-11-10,,,open,Dhoni77,52782.0
+pull_request,,2023-11-10,,,open,amilamen,52775.0
+pull_request,,2023-11-10,2023-11-13,,closed,AleksanderBodurri,52774.0
+pull_request,,2023-11-10,2023-11-13,,closed,sdedieu,52772.0
+pull_request,,2023-11-09,2023-11-13,,closed,jessicajaniuk,52763.0
+pull_request,,2023-11-09,2023-11-21,,closed,dgp1130,52762.0
+pull_request,,2023-11-09,,,open,lucasluizss,52761.0
+pull_request,,2023-11-09,2023-11-10,,closed,dgp1130,52759.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52755.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52754.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52753.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52752.0
+pull_request,,2023-11-09,,,open,JeevanMahesha,52748.0
+pull_request,,2023-11-09,,,open,JeevanMahesha,52745.0
+pull_request,,2023-11-09,2023-11-09,,closed,Gortyser,52744.0
+pull_request,,2023-11-09,2023-11-09,,closed,JeevanMahesha,52743.0
+pull_request,,2023-11-09,2023-11-09,,closed,pkozlowski-opensource,52742.0
+pull_request,,2023-11-09,2023-11-13,,closed,nektobit,52738.0
+pull_request,,2023-11-09,2023-11-09,,closed,nektobit,52737.0
+pull_request,,2023-11-09,2023-11-09,,closed,nektobit,52736.0
+pull_request,,2023-11-09,2023-11-13,,closed,Isaccseven,52733.0
+pull_request,,2023-11-09,2023-11-09,,closed,crisbeto,52732.0
+pull_request,,2023-11-09,2023-11-09,,closed,RealOFF,52731.0
+pull_request,,2023-11-09,2023-11-09,,closed,cexbrayat,52727.0
+pull_request,,2023-11-09,2023-11-17,,closed,crisbeto,52726.0
+pull_request,,2023-11-09,2023-11-13,,closed,florent1933,52724.0
+pull_request,,2023-11-09,2023-11-09,,closed,sasidharansd,52721.0
+pull_request,,2023-11-09,,,open,aravindb26,52718.0
+pull_request,,2023-11-09,2023-11-13,,closed,robin3317,52717.0
+pull_request,,2023-11-09,,,open,Dhoni77,52716.0
+pull_request,,2023-11-09,2023-11-09,,closed,Rajendran-Balaji,52715.0
+pull_request,,2023-11-09,2023-11-09,,closed,patHyatt,52714.0
+pull_request,,2023-11-09,,,open,nelsongutidev,52712.0
+pull_request,,2023-11-09,2023-11-09,,closed,nelsongutidev,52711.0
+pull_request,,2023-11-09,2023-11-09,,closed,AndrewKushnir,52708.0
+pull_request,,2023-11-08,,,open,mattezell,52704.0
+pull_request,,2023-11-08,,,open,jelbourn,52703.0
+pull_request,,2023-11-08,2023-11-08,,closed,mattezell,52699.0
+pull_request,,2023-11-08,2023-11-10,,closed,mmalerba,52698.0
+pull_request,,2023-11-08,2023-11-09,,closed,pkozlowski-opensource,52697.0
+pull_request,,2023-11-08,2023-11-08,,closed,jessicajaniuk,52696.0
+pull_request,,2023-11-08,2023-11-08,,closed,jessicajaniuk,52694.0
+pull_request,,2023-11-08,2023-11-09,,closed,sasidharansd,52693.0
+pull_request,,2023-11-08,2023-11-08,,closed,atscott,52691.0
+pull_request,,2023-11-08,2023-11-08,,closed,crisbeto,52689.0
+pull_request,,2023-11-08,2023-11-14,,closed,csvn,52688.0
+pull_request,,2023-11-08,2023-11-09,,closed,cexbrayat,52687.0
+pull_request,,2023-11-08,2023-11-09,,closed,csvn,52685.0
+pull_request,,2023-11-08,2023-11-08,,closed,crisbeto,52683.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52943.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52942.0
+pull_request,,2023-11-15,2023-11-15,,closed,jessicajaniuk,52941.0
+pull_request,,2023-11-15,2023-11-16,,closed,jessicajaniuk,52939.0
+pull_request,,2023-11-15,2023-11-15,,closed,dgp1130,52938.0
+pull_request,,2023-11-15,2023-11-15,,closed,crisbeto,52935.0
+pull_request,,2023-11-15,2023-11-20,,closed,leonelvsc,52934.0
+pull_request,,2023-11-15,2023-11-16,,closed,crisbeto,52931.0
+pull_request,,2023-11-15,,,open,alxhub,52926.0
+pull_request,,2023-11-15,,,open,lsst25,52923.0
+pull_request,,2023-11-15,2023-11-16,,closed,Ahmed-Hakeem,52919.0
+pull_request,,2023-11-15,,,open,AndrewKushnir,52918.0
+pull_request,,2023-11-14,2023-11-15,,closed,AndrewKushnir,52916.0
+pull_request,,2023-11-14,2023-11-14,,closed,aramirezj,52914.0
+pull_request,,2023-11-14,,,open,CondensedMilk7,52910.0
+pull_request,,2023-11-14,,,open,sasidharansd,52908.0
+pull_request,,2023-11-14,2023-11-14,,closed,akib1997,52907.0
+pull_request,,2023-11-14,,,open,SahulKola,52905.0
+pull_request,,2023-11-14,2023-11-14,,closed,jsuryakt,52904.0
+pull_request,,2023-11-14,2023-11-15,,closed,jessicajaniuk,52903.0
+pull_request,,2023-11-14,,,open,JeevanMahesha,52902.0
+pull_request,,2023-11-14,,,open,SahulKola,52901.0
+pull_request,,2023-11-14,2023-11-14,,closed,SahulKola,52899.0
+pull_request,,2023-11-14,,,open,JeanMeche,52893.0
+pull_request,,2023-11-14,2023-11-14,,closed,SahulKola,52887.0
+pull_request,,2023-11-14,,,open,prasantht96,52882.0
+pull_request,,2023-11-14,,,open,AndrewKushnir,52881.0
+pull_request,,2023-11-14,2023-11-14,,closed,prasantht96,52880.0
+pull_request,,2023-11-13,2023-11-13,,closed,MarkTechson,52878.0
+pull_request,,2023-11-13,2023-11-14,,closed,atscott,52875.0
+pull_request,,2023-11-13,2023-11-14,,closed,tomastrajan,52874.0
+pull_request,,2023-11-13,2023-11-13,,closed,josephperrott,52873.0
+pull_request,,2023-11-13,2023-11-13,,closed,axeleguia,52872.0
+pull_request,,2023-11-13,2023-11-13,,closed,jessicajaniuk,52869.0
+pull_request,,2023-11-13,,,open,timonkrebs,52868.0
+pull_request,,2023-11-13,,,open,JeanMeche,52867.0
+pull_request,,2023-11-13,2023-11-14,,closed,atscott,52866.0
+pull_request,,2023-11-13,2023-11-13,,closed,akib1997,52865.0
+pull_request,,2023-11-13,,,open,sasidharansd,52864.0
+pull_request,,2023-11-13,2023-11-13,,closed,jessicajaniuk,52863.0
+pull_request,,2023-11-13,2023-11-13,,closed,JeanMeche,52862.0
+pull_request,,2023-11-13,2023-11-13,,closed,rbaliwal00,52856.0
+pull_request,,2023-11-13,,,open,sasidharansd,52851.0
+pull_request,,2023-11-13,2023-11-14,,closed,sasidharansd,52850.0
+pull_request,,2023-11-13,,,open,AlexanderMelde,52849.0
+pull_request,,2023-11-13,,,open,sdedieu,52848.0
+pull_request,,2023-11-12,2023-11-13,,closed,JeanMeche,52840.0
+pull_request,,2023-11-12,2023-11-13,,closed,oliv37,52838.0
+pull_request,,2023-11-12,2023-11-13,,closed,JGhignatti,52831.0
+pull_request,,2023-11-12,2023-11-13,,closed,sasidharansd,52829.0
+pull_request,,2023-11-12,,,open,ranma42,52826.0
+pull_request,,2023-11-11,,,open,dnlrbz,52821.0
+pull_request,,2023-11-11,2023-11-11,,closed,dnlrbz,52820.0
+pull_request,,2023-11-11,,,open,rlmestre,52816.0
+pull_request,,2023-11-11,2023-11-13,,closed,dmmishchenko,52807.0
+pull_request,,2023-11-11,,,open,sdedieu,52806.0
+pull_request,,2023-11-11,2023-11-21,,closed,angular-robot,52804.0
+pull_request,,2023-11-11,2023-11-14,,closed,swami-sanapathi,52803.0
+pull_request,,2023-11-11,,,open,sasidharansd,52802.0
+pull_request,,2023-11-10,2023-11-13,,closed,sasidharansd,52798.0
+pull_request,,2023-11-10,2023-11-13,,closed,jessicajaniuk,52796.0
+pull_request,,2023-11-10,2023-11-13,,closed,ice-blaze,52795.0
+pull_request,,2023-11-10,2023-11-13,,closed,SamEdwardsWEG,52792.0
+pull_request,,2023-11-10,2023-11-10,,closed,AleksanderBodurri,52791.0
+pull_request,,2023-11-10,,,open,azeek21,52790.0
+pull_request,,2023-11-10,2023-11-10,,closed,VasileDurlesteanu,52783.0
+pull_request,,2023-11-10,,,open,Dhoni77,52782.0
+pull_request,,2023-11-10,,,open,amilamen,52775.0
+pull_request,,2023-11-10,2023-11-13,,closed,AleksanderBodurri,52774.0
+pull_request,,2023-11-10,2023-11-13,,closed,sdedieu,52772.0
+pull_request,,2023-11-09,2023-11-13,,closed,jessicajaniuk,52763.0
+pull_request,,2023-11-09,2023-11-21,,closed,dgp1130,52762.0
+pull_request,,2023-11-09,,,open,lucasluizss,52761.0
+pull_request,,2023-11-09,2023-11-10,,closed,dgp1130,52759.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52755.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52754.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52753.0
+pull_request,,2023-11-09,2023-11-09,,closed,jessicajaniuk,52752.0
+pull_request,,2023-11-09,,,open,JeevanMahesha,52748.0
+pull_request,,2023-11-09,,,open,JeevanMahesha,52745.0
+pull_request,,2023-11-09,2023-11-09,,closed,Gortyser,52744.0
+pull_request,,2023-11-09,2023-11-09,,closed,JeevanMahesha,52743.0
+pull_request,,2023-11-09,2023-11-09,,closed,pkozlowski-opensource,52742.0
+pull_request,,2023-11-09,2023-11-13,,closed,nektobit,52738.0
+pull_request,,2023-11-09,2023-11-09,,closed,nektobit,52737.0
+pull_request,,2023-11-09,2023-11-09,,closed,nektobit,52736.0
+pull_request,,2023-11-09,2023-11-13,,closed,Isaccseven,52733.0
+pull_request,,2023-11-09,2023-11-09,,closed,crisbeto,52732.0
+pull_request,,2023-11-09,2023-11-09,,closed,RealOFF,52731.0
+pull_request,,2023-11-09,2023-11-09,,closed,cexbrayat,52727.0
+pull_request,,2023-11-09,2023-11-17,,closed,crisbeto,52726.0
+pull_request,,2023-11-09,2023-11-13,,closed,florent1933,52724.0
+pull_request,,2023-11-09,2023-11-09,,closed,sasidharansd,52721.0
+pull_request,,2023-11-09,,,open,aravindb26,52718.0
+pull_request,,2023-11-09,2023-11-13,,closed,robin3317,52717.0
+pull_request,,2023-11-09,,,open,Dhoni77,52716.0
+pull_request,,2023-11-09,2023-11-09,,closed,Rajendran-Balaji,52715.0
+pull_request,,2023-11-09,2023-11-09,,closed,patHyatt,52714.0
+pull_request,,2023-11-09,,,open,nelsongutidev,52712.0
+pull_request,,2023-11-09,2023-11-09,,closed,nelsongutidev,52711.0
+pull_request,,2023-11-09,2023-11-09,,closed,AndrewKushnir,52708.0
+pull_request,,2023-11-08,,,open,mattezell,52704.0
+pull_request,,2023-11-08,,,open,jelbourn,52703.0
+pull_request,,2023-11-08,2023-11-08,,closed,mattezell,52699.0
+pull_request,,2023-11-08,2023-11-10,,closed,mmalerba,52698.0
+pull_request,,2023-11-08,2023-11-09,,closed,pkozlowski-opensource,52697.0
+pull_request,,2023-11-08,2023-11-08,,closed,jessicajaniuk,52696.0
+pull_request,,2023-11-08,2023-11-08,,closed,jessicajaniuk,52694.0
+pull_request,,2023-11-08,2023-11-09,,closed,sasidharansd,52693.0
+pull_request,,2023-11-08,2023-11-08,,closed,atscott,52691.0
+pull_request,,2023-11-08,2023-11-08,,closed,crisbeto,52689.0
+pull_request,,2023-11-08,2023-11-14,,closed,csvn,52688.0
+pull_request,,2023-11-08,2023-11-09,,closed,cexbrayat,52687.0
+pull_request,,2023-11-08,2023-11-09,,closed,csvn,52685.0
+pull_request,,2023-11-08,2023-11-08,,closed,crisbeto,52683.0
+pull_request,,2023-11-08,2023-11-09,,closed,cexbrayat,52678.0
+pull_request,,2023-11-08,2023-11-09,,closed,lamaglio,52677.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52676.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52675.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52674.0
+pull_request,,2023-11-08,2023-11-09,,closed,technbuzz,52673.0
+pull_request,,2023-11-08,2023-11-09,,closed,JeevanMahesha,52668.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52635.0
+pull_request,,2023-11-08,2023-11-08,,closed,cexbrayat,52632.0
+pull_request,,2023-11-08,2023-11-08,,closed,lamaglio,52631.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52630.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52629.0
+pull_request,,2023-11-08,,,open,AhsanAyaz,52628.0
+pull_request,,2023-11-08,,,open,oriollpz,52627.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52626.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52625.0
+pull_request,,2023-11-08,2023-11-09,,closed,raghavkanwal,52619.0
+pull_request,,2023-11-08,2023-11-08,,closed,thangadurai000,52617.0
+pull_request,,2023-11-08,,,open,zhuangzhuang,52613.0
+pull_request,,2023-11-07,2023-11-09,,closed,Ryth-cs,52608.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52607.0
+pull_request,,2023-11-07,,,open,atscott,52606.0
+pull_request,,2023-11-07,2023-11-08,,closed,saharis9988,52605.0
+pull_request,,2023-11-07,,,open,AbdulazizAlzamil,52604.0
+pull_request,,2023-11-07,2023-11-09,,closed,AnthonyFr75,52602.0
+pull_request,,2023-11-07,,,open,happytrip,52601.0
+pull_request,,2023-11-07,2023-11-08,,closed,jessicajaniuk,52597.0
+pull_request,,2023-11-07,2023-11-08,,closed,jessicajaniuk,52592.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52590.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52589.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52588.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52587.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52586.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52585.0
+pull_request,,2023-11-07,2023-11-09,,closed,SamVerschueren,52580.0
+pull_request,,2023-11-07,2023-11-09,,closed,pepelsbey,52578.0
+pull_request,,2023-11-07,,,open,pablopaul,52577.0
+pull_request,,2023-11-07,2023-11-09,,closed,crisbeto,52572.0
+pull_request,,2023-11-07,2023-11-13,,closed,JeanMeche,52570.0
+pull_request,,2023-11-07,2023-11-14,,closed,prasantht96,52569.0
+pull_request,,2023-11-07,2023-11-14,,closed,prasantht96,52568.0
+pull_request,,2023-11-07,2023-11-07,,closed,prasantht96,52567.0
+pull_request,,2023-11-07,2023-11-07,,closed,atscott,52558.0
+pull_request,,2023-11-07,2023-11-07,,closed,atscott,52557.0
+pull_request,,2023-11-06,2023-11-06,,closed,AleksanderBodurri,52546.0
+pull_request,,2023-11-06,2023-11-11,,closed,angular-robot,52545.0
+pull_request,,2023-11-06,,,open,angular-robot,52544.0
+pull_request,,2023-11-06,2023-11-21,,closed,angular-robot,52543.0
+pull_request,,2023-11-06,2023-11-09,,closed,atscott,52541.0
+pull_request,,2023-11-06,2023-11-06,,closed,josephperrott,52536.0
+pull_request,,2023-11-06,2023-11-06,,closed,twerske,52535.0
+pull_request,,2023-11-06,2023-11-06,,closed,twerske,52534.0
+pull_request,,2023-11-06,2023-11-06,,closed,atscott,52532.0
+pull_request,,2023-11-06,2023-11-06,,closed,jessicajaniuk,52531.0
+pull_request,,2023-11-06,2023-11-06,,closed,atscott,52530.0
+pull_request,,2023-11-06,2023-11-06,,closed,jessicajaniuk,52529.0
+pull_request,,2023-11-06,2023-11-06,,closed,crisbeto,52525.0
+pull_request,,2023-11-05,2023-11-08,,closed,lucasluizss,52519.0
+pull_request,,2023-11-05,2023-11-06,,closed,crisbeto,52515.0
+pull_request,,2023-11-05,2023-11-05,,closed,LayZeeDK,52514.0
+pull_request,,2023-11-03,2023-11-16,,closed,arturovt,52512.0
+pull_request,,2023-11-03,2023-11-08,,closed,swami-sanapathi,52511.0
+pull_request,,2023-11-03,,,open,JeanMeche,52510.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52508.0
+pull_request,,2023-11-03,2023-11-03,,closed,alxhub,52507.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52506.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52505.0
+pull_request,,2023-11-03,2023-11-03,,closed,crisbeto,52504.0
+pull_request,,2023-11-03,2023-11-06,,closed,mmalerba,52503.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52501.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52500.0
+pull_request,,2023-11-02,,,open,jelbourn,52499.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52498.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52497.0
+pull_request,,2023-11-02,2023-11-13,,closed,atscott,52495.0
+pull_request,,2023-11-02,2023-11-03,,closed,atscott,52493.0
+pull_request,,2023-11-02,2023-11-03,,closed,JiaLiPassion,52492.0
+pull_request,,2023-11-02,,,open,devknoll,52491.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52490.0
+pull_request,,2023-11-02,2023-11-04,,closed,AleksanderBodurri,52489.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52488.0
+pull_request,,2023-11-01,2023-11-02,,closed,alxhub,52487.0
+pull_request,,2023-11-01,2023-11-02,,closed,atcastle,52486.0
+pull_request,,2023-11-01,2023-11-02,,closed,clydin,52485.0
+pull_request,,2023-11-01,2023-11-01,,closed,alxhub,52484.0
+pull_request,,2023-11-01,2023-11-02,,closed,arturovt,52482.0
+pull_request,,2023-11-01,2023-11-02,,closed,jelbourn,52481.0
+pull_request,,2023-11-01,2023-11-02,,closed,jelbourn,52480.0
+pull_request,,2023-11-01,2023-11-06,,closed,dylhunn,52479.0
+pull_request,,2023-10-31,,,open,arturovt,52478.0
+pull_request,,2023-10-31,2023-11-02,,closed,atscott,52476.0
+pull_request,,2023-10-31,2023-11-08,,closed,atscott,52475.0
+pull_request,,2023-10-31,2023-10-31,,closed,alxhub,52474.0
+pull_request,,2023-10-31,2023-11-01,,closed,alxhub,52473.0
+pull_request,,2023-10-31,2023-11-02,,closed,jelbourn,52472.0
+pull_request,,2023-10-31,,,open,IgorVaryvoda,52468.0
+pull_request,,2023-10-31,2023-11-02,,closed,pkozlowski-opensource,52465.0
+pull_request,,2023-10-31,2023-11-02,,closed,dylhunn,52464.0
+pull_request,,2023-10-30,2023-10-31,,closed,jelbourn,52462.0
+pull_request,,2023-10-30,2023-10-31,,closed,atcastle,52459.0
+pull_request,,2023-10-30,2023-10-31,,closed,AleksanderBodurri,52458.0
+pull_request,,2023-10-30,2023-10-31,,closed,jessicajaniuk,52457.0
+pull_request,,2023-10-30,2023-10-31,,closed,MarkTechson,52456.0
+pull_request,,2023-10-30,,,open,atscott,52455.0
+pull_request,,2023-10-30,,,open,JoostK,52453.0
+pull_request,,2023-10-30,2023-10-31,,closed,JeanMeche,52452.0
+pull_request,,2023-10-30,,,open,josephperrott,52451.0
+pull_request,,2023-10-30,2023-10-31,,closed,AleksanderBodurri,52450.0
+pull_request,,2023-10-30,2023-10-31,,closed,crisbeto,52449.0
+pull_request,,2023-10-30,2023-10-31,,closed,alan-agius4,52448.0
+pull_request,,2023-10-30,2023-10-31,,closed,crisbeto,52447.0
+pull_request,,2023-10-30,,,open,angular-robot,52445.0
+pull_request,,2023-10-30,2023-10-31,,closed,cexbrayat,52444.0
+pull_request,,2023-10-29,2023-10-31,,closed,Mayureshd-18,52442.0
+pull_request,,2023-10-29,,,open,JeanMeche,52441.0
+pull_request,,2023-11-08,2023-11-09,,closed,cexbrayat,52678.0
+pull_request,,2023-11-08,2023-11-09,,closed,lamaglio,52677.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52676.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52675.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52674.0
+pull_request,,2023-11-08,2023-11-09,,closed,technbuzz,52673.0
+pull_request,,2023-11-08,2023-11-09,,closed,JeevanMahesha,52668.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52635.0
+pull_request,,2023-11-08,2023-11-08,,closed,cexbrayat,52632.0
+pull_request,,2023-11-08,2023-11-08,,closed,lamaglio,52631.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52630.0
+pull_request,,2023-11-08,2023-11-08,,closed,alxhub,52629.0
+pull_request,,2023-11-08,,,open,AhsanAyaz,52628.0
+pull_request,,2023-11-08,,,open,oriollpz,52627.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52626.0
+pull_request,,2023-11-08,2023-11-08,,closed,pkozlowski-opensource,52625.0
+pull_request,,2023-11-08,2023-11-09,,closed,raghavkanwal,52619.0
+pull_request,,2023-11-08,2023-11-08,,closed,thangadurai000,52617.0
+pull_request,,2023-11-08,,,open,zhuangzhuang,52613.0
+pull_request,,2023-11-07,2023-11-09,,closed,Ryth-cs,52608.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52607.0
+pull_request,,2023-11-07,,,open,atscott,52606.0
+pull_request,,2023-11-07,2023-11-08,,closed,saharis9988,52605.0
+pull_request,,2023-11-07,,,open,AbdulazizAlzamil,52604.0
+pull_request,,2023-11-07,2023-11-09,,closed,AnthonyFr75,52602.0
+pull_request,,2023-11-07,,,open,happytrip,52601.0
+pull_request,,2023-11-07,2023-11-08,,closed,jessicajaniuk,52597.0
+pull_request,,2023-11-07,2023-11-08,,closed,jessicajaniuk,52592.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52590.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52589.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52588.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52587.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52586.0
+pull_request,,2023-11-07,2023-11-09,,closed,sasidharansd,52585.0
+pull_request,,2023-11-07,2023-11-09,,closed,SamVerschueren,52580.0
+pull_request,,2023-11-07,2023-11-09,,closed,pepelsbey,52578.0
+pull_request,,2023-11-07,,,open,pablopaul,52577.0
+pull_request,,2023-11-07,2023-11-09,,closed,crisbeto,52572.0
+pull_request,,2023-11-07,2023-11-13,,closed,JeanMeche,52570.0
+pull_request,,2023-11-07,2023-11-14,,closed,prasantht96,52569.0
+pull_request,,2023-11-07,2023-11-14,,closed,prasantht96,52568.0
+pull_request,,2023-11-07,2023-11-07,,closed,prasantht96,52567.0
+pull_request,,2023-11-07,2023-11-07,,closed,atscott,52558.0
+pull_request,,2023-11-07,2023-11-07,,closed,atscott,52557.0
+pull_request,,2023-11-06,2023-11-06,,closed,AleksanderBodurri,52546.0
+pull_request,,2023-11-06,2023-11-11,,closed,angular-robot,52545.0
+pull_request,,2023-11-06,,,open,angular-robot,52544.0
+pull_request,,2023-11-06,2023-11-21,,closed,angular-robot,52543.0
+pull_request,,2023-11-06,2023-11-09,,closed,atscott,52541.0
+pull_request,,2023-11-06,2023-11-06,,closed,josephperrott,52536.0
+pull_request,,2023-11-06,2023-11-06,,closed,twerske,52535.0
+pull_request,,2023-11-06,2023-11-06,,closed,twerske,52534.0
+pull_request,,2023-11-06,2023-11-06,,closed,atscott,52532.0
+pull_request,,2023-11-06,2023-11-06,,closed,jessicajaniuk,52531.0
+pull_request,,2023-11-06,2023-11-06,,closed,atscott,52530.0
+pull_request,,2023-11-06,2023-11-06,,closed,jessicajaniuk,52529.0
+pull_request,,2023-11-06,2023-11-06,,closed,crisbeto,52525.0
+pull_request,,2023-11-05,2023-11-08,,closed,lucasluizss,52519.0
+pull_request,,2023-11-05,2023-11-06,,closed,crisbeto,52515.0
+pull_request,,2023-11-05,2023-11-05,,closed,LayZeeDK,52514.0
+pull_request,,2023-11-03,2023-11-16,,closed,arturovt,52512.0
+pull_request,,2023-11-03,2023-11-08,,closed,swami-sanapathi,52511.0
+pull_request,,2023-11-03,,,open,JeanMeche,52510.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52508.0
+pull_request,,2023-11-03,2023-11-03,,closed,alxhub,52507.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52506.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,52505.0
+pull_request,,2023-11-03,2023-11-03,,closed,crisbeto,52504.0
+pull_request,,2023-11-03,2023-11-06,,closed,mmalerba,52503.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52501.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52500.0
+pull_request,,2023-11-02,,,open,jelbourn,52499.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52498.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52497.0
+pull_request,,2023-11-02,2023-11-13,,closed,atscott,52495.0
+pull_request,,2023-11-02,2023-11-03,,closed,atscott,52493.0
+pull_request,,2023-11-02,2023-11-03,,closed,JiaLiPassion,52492.0
+pull_request,,2023-11-02,,,open,devknoll,52491.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52490.0
+pull_request,,2023-11-02,2023-11-04,,closed,AleksanderBodurri,52489.0
+pull_request,,2023-11-02,2023-11-02,,closed,alxhub,52488.0
+pull_request,,2023-11-01,2023-11-02,,closed,alxhub,52487.0
+pull_request,,2023-11-01,2023-11-02,,closed,atcastle,52486.0
+pull_request,,2023-11-01,2023-11-02,,closed,clydin,52485.0
+pull_request,,2023-11-01,2023-11-01,,closed,alxhub,52484.0
+pull_request,,2023-11-01,2023-11-02,,closed,arturovt,52482.0
+pull_request,,2023-11-01,2023-11-02,,closed,jelbourn,52481.0
+pull_request,,2023-11-01,2023-11-02,,closed,jelbourn,52480.0
+pull_request,,2023-11-01,2023-11-06,,closed,dylhunn,52479.0
+pull_request,,2023-10-31,,,open,arturovt,52478.0
+pull_request,,2023-10-31,2023-11-02,,closed,atscott,52476.0
+pull_request,,2023-10-31,2023-11-08,,closed,atscott,52475.0
+pull_request,,2023-10-31,2023-10-31,,closed,alxhub,52474.0
+pull_request,,2023-10-31,2023-11-01,,closed,alxhub,52473.0
+pull_request,,2023-10-31,2023-11-02,,closed,jelbourn,52472.0
+pull_request,,2023-10-31,,,open,IgorVaryvoda,52468.0
+pull_request,,2023-10-31,2023-11-02,,closed,pkozlowski-opensource,52465.0
+pull_request,,2023-10-31,2023-11-02,,closed,dylhunn,52464.0
+pull_request,,2023-10-30,2023-10-31,,closed,jelbourn,52462.0
+pull_request,,2023-10-30,2023-10-31,,closed,atcastle,52459.0
+pull_request,,2023-10-30,2023-10-31,,closed,AleksanderBodurri,52458.0
+pull_request,,2023-10-30,2023-10-31,,closed,jessicajaniuk,52457.0
+pull_request,,2023-10-30,2023-10-31,,closed,MarkTechson,52456.0
+pull_request,,2023-10-30,,,open,atscott,52455.0
+pull_request,,2023-10-30,,,open,JoostK,52453.0
+pull_request,,2023-10-30,2023-10-31,,closed,JeanMeche,52452.0
+pull_request,,2023-10-30,,,open,josephperrott,52451.0
+pull_request,,2023-10-30,2023-10-31,,closed,AleksanderBodurri,52450.0
+pull_request,,2023-10-30,2023-10-31,,closed,crisbeto,52449.0
+pull_request,,2023-10-30,2023-10-31,,closed,alan-agius4,52448.0
+pull_request,,2023-10-30,2023-10-31,,closed,crisbeto,52447.0
+pull_request,,2023-10-30,,,open,angular-robot,52445.0
+pull_request,,2023-10-30,2023-10-31,,closed,cexbrayat,52444.0
+pull_request,,2023-10-29,2023-10-31,,closed,Mayureshd-18,52442.0
+pull_request,,2023-10-29,,,open,JeanMeche,52441.0
+pull_request,,2023-10-29,,,open,JeanMeche,52440.0
+pull_request,,2023-10-29,,,open,JeanMeche,52439.0
+pull_request,,2023-10-29,,,open,JeanMeche,52438.0
+pull_request,,2023-10-28,2023-10-31,,closed,JoostK,52437.0
+pull_request,,2023-10-28,2023-11-03,,closed,AleksanderBodurri,52436.0
+pull_request,,2023-10-28,2023-10-31,,closed,swami-sanapathi,52435.0
+pull_request,,2023-10-28,2023-10-28,,closed,swami-sanapathi,52434.0
+pull_request,,2023-10-28,2023-10-31,,closed,crisbeto,52433.0
+pull_request,,2023-10-28,2023-10-31,,closed,twerske,52432.0
+pull_request,,2023-10-27,2023-10-31,,closed,atscott,52431.0
+pull_request,,2023-10-27,2023-11-08,,closed,atscott,52430.0
+pull_request,,2023-10-27,2023-10-27,,closed,alxhub,52427.0
+pull_request,,2023-10-27,2023-11-03,,closed,angular-robot,52426.0
+pull_request,,2023-10-27,2023-11-08,,closed,JeanMeche,52425.0
+pull_request,,2023-10-27,2023-10-27,,closed,cexbrayat,52423.0
+pull_request,,2023-10-27,,,open,angular-robot,52422.0
+pull_request,,2023-10-27,2023-10-31,,closed,alxhub,52420.0
+pull_request,,2023-10-27,2023-10-27,,closed,JeanMeche,52418.0
+pull_request,,2023-10-27,,,open,slimache,52417.0
+pull_request,,2023-10-27,,,open,aanchal88,52415.0
+pull_request,,2023-10-27,2023-10-31,,closed,crisbeto,52414.0
+pull_request,,2023-10-27,2023-11-03,,closed,aanchal88,52413.0
+pull_request,,2023-10-27,2023-10-31,,closed,jelbourn,52411.0
+pull_request,,2023-10-27,,,open,mgechev,52410.0
+pull_request,,2023-10-26,,,open,tommygaessler,52409.0
+pull_request,,2023-10-26,2023-10-27,,closed,AndrewKushnir,52408.0
+pull_request,,2023-10-26,2023-10-31,,closed,clydin,52407.0
+pull_request,,2023-10-26,2023-10-31,,closed,atscott,52405.0
+pull_request,,2023-10-26,2023-10-26,,closed,zviadadze1,52404.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52403.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52402.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52401.0
+pull_request,,2023-10-26,,,open,iliasaddab,52400.0
+pull_request,,2023-10-26,2023-10-26,,closed,jessicajaniuk,52399.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52398.0
+pull_request,,2023-10-26,2023-10-27,,closed,pkozlowski-opensource,52397.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52395.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52394.0
+pull_request,,2023-10-26,2023-10-31,,closed,fdonzello,52393.0
+pull_request,,2023-10-26,2023-10-27,,closed,mmalerba,52390.0
+pull_request,,2023-10-26,2023-10-27,,closed,jelbourn,52389.0
+pull_request,,2023-10-26,,,open,angular-robot,52388.0
+pull_request,,2023-10-25,2023-10-31,,closed,dylhunn,52387.0
+pull_request,,2023-10-25,2023-10-31,,closed,atscott,52386.0
+pull_request,,2023-10-25,2023-10-26,,closed,AndrewKushnir,52385.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52384.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52383.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52382.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52381.0
+pull_request,,2023-10-25,2023-10-27,,closed,jessicajaniuk,52380.0
+pull_request,,2023-10-25,2023-10-25,,closed,jessicajaniuk,52379.0
+pull_request,,2023-10-25,2023-10-25,,closed,jessicajaniuk,52378.0
+pull_request,,2023-10-25,2023-10-25,,closed,pkozlowski-opensource,52375.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52374.0
+pull_request,,2023-10-25,,,open,atscott,52373.0
+pull_request,,2023-10-25,2023-10-31,,closed,pkozlowski-opensource,52370.0
+pull_request,,2023-10-25,2023-10-26,,closed,pkozlowski-opensource,52369.0
+pull_request,,2023-10-29,,,open,JeanMeche,52440.0
+pull_request,,2023-10-29,,,open,JeanMeche,52439.0
+pull_request,,2023-10-29,,,open,JeanMeche,52438.0
+pull_request,,2023-10-28,2023-10-31,,closed,JoostK,52437.0
+pull_request,,2023-10-28,2023-11-03,,closed,AleksanderBodurri,52436.0
+pull_request,,2023-10-28,2023-10-31,,closed,swami-sanapathi,52435.0
+pull_request,,2023-10-28,2023-10-28,,closed,swami-sanapathi,52434.0
+pull_request,,2023-10-28,2023-10-31,,closed,crisbeto,52433.0
+pull_request,,2023-10-28,2023-10-31,,closed,twerske,52432.0
+pull_request,,2023-10-27,2023-10-31,,closed,atscott,52431.0
+pull_request,,2023-10-27,2023-11-08,,closed,atscott,52430.0
+pull_request,,2023-10-27,2023-10-27,,closed,alxhub,52427.0
+pull_request,,2023-10-27,2023-11-03,,closed,angular-robot,52426.0
+pull_request,,2023-10-27,2023-11-08,,closed,JeanMeche,52425.0
+pull_request,,2023-10-27,2023-10-27,,closed,cexbrayat,52423.0
+pull_request,,2023-10-27,,,open,angular-robot,52422.0
+pull_request,,2023-10-27,2023-10-31,,closed,alxhub,52420.0
+pull_request,,2023-10-27,2023-10-27,,closed,JeanMeche,52418.0
+pull_request,,2023-10-27,,,open,slimache,52417.0
+pull_request,,2023-10-27,,,open,aanchal88,52415.0
+pull_request,,2023-10-27,2023-10-31,,closed,crisbeto,52414.0
+pull_request,,2023-10-27,2023-11-03,,closed,aanchal88,52413.0
+pull_request,,2023-10-27,2023-10-31,,closed,jelbourn,52411.0
+pull_request,,2023-10-27,,,open,mgechev,52410.0
+pull_request,,2023-10-26,,,open,tommygaessler,52409.0
+pull_request,,2023-10-26,2023-10-27,,closed,AndrewKushnir,52408.0
+pull_request,,2023-10-26,2023-10-31,,closed,clydin,52407.0
+pull_request,,2023-10-26,2023-10-31,,closed,atscott,52405.0
+pull_request,,2023-10-26,2023-10-26,,closed,zviadadze1,52404.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52403.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52402.0
+pull_request,,2023-10-26,2023-10-27,,closed,jessicajaniuk,52401.0
+pull_request,,2023-10-26,,,open,iliasaddab,52400.0
+pull_request,,2023-10-26,2023-10-26,,closed,jessicajaniuk,52399.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52398.0
+pull_request,,2023-10-26,2023-10-27,,closed,pkozlowski-opensource,52397.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52395.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,52394.0
+pull_request,,2023-10-26,2023-10-31,,closed,fdonzello,52393.0
+pull_request,,2023-10-26,2023-10-27,,closed,mmalerba,52390.0
+pull_request,,2023-10-26,2023-10-27,,closed,jelbourn,52389.0
+pull_request,,2023-10-26,,,open,angular-robot,52388.0
+pull_request,,2023-10-25,2023-10-31,,closed,dylhunn,52387.0
+pull_request,,2023-10-25,2023-10-31,,closed,atscott,52386.0
+pull_request,,2023-10-25,2023-10-26,,closed,AndrewKushnir,52385.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52384.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52383.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52382.0
+pull_request,,2023-10-25,2023-10-25,,closed,dylhunn,52381.0
+pull_request,,2023-10-25,2023-10-27,,closed,jessicajaniuk,52380.0
+pull_request,,2023-10-25,2023-10-25,,closed,jessicajaniuk,52379.0
+pull_request,,2023-10-25,2023-10-25,,closed,jessicajaniuk,52378.0
+pull_request,,2023-10-25,2023-10-25,,closed,pkozlowski-opensource,52375.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52374.0
+pull_request,,2023-10-25,,,open,atscott,52373.0
+pull_request,,2023-10-25,2023-10-31,,closed,pkozlowski-opensource,52370.0
+pull_request,,2023-10-25,2023-10-26,,closed,pkozlowski-opensource,52369.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52368.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52367.0
+pull_request,,2023-10-25,2023-10-25,,closed,AleksanderBodurri,52365.0
+pull_request,,2023-10-25,,,open,MillerSvt,52364.0
+pull_request,,2023-10-25,2023-11-09,,closed,tbondwilkinson,52363.0
+pull_request,,2023-10-25,2023-10-27,,closed,jelbourn,52362.0
+pull_request,,2023-10-24,2023-11-01,,closed,dgp1130,52361.0
+pull_request,,2023-10-24,2023-10-27,,closed,Yvad60,52359.0
+pull_request,,2023-10-24,2023-10-25,,closed,jessicajaniuk,52358.0
+pull_request,,2023-10-24,2023-10-25,,closed,atscott,52357.0
+pull_request,,2023-10-24,2023-10-25,,closed,mgechev,52356.0
+pull_request,,2023-10-24,2023-10-24,,closed,jessicajaniuk,52355.0
+pull_request,,2023-10-24,2023-10-25,,closed,naaajii,52354.0
+pull_request,,2023-10-24,2023-10-24,,closed,josephperrott,52353.0
+pull_request,,2023-10-24,2023-10-25,,closed,JeanMeche,52352.0
+pull_request,,2023-10-24,2023-11-09,,closed,jessicajaniuk,52351.0
+pull_request,,2023-10-24,2023-10-24,,closed,lazarljubenovic,52350.0
+pull_request,,2023-10-24,,,open,JeanMeche,52348.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,52347.0
+pull_request,,2023-10-24,2023-10-24,,closed,crisbeto,52343.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,52342.0
+pull_request,,2023-10-24,2023-10-24,,closed,dgp1130,52339.0
+pull_request,,2023-10-23,2023-11-13,,closed,atscott,52338.0
+pull_request,,2023-10-23,2023-10-24,,closed,atscott,52337.0
+pull_request,,2023-10-23,2023-10-25,,closed,jessicajaniuk,52336.0
+pull_request,,2023-10-23,2023-10-24,,closed,angular-robot,52335.0
+pull_request,,2023-10-23,2023-10-23,,closed,twerske,52334.0
+pull_request,,2023-10-23,2023-10-24,,closed,jessicajaniuk,52332.0
+pull_request,,2023-10-23,2023-10-23,,closed,angular-robot,52331.0
+pull_request,,2023-10-23,2023-10-23,,closed,angular-robot,52330.0
+pull_request,,2023-10-23,,,open,JeanMeche,52329.0
+pull_request,,2023-10-23,,,open,JeanMeche,52328.0
+pull_request,,2023-10-23,2023-10-24,,closed,cexbrayat,52327.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,52326.0
+pull_request,,2023-10-23,2023-10-25,,closed,alvarocjunq,52323.0
+pull_request,,2023-10-23,2023-10-23,,closed,crisbeto,52322.0
+pull_request,,2023-10-23,2023-10-24,,closed,angular-robot,52321.0
+pull_request,,2023-10-23,2023-10-24,,closed,AndrewKushnir,52320.0
+pull_request,,2023-10-23,,,open,AnkitaSood,52319.0
+pull_request,,2023-10-22,2023-10-24,,closed,AndrewKushnir,52314.0
+pull_request,,2023-10-22,2023-10-23,,closed,atscott,52312.0
+pull_request,,2023-10-22,2023-10-24,,closed,x00167885,52311.0
+pull_request,,2023-10-22,,,open,sylvaindumont,52310.0
+pull_request,,2023-10-21,2023-10-24,,closed,crisbeto,52309.0
+pull_request,,2023-10-21,2023-10-23,,closed,AndrewKushnir,52306.0
+pull_request,,2023-10-20,2023-10-26,,closed,dgp1130,52305.0
+pull_request,,2023-10-20,2023-10-31,,closed,atscott,52302.0
+pull_request,,2023-10-20,2023-10-24,,closed,debabratp,52301.0
+pull_request,,2023-10-20,2023-10-23,,closed,alan-agius4,52300.0
+pull_request,,2023-10-20,2023-10-24,,closed,debabratp,52299.0
+pull_request,,2023-10-20,2023-10-20,,closed,alan-agius4,52298.0
+pull_request,,2023-10-20,2023-10-25,,closed,thapasusheel,52297.0
+pull_request,,2023-10-20,2023-10-23,,closed,alan-agius4,52294.0
+pull_request,,2023-10-20,2023-10-25,,closed,alan-agius4,52293.0
+pull_request,,2023-10-20,2023-10-23,,closed,crisbeto,52292.0
+pull_request,,2023-10-20,2023-10-23,,closed,AndrewKushnir,52291.0
+pull_request,,2023-10-20,,,open,AleksanderBodurri,52290.0
+pull_request,,2023-10-19,2023-10-24,,closed,dylhunn,52289.0
+pull_request,,2023-10-19,2023-10-23,,closed,AndrewKushnir,52288.0
+pull_request,,2023-10-19,,,open,ferrorenan,52282.0
+pull_request,,2023-10-19,2023-10-23,,closed,angular-robot,52281.0
+pull_request,,2023-10-19,2023-10-23,,closed,angular-robot,52280.0
+pull_request,,2023-10-19,2023-11-02,,closed,angular-robot,52279.0
+pull_request,,2023-10-19,,,open,kharitonovVlad,52278.0
+pull_request,,2023-10-18,2023-10-18,,closed,Ameerw04,52274.0
+pull_request,,2023-10-18,,,open,mhagnumdw,52273.0
+pull_request,,2023-10-18,2023-10-19,,closed,atscott,52272.0
+pull_request,,2023-10-18,2023-10-31,,closed,josephperrott,52271.0
+pull_request,,2023-10-18,2023-10-23,,closed,josephperrott,52270.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeevanMahesha,52269.0
+pull_request,,2023-10-18,2023-10-19,,closed,atscott,52268.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52266.0
+pull_request,,2023-10-18,2023-11-13,,closed,atscott,52265.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52264.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52263.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52262.0
+pull_request,,2023-10-18,2023-10-19,,closed,ice-blaze,52261.0
+pull_request,,2023-10-18,2023-10-19,,closed,josephperrott,52259.0
+pull_request,,2023-10-18,2023-10-18,,closed,qmonmert,52258.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeanMeche,52257.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52255.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeanMeche,52254.0
+pull_request,,2023-10-18,2023-10-18,,closed,crisbeto,52253.0
+pull_request,,2023-10-18,2023-11-02,,closed,angular-robot,52252.0
+pull_request,,2023-10-17,2023-10-18,,closed,mmalerba,52250.0
+pull_request,,2023-10-17,2023-10-25,,closed,ranma42,52249.0
+pull_request,,2023-10-17,2023-10-24,,closed,atcastle,52248.0
+pull_request,,2023-10-17,2023-10-18,,closed,qmonmert,52247.0
+pull_request,,2023-10-17,,,open,pkozlowski-opensource,52245.0
+pull_request,,2023-10-17,2023-10-19,,closed,crisbeto,52239.0
+pull_request,,2023-10-17,2023-10-18,,closed,alan-agius4,52238.0
+pull_request,,2023-10-17,2023-10-17,,closed,alan-agius4,52237.0
+pull_request,,2023-10-17,2023-10-17,,closed,angular-robot,52236.0
+pull_request,,2023-10-16,2023-10-23,,closed,devknoll,52235.0
+pull_request,,2023-10-16,2023-10-27,,closed,alxhub,52234.0
+pull_request,,2023-10-16,2023-10-18,,closed,qmonmert,52233.0
+pull_request,,2023-10-16,2023-10-17,,closed,qmonmert,52232.0
+pull_request,,2023-10-16,2023-10-19,,closed,alan-agius4,52231.0
+pull_request,,2023-10-16,2023-10-25,,closed,1heykal,52229.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52228.0
+pull_request,,2023-10-16,2023-10-18,,closed,pkozlowski-opensource,52227.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52226.0
+pull_request,,2023-10-16,2023-10-16,,closed,crisbeto,52225.0
+pull_request,,2023-10-16,2023-10-18,,closed,AndrewKushnir,52222.0
+pull_request,,2023-10-16,2023-10-19,,closed,AndrewKushnir,52221.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52220.0
+pull_request,,2023-10-15,2023-10-16,,closed,qmonmert,52219.0
+pull_request,,2023-10-15,2023-10-16,,closed,qmonmert,52218.0
+pull_request,,2023-10-15,2023-10-15,,closed,Amb1guousRaccoon,52216.0
+pull_request,,2023-10-15,2023-10-19,,closed,pmvald,52215.0
+pull_request,,2023-10-14,2023-10-16,,closed,Milldrew,52212.0
+pull_request,,2023-10-14,,,open,srukshan98,52211.0
+pull_request,,2023-10-14,2023-10-16,,closed,crisbeto,52209.0
+pull_request,,2023-10-14,,,open,alxhub,52208.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52368.0
+pull_request,,2023-10-25,2023-10-25,,closed,alan-agius4,52367.0
+pull_request,,2023-10-25,2023-10-25,,closed,AleksanderBodurri,52365.0
+pull_request,,2023-10-25,,,open,MillerSvt,52364.0
+pull_request,,2023-10-25,2023-11-09,,closed,tbondwilkinson,52363.0
+pull_request,,2023-10-25,2023-10-27,,closed,jelbourn,52362.0
+pull_request,,2023-10-24,2023-11-01,,closed,dgp1130,52361.0
+pull_request,,2023-10-24,2023-10-27,,closed,Yvad60,52359.0
+pull_request,,2023-10-24,2023-10-25,,closed,jessicajaniuk,52358.0
+pull_request,,2023-10-24,2023-10-25,,closed,atscott,52357.0
+pull_request,,2023-10-24,2023-10-25,,closed,mgechev,52356.0
+pull_request,,2023-10-24,2023-10-24,,closed,jessicajaniuk,52355.0
+pull_request,,2023-10-24,2023-10-25,,closed,naaajii,52354.0
+pull_request,,2023-10-24,2023-10-24,,closed,josephperrott,52353.0
+pull_request,,2023-10-24,2023-10-25,,closed,JeanMeche,52352.0
+pull_request,,2023-10-24,2023-11-09,,closed,jessicajaniuk,52351.0
+pull_request,,2023-10-24,2023-10-24,,closed,lazarljubenovic,52350.0
+pull_request,,2023-10-24,,,open,JeanMeche,52348.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,52347.0
+pull_request,,2023-10-24,2023-10-24,,closed,crisbeto,52343.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,52342.0
+pull_request,,2023-10-24,2023-10-24,,closed,dgp1130,52339.0
+pull_request,,2023-10-23,2023-11-13,,closed,atscott,52338.0
+pull_request,,2023-10-23,2023-10-24,,closed,atscott,52337.0
+pull_request,,2023-10-23,2023-10-25,,closed,jessicajaniuk,52336.0
+pull_request,,2023-10-23,2023-10-24,,closed,angular-robot,52335.0
+pull_request,,2023-10-23,2023-10-23,,closed,twerske,52334.0
+pull_request,,2023-10-23,2023-10-24,,closed,jessicajaniuk,52332.0
+pull_request,,2023-10-23,2023-10-23,,closed,angular-robot,52331.0
+pull_request,,2023-10-23,2023-10-23,,closed,angular-robot,52330.0
+pull_request,,2023-10-23,,,open,JeanMeche,52329.0
+pull_request,,2023-10-23,,,open,JeanMeche,52328.0
+pull_request,,2023-10-23,2023-10-24,,closed,cexbrayat,52327.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,52326.0
+pull_request,,2023-10-23,2023-10-25,,closed,alvarocjunq,52323.0
+pull_request,,2023-10-23,2023-10-23,,closed,crisbeto,52322.0
+pull_request,,2023-10-23,2023-10-24,,closed,angular-robot,52321.0
+pull_request,,2023-10-23,2023-10-24,,closed,AndrewKushnir,52320.0
+pull_request,,2023-10-23,,,open,AnkitaSood,52319.0
+pull_request,,2023-10-22,2023-10-24,,closed,AndrewKushnir,52314.0
+pull_request,,2023-10-22,2023-10-23,,closed,atscott,52312.0
+pull_request,,2023-10-22,2023-10-24,,closed,x00167885,52311.0
+pull_request,,2023-10-22,,,open,sylvaindumont,52310.0
+pull_request,,2023-10-21,2023-10-24,,closed,crisbeto,52309.0
+pull_request,,2023-10-21,2023-10-23,,closed,AndrewKushnir,52306.0
+pull_request,,2023-10-20,2023-10-26,,closed,dgp1130,52305.0
+pull_request,,2023-10-20,2023-10-31,,closed,atscott,52302.0
+pull_request,,2023-10-20,2023-10-24,,closed,debabratp,52301.0
+pull_request,,2023-10-20,2023-10-23,,closed,alan-agius4,52300.0
+pull_request,,2023-10-20,2023-10-24,,closed,debabratp,52299.0
+pull_request,,2023-10-20,2023-10-20,,closed,alan-agius4,52298.0
+pull_request,,2023-10-20,2023-10-25,,closed,thapasusheel,52297.0
+pull_request,,2023-10-20,2023-10-23,,closed,alan-agius4,52294.0
+pull_request,,2023-10-20,2023-10-25,,closed,alan-agius4,52293.0
+pull_request,,2023-10-20,2023-10-23,,closed,crisbeto,52292.0
+pull_request,,2023-10-20,2023-10-23,,closed,AndrewKushnir,52291.0
+pull_request,,2023-10-20,,,open,AleksanderBodurri,52290.0
+pull_request,,2023-10-19,2023-10-24,,closed,dylhunn,52289.0
+pull_request,,2023-10-19,2023-10-23,,closed,AndrewKushnir,52288.0
+pull_request,,2023-10-19,,,open,ferrorenan,52282.0
+pull_request,,2023-10-19,2023-10-23,,closed,angular-robot,52281.0
+pull_request,,2023-10-19,2023-10-23,,closed,angular-robot,52280.0
+pull_request,,2023-10-19,2023-11-02,,closed,angular-robot,52279.0
+pull_request,,2023-10-19,,,open,kharitonovVlad,52278.0
+pull_request,,2023-10-18,2023-10-18,,closed,Ameerw04,52274.0
+pull_request,,2023-10-18,,,open,mhagnumdw,52273.0
+pull_request,,2023-10-18,2023-10-19,,closed,atscott,52272.0
+pull_request,,2023-10-18,2023-10-31,,closed,josephperrott,52271.0
+pull_request,,2023-10-18,2023-10-23,,closed,josephperrott,52270.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeevanMahesha,52269.0
+pull_request,,2023-10-18,2023-10-19,,closed,atscott,52268.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52266.0
+pull_request,,2023-10-18,2023-11-13,,closed,atscott,52265.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52264.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52263.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52262.0
+pull_request,,2023-10-18,2023-10-19,,closed,ice-blaze,52261.0
+pull_request,,2023-10-18,2023-10-19,,closed,josephperrott,52259.0
+pull_request,,2023-10-18,2023-10-18,,closed,qmonmert,52258.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeanMeche,52257.0
+pull_request,,2023-10-18,2023-10-18,,closed,pkozlowski-opensource,52255.0
+pull_request,,2023-10-18,2023-10-18,,closed,JeanMeche,52254.0
+pull_request,,2023-10-18,2023-10-18,,closed,crisbeto,52253.0
+pull_request,,2023-10-18,2023-11-02,,closed,angular-robot,52252.0
+pull_request,,2023-10-17,2023-10-18,,closed,mmalerba,52250.0
+pull_request,,2023-10-17,2023-10-25,,closed,ranma42,52249.0
+pull_request,,2023-10-17,2023-10-24,,closed,atcastle,52248.0
+pull_request,,2023-10-17,2023-10-18,,closed,qmonmert,52247.0
+pull_request,,2023-10-17,,,open,pkozlowski-opensource,52245.0
+pull_request,,2023-10-17,2023-10-19,,closed,crisbeto,52239.0
+pull_request,,2023-10-17,2023-10-18,,closed,alan-agius4,52238.0
+pull_request,,2023-10-17,2023-10-17,,closed,alan-agius4,52237.0
+pull_request,,2023-10-17,2023-10-17,,closed,angular-robot,52236.0
+pull_request,,2023-10-16,2023-10-23,,closed,devknoll,52235.0
+pull_request,,2023-10-16,2023-10-27,,closed,alxhub,52234.0
+pull_request,,2023-10-16,2023-10-18,,closed,qmonmert,52233.0
+pull_request,,2023-10-16,2023-10-17,,closed,qmonmert,52232.0
+pull_request,,2023-10-16,2023-10-19,,closed,alan-agius4,52231.0
+pull_request,,2023-10-16,2023-10-25,,closed,1heykal,52229.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52228.0
+pull_request,,2023-10-16,2023-10-18,,closed,pkozlowski-opensource,52227.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52226.0
+pull_request,,2023-10-16,2023-10-16,,closed,crisbeto,52225.0
+pull_request,,2023-10-16,2023-10-18,,closed,AndrewKushnir,52222.0
+pull_request,,2023-10-16,2023-10-19,,closed,AndrewKushnir,52221.0
+pull_request,,2023-10-16,2023-10-16,,closed,1heykal,52220.0
+pull_request,,2023-10-15,2023-10-16,,closed,qmonmert,52219.0
+pull_request,,2023-10-15,2023-10-16,,closed,qmonmert,52218.0
+pull_request,,2023-10-15,2023-10-15,,closed,Amb1guousRaccoon,52216.0
+pull_request,,2023-10-15,2023-10-19,,closed,pmvald,52215.0
+pull_request,,2023-10-14,2023-10-16,,closed,Milldrew,52212.0
+pull_request,,2023-10-14,,,open,srukshan98,52211.0
+pull_request,,2023-10-14,2023-10-16,,closed,crisbeto,52209.0
+pull_request,,2023-10-14,,,open,alxhub,52208.0
+pull_request,,2023-10-14,2023-10-16,,closed,AndrewKushnir,52207.0
+pull_request,,2023-10-14,2023-10-18,,closed,AndrewKushnir,52206.0
+pull_request,,2023-10-13,2023-10-19,,closed,atcastle,52205.0
+pull_request,,2023-10-13,2023-10-17,,closed,jelbourn,52204.0
+pull_request,,2023-10-13,,,open,pmvald,52203.0
+pull_request,,2023-10-13,2023-10-17,,closed,mmalerba,52202.0
+pull_request,,2023-10-13,2023-10-16,,closed,crisbeto,52199.0
+pull_request,,2023-10-12,2023-10-23,,closed,dylhunn,52198.0
+pull_request,,2023-10-12,2023-10-18,,closed,AndrewKushnir,52197.0
+pull_request,,2023-10-12,2023-10-16,,closed,mmalerba,52195.0
+pull_request,,2023-10-12,2023-10-13,,closed,AndrewKushnir,52194.0
+pull_request,,2023-10-12,2023-10-13,,closed,devversion,52192.0
+pull_request,,2023-10-12,2023-10-26,,closed,angular-robot,52191.0
+pull_request,,2023-10-12,2023-10-12,,closed,jessicajaniuk,52189.0
+pull_request,,2023-10-12,2023-10-19,,closed,angular-robot,52188.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52186.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52183.0
+pull_request,,2023-10-12,2023-10-16,,closed,cexbrayat,52181.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52180.0
+pull_request,,2023-10-12,,,open,JeanMeche,52179.0
+pull_request,,2023-10-12,2023-10-12,,closed,JeanMeche,52178.0
+pull_request,,2023-10-12,2023-10-12,,closed,pkozlowski-opensource,52174.0
+pull_request,,2023-10-12,2023-10-18,,closed,angular-robot,52173.0
+pull_request,,2023-10-11,2023-10-13,,closed,tbondwilkinson,52171.0
+pull_request,,2023-10-11,2023-10-13,,closed,Erbenos,52170.0
+pull_request,,2023-10-11,2023-10-11,,closed,angular-robot,52169.0
+pull_request,,2023-10-11,2023-10-11,,closed,angular-robot,52168.0
+pull_request,,2023-10-11,2023-10-19,,closed,atscott,52167.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52166.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52165.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52164.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52163.0
+pull_request,,2023-10-11,,,open,morteza-giti,52162.0
+pull_request,,2023-10-11,2023-10-11,,closed,mikelgo,52161.0
+pull_request,,2023-10-11,2023-10-12,,closed,angular-robot,52159.0
+pull_request,,2023-10-11,2023-10-11,,closed,crisbeto,52158.0
+pull_request,,2023-10-11,2023-10-11,,closed,devversion,52157.0
+pull_request,,2023-10-11,2023-10-13,,closed,crisbeto,52156.0
+pull_request,,2023-10-11,2023-10-11,,closed,DonCorleone,52155.0
+pull_request,,2023-10-10,2023-10-11,,closed,dylhunn,52153.0
+pull_request,,2023-10-10,2023-10-12,,closed,AndrewKushnir,52152.0
+pull_request,,2023-10-10,2023-10-11,,closed,jessicajaniuk,52151.0
+pull_request,,2023-10-10,2023-10-10,,closed,alxhub,52150.0
+pull_request,,2023-10-10,2023-10-10,,closed,atscott,52149.0
+pull_request,,2023-10-10,2023-10-10,,closed,mgechev,52148.0
+pull_request,,2023-10-10,2023-10-10,,closed,atcastle,52147.0
+pull_request,,2023-10-10,2023-10-10,,closed,alan-agius4,52146.0
+pull_request,,2023-10-10,2023-10-16,,closed,devknoll,52145.0
+pull_request,,2023-10-10,2023-10-10,,closed,angular-robot,52144.0
+pull_request,,2023-10-10,2023-10-10,,closed,jessicajaniuk,52143.0
+pull_request,,2023-10-10,2023-10-10,,closed,alxhub,52141.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52140.0
+pull_request,,2023-10-10,2023-10-10,,closed,devversion,52138.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52137.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52136.0
+pull_request,,2023-10-10,2023-11-09,,closed,aanchal88,52134.0
+pull_request,,2023-10-10,2023-10-10,,closed,angular-robot,52133.0
+pull_request,,2023-10-10,2023-10-10,,closed,sdedieu,52129.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52127.0
+pull_request,,2023-10-10,2023-10-18,,closed,angular-robot,52126.0
+pull_request,,2023-10-10,,,open,ferrorenan,52125.0
+pull_request,,2023-10-10,,,open,akib1997,52124.0
+pull_request,,2023-10-10,2023-10-10,,closed,jelbourn,52123.0
+pull_request,,2023-10-09,2023-10-10,,closed,AndrewKushnir,52122.0
+pull_request,,2023-10-09,2023-10-10,,closed,dylhunn,52121.0
+pull_request,,2023-10-09,2023-10-11,,closed,angular-robot,52119.0
+pull_request,,2023-10-09,2023-10-10,,closed,jelbourn,52118.0
+pull_request,,2023-10-09,2023-10-10,,closed,mgechev,52116.0
+pull_request,,2023-10-09,2023-10-10,,closed,crisbeto,52115.0
+pull_request,,2023-10-09,2023-10-10,,closed,atscott,52114.0
+pull_request,,2023-10-09,2023-10-10,,closed,crisbeto,52112.0
+pull_request,,2023-10-09,2023-10-09,,closed,crisbeto,52110.0
+pull_request,,2023-10-08,2023-10-18,,closed,cexbrayat,52109.0
+pull_request,,2023-10-08,2023-10-10,,closed,crisbeto,52099.0
+pull_request,,2023-10-07,2023-10-12,,closed,JeanMeche,52097.0
+pull_request,,2023-10-07,2023-10-09,,closed,AndrewKushnir,52095.0
+pull_request,,2023-10-07,2023-10-07,,closed,JeanMeche,52093.0
+pull_request,,2023-10-07,2023-10-09,,closed,crisbeto,52092.0
+pull_request,,2023-10-07,2023-10-09,,closed,crisbeto,52091.0
+pull_request,,2023-10-07,2023-10-18,,closed,vivekkoya,52090.0
+pull_request,,2023-10-06,2023-10-09,,closed,atscott,52089.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52088.0
+pull_request,,2023-10-06,2023-10-10,,closed,JeanMeche,52087.0
+pull_request,,2023-10-06,2023-10-07,,closed,bezrodnow,52085.0
+pull_request,,2023-10-06,2023-10-10,,closed,phalgunv,52084.0
+pull_request,,2023-10-06,2023-10-06,,closed,phalgunv,52083.0
+pull_request,,2023-10-06,2023-10-06,,closed,atscott,52081.0
+pull_request,,2023-10-06,2023-10-10,,closed,sdedieu,52080.0
+pull_request,,2023-10-06,2023-10-16,,closed,tomalaforge,52075.0
+pull_request,,2023-10-06,2023-10-09,,closed,crisbeto,52073.0
+pull_request,,2023-10-06,2023-10-06,,closed,crisbeto,52071.0
+pull_request,,2023-10-06,2023-10-10,,closed,crisbeto,52069.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52066.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52065.0
+pull_request,,2023-10-05,2023-10-06,,closed,AndrewKushnir,52064.0
+pull_request,,2023-10-05,2023-10-09,,closed,atscott,52062.0
+pull_request,,2023-10-05,2023-10-10,,closed,pmvald,52061.0
+pull_request,,2023-10-05,2023-10-10,,closed,angular-robot,52060.0
+pull_request,,2023-10-05,2023-10-06,,closed,AndrewKushnir,52059.0
+pull_request,,2023-10-05,2023-10-09,,closed,AndrewKushnir,52057.0
+pull_request,,2023-10-05,2023-10-05,,closed,AndrewKushnir,52056.0
+pull_request,,2023-10-05,2023-10-05,,closed,angular-robot,52054.0
+pull_request,,2023-10-05,2023-10-11,,closed,angular-robot,52053.0
+pull_request,,2023-10-05,2023-10-11,,closed,pkozlowski-opensource,52051.0
+pull_request,,2023-10-05,2023-10-05,,closed,devversion,52049.0
+pull_request,,2023-10-05,2023-10-05,,closed,crisbeto,52047.0
+pull_request,,2023-10-05,,,open,uneknown,52046.0
+pull_request,,2023-10-05,2023-10-05,,closed,pkozlowski-opensource,52045.0
+pull_request,,2023-10-05,2023-10-05,,closed,coljacarls,52043.0
+pull_request,,2023-10-05,2023-10-09,,closed,AndrewKushnir,52042.0
+pull_request,,2023-10-05,2023-11-09,,closed,sdedieu,52041.0
+pull_request,,2023-10-05,2023-10-09,,closed,jelbourn,52040.0
+pull_request,,2023-10-05,2023-10-19,,closed,sdedieu,52039.0
+pull_request,,2023-10-04,2023-10-05,,closed,dylhunn,52038.0
+pull_request,,2023-10-14,2023-10-16,,closed,AndrewKushnir,52207.0
+pull_request,,2023-10-14,2023-10-18,,closed,AndrewKushnir,52206.0
+pull_request,,2023-10-13,2023-10-19,,closed,atcastle,52205.0
+pull_request,,2023-10-13,2023-10-17,,closed,jelbourn,52204.0
+pull_request,,2023-10-13,,,open,pmvald,52203.0
+pull_request,,2023-10-13,2023-10-17,,closed,mmalerba,52202.0
+pull_request,,2023-10-13,2023-10-16,,closed,crisbeto,52199.0
+pull_request,,2023-10-12,2023-10-23,,closed,dylhunn,52198.0
+pull_request,,2023-10-12,2023-10-18,,closed,AndrewKushnir,52197.0
+pull_request,,2023-10-12,2023-10-16,,closed,mmalerba,52195.0
+pull_request,,2023-10-12,2023-10-13,,closed,AndrewKushnir,52194.0
+pull_request,,2023-10-12,2023-10-13,,closed,devversion,52192.0
+pull_request,,2023-10-12,2023-10-26,,closed,angular-robot,52191.0
+pull_request,,2023-10-12,2023-10-12,,closed,jessicajaniuk,52189.0
+pull_request,,2023-10-12,2023-10-19,,closed,angular-robot,52188.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52186.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52183.0
+pull_request,,2023-10-12,2023-10-16,,closed,cexbrayat,52181.0
+pull_request,,2023-10-12,2023-10-12,,closed,cexbrayat,52180.0
+pull_request,,2023-10-12,,,open,JeanMeche,52179.0
+pull_request,,2023-10-12,2023-10-12,,closed,JeanMeche,52178.0
+pull_request,,2023-10-12,2023-10-12,,closed,pkozlowski-opensource,52174.0
+pull_request,,2023-10-12,2023-10-18,,closed,angular-robot,52173.0
+pull_request,,2023-10-11,2023-10-13,,closed,tbondwilkinson,52171.0
+pull_request,,2023-10-11,2023-10-13,,closed,Erbenos,52170.0
+pull_request,,2023-10-11,2023-10-11,,closed,angular-robot,52169.0
+pull_request,,2023-10-11,2023-10-11,,closed,angular-robot,52168.0
+pull_request,,2023-10-11,2023-10-19,,closed,atscott,52167.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52166.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52165.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52164.0
+pull_request,,2023-10-11,2023-10-11,,closed,atscott,52163.0
+pull_request,,2023-10-11,,,open,morteza-giti,52162.0
+pull_request,,2023-10-11,2023-10-11,,closed,mikelgo,52161.0
+pull_request,,2023-10-11,2023-10-12,,closed,angular-robot,52159.0
+pull_request,,2023-10-11,2023-10-11,,closed,crisbeto,52158.0
+pull_request,,2023-10-11,2023-10-11,,closed,devversion,52157.0
+pull_request,,2023-10-11,2023-10-13,,closed,crisbeto,52156.0
+pull_request,,2023-10-11,2023-10-11,,closed,DonCorleone,52155.0
+pull_request,,2023-10-10,2023-10-11,,closed,dylhunn,52153.0
+pull_request,,2023-10-10,2023-10-12,,closed,AndrewKushnir,52152.0
+pull_request,,2023-10-10,2023-10-11,,closed,jessicajaniuk,52151.0
+pull_request,,2023-10-10,2023-10-10,,closed,alxhub,52150.0
+pull_request,,2023-10-10,2023-10-10,,closed,atscott,52149.0
+pull_request,,2023-10-10,2023-10-10,,closed,mgechev,52148.0
+pull_request,,2023-10-10,2023-10-10,,closed,atcastle,52147.0
+pull_request,,2023-10-10,2023-10-10,,closed,alan-agius4,52146.0
+pull_request,,2023-10-10,2023-10-16,,closed,devknoll,52145.0
+pull_request,,2023-10-10,2023-10-10,,closed,angular-robot,52144.0
+pull_request,,2023-10-10,2023-10-10,,closed,jessicajaniuk,52143.0
+pull_request,,2023-10-10,2023-10-10,,closed,alxhub,52141.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52140.0
+pull_request,,2023-10-10,2023-10-10,,closed,devversion,52138.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52137.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52136.0
+pull_request,,2023-10-10,2023-11-09,,closed,aanchal88,52134.0
+pull_request,,2023-10-10,2023-10-10,,closed,angular-robot,52133.0
+pull_request,,2023-10-10,2023-10-10,,closed,sdedieu,52129.0
+pull_request,,2023-10-10,2023-10-10,,closed,crisbeto,52127.0
+pull_request,,2023-10-10,2023-10-18,,closed,angular-robot,52126.0
+pull_request,,2023-10-10,,,open,ferrorenan,52125.0
+pull_request,,2023-10-10,,,open,akib1997,52124.0
+pull_request,,2023-10-10,2023-10-10,,closed,jelbourn,52123.0
+pull_request,,2023-10-09,2023-10-10,,closed,AndrewKushnir,52122.0
+pull_request,,2023-10-09,2023-10-10,,closed,dylhunn,52121.0
+pull_request,,2023-10-09,2023-10-11,,closed,angular-robot,52119.0
+pull_request,,2023-10-09,2023-10-10,,closed,jelbourn,52118.0
+pull_request,,2023-10-09,2023-10-10,,closed,mgechev,52116.0
+pull_request,,2023-10-09,2023-10-10,,closed,crisbeto,52115.0
+pull_request,,2023-10-09,2023-10-10,,closed,atscott,52114.0
+pull_request,,2023-10-09,2023-10-10,,closed,crisbeto,52112.0
+pull_request,,2023-10-09,2023-10-09,,closed,crisbeto,52110.0
+pull_request,,2023-10-08,2023-10-18,,closed,cexbrayat,52109.0
+pull_request,,2023-10-08,2023-10-10,,closed,crisbeto,52099.0
+pull_request,,2023-10-07,2023-10-12,,closed,JeanMeche,52097.0
+pull_request,,2023-10-07,2023-10-09,,closed,AndrewKushnir,52095.0
+pull_request,,2023-10-07,2023-10-07,,closed,JeanMeche,52093.0
+pull_request,,2023-10-07,2023-10-09,,closed,crisbeto,52092.0
+pull_request,,2023-10-07,2023-10-09,,closed,crisbeto,52091.0
+pull_request,,2023-10-07,2023-10-18,,closed,vivekkoya,52090.0
+pull_request,,2023-10-06,2023-10-09,,closed,atscott,52089.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52088.0
+pull_request,,2023-10-06,2023-10-10,,closed,JeanMeche,52087.0
+pull_request,,2023-10-06,2023-10-07,,closed,bezrodnow,52085.0
+pull_request,,2023-10-06,2023-10-10,,closed,phalgunv,52084.0
+pull_request,,2023-10-06,2023-10-06,,closed,phalgunv,52083.0
+pull_request,,2023-10-06,2023-10-06,,closed,atscott,52081.0
+pull_request,,2023-10-06,2023-10-10,,closed,sdedieu,52080.0
+pull_request,,2023-10-06,2023-10-16,,closed,tomalaforge,52075.0
+pull_request,,2023-10-06,2023-10-09,,closed,crisbeto,52073.0
+pull_request,,2023-10-06,2023-10-06,,closed,crisbeto,52071.0
+pull_request,,2023-10-06,2023-10-10,,closed,crisbeto,52069.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52066.0
+pull_request,,2023-10-06,2023-10-06,,closed,AndrewKushnir,52065.0
+pull_request,,2023-10-05,2023-10-06,,closed,AndrewKushnir,52064.0
+pull_request,,2023-10-05,2023-10-09,,closed,atscott,52062.0
+pull_request,,2023-10-05,2023-10-10,,closed,pmvald,52061.0
+pull_request,,2023-10-05,2023-10-10,,closed,angular-robot,52060.0
+pull_request,,2023-10-05,2023-10-06,,closed,AndrewKushnir,52059.0
+pull_request,,2023-10-05,2023-10-09,,closed,AndrewKushnir,52057.0
+pull_request,,2023-10-05,2023-10-05,,closed,AndrewKushnir,52056.0
+pull_request,,2023-10-05,2023-10-05,,closed,angular-robot,52054.0
+pull_request,,2023-10-05,2023-10-11,,closed,angular-robot,52053.0
+pull_request,,2023-10-05,2023-10-11,,closed,pkozlowski-opensource,52051.0
+pull_request,,2023-10-05,2023-10-05,,closed,devversion,52049.0
+pull_request,,2023-10-05,2023-10-05,,closed,crisbeto,52047.0
+pull_request,,2023-10-05,,,open,uneknown,52046.0
+pull_request,,2023-10-05,2023-10-05,,closed,pkozlowski-opensource,52045.0
+pull_request,,2023-10-05,2023-10-05,,closed,coljacarls,52043.0
+pull_request,,2023-10-05,2023-10-09,,closed,AndrewKushnir,52042.0
+pull_request,,2023-10-05,2023-11-09,,closed,sdedieu,52041.0
+pull_request,,2023-10-05,2023-10-09,,closed,jelbourn,52040.0
+pull_request,,2023-10-05,2023-10-19,,closed,sdedieu,52039.0
+pull_request,,2023-10-04,2023-10-05,,closed,dylhunn,52038.0
+pull_request,,2023-10-04,2023-10-05,,closed,AndrewKushnir,52037.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52036.0
+pull_request,,2023-10-04,2023-10-10,,closed,jessicajaniuk,52035.0
+pull_request,,2023-10-04,2023-10-10,,closed,jelbourn,52034.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52033.0
+pull_request,,2023-10-04,2023-10-05,,closed,tbondwilkinson,52032.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52031.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52030.0
+pull_request,,2023-10-04,2023-10-06,,closed,JeanMeche,52029.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52028.0
+pull_request,,2023-10-04,2023-11-04,,closed,yeswanth-fullstack,52025.0
+pull_request,,2023-10-04,2023-10-09,,closed,josephperrott,52024.0
+pull_request,,2023-10-04,2023-10-09,,closed,josephperrott,52023.0
+pull_request,,2023-10-04,2023-10-05,,closed,angular-robot,52022.0
+pull_request,,2023-10-04,2023-10-10,,closed,angular-robot,52021.0
+pull_request,,2023-10-04,,,open,sdedieu,52020.0
+pull_request,,2023-10-04,2023-10-05,,closed,mattlewis92,52019.0
+pull_request,,2023-10-04,2023-10-04,,closed,crisbeto,52017.0
+pull_request,,2023-10-04,2023-10-09,,closed,Nicoss54,52016.0
+pull_request,,2023-10-04,2023-10-04,,closed,crisbeto,52010.0
+pull_request,,2023-10-04,2023-10-05,,closed,AndrewKushnir,52009.0
+pull_request,,2023-10-04,2023-10-04,,closed,jelbourn,52006.0
+pull_request,,2023-10-03,2023-10-04,,closed,JeanMeche,52005.0
+pull_request,,2023-10-03,2023-10-04,,closed,atcastle,52004.0
+pull_request,,2023-10-03,2023-10-12,,closed,Nicoss54,52003.0
+pull_request,,2023-10-03,2023-10-10,,closed,atscott,52002.0
+pull_request,,2023-10-03,2023-10-23,,closed,dylhunn,52001.0
+pull_request,,2023-10-03,,,open,angular-robot,52000.0
+pull_request,,2023-10-03,2023-10-04,,closed,JeanMeche,51999.0
+pull_request,,2023-10-03,2023-10-03,,closed,JeanMeche,51998.0
+pull_request,,2023-10-03,2023-10-04,,closed,crisbeto,51997.0
+pull_request,,2023-10-03,2023-10-03,,closed,alan-agius4,51996.0
+pull_request,,2023-10-03,2023-10-03,,closed,crisbeto,51994.0
+pull_request,,2023-10-03,2023-10-05,,closed,angular-robot,51992.0
+pull_request,,2023-10-03,2023-10-10,,closed,alxhub,51991.0
+pull_request,,2023-10-02,2023-10-03,,closed,AndrewKushnir,51990.0
+pull_request,,2023-10-02,2023-10-04,,closed,JeanMeche,51989.0
+pull_request,,2023-10-02,2023-10-09,,closed,mmalerba,51988.0
+pull_request,,2023-10-02,,,open,ydomenjoud,51987.0
+pull_request,,2023-10-02,2023-10-06,,closed,alxhub,51986.0
+pull_request,,2023-10-02,2023-10-04,,closed,josephperrott,51984.0
+pull_request,,2023-10-02,2023-10-04,,closed,josephperrott,51983.0
+pull_request,,2023-10-02,2023-10-02,,closed,crisbeto,51981.0
+pull_request,,2023-10-02,2023-10-04,,closed,pkozlowski-opensource,51980.0
+pull_request,,2023-10-02,2023-10-03,,closed,crisbeto,51979.0
+pull_request,,2023-10-02,2023-10-04,,closed,angular-robot,51978.0
+pull_request,,2023-10-02,2023-10-10,,closed,Teebo,51977.0
+pull_request,,2023-10-02,2023-10-02,,closed,AndrewKushnir,51975.0
+pull_request,,2023-10-01,2023-10-04,,closed,AndrewKushnir,51974.0
+pull_request,,2023-10-01,2023-10-11,,closed,Erbenos,51972.0
+pull_request,,2023-10-01,2023-10-02,,closed,crisbeto,51971.0
+pull_request,,2023-10-01,2023-10-04,,closed,crisbeto,51969.0
+pull_request,,2023-09-30,,,open,wardbell,51968.0
+pull_request,,2023-09-30,2023-10-04,,closed,angular-robot,51966.0
+pull_request,,2023-09-30,2023-10-02,,closed,AndrewKushnir,51965.0
+pull_request,,2023-09-30,2023-10-04,,closed,AndrewKushnir,51964.0
+pull_request,,2023-09-29,2023-09-30,,closed,dylhunn,51963.0
+pull_request,,2023-09-29,2023-09-29,,closed,angular-robot,51962.0
+pull_request,,2023-09-29,2023-10-02,,closed,dylhunn,51961.0
+pull_request,,2023-09-29,2023-10-04,,closed,JeanMeche,51960.0
+pull_request,,2023-09-29,2023-09-29,,closed,angular-robot,51959.0
+pull_request,,2023-09-29,2023-09-29,,closed,Cadienvan,51958.0
+pull_request,,2023-09-29,2023-10-05,,closed,josephperrott,51957.0
+pull_request,,2023-09-29,2023-10-02,,closed,josephperrott,51956.0
+pull_request,,2023-09-29,2023-09-30,,closed,angular-robot,51955.0
+pull_request,,2023-09-29,2023-10-04,,closed,crisbeto,51952.0
+pull_request,,2023-09-29,,,open,MrJithil,51951.0
+pull_request,,2023-09-29,2023-10-04,,closed,dylhunn,51950.0
+pull_request,,2023-09-28,2023-10-27,,closed,Gkleinereva,51948.0
+pull_request,,2023-09-28,2023-10-09,,closed,pmvald,51947.0
+pull_request,,2023-09-28,2023-10-05,,closed,josephperrott,51945.0
+pull_request,,2023-09-28,2023-10-06,,closed,tomalaforge,51944.0
+pull_request,,2023-09-28,2023-10-04,,closed,dylhunn,51942.0
+pull_request,,2023-09-27,,,open,robertIsaac,51939.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51937.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51936.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51935.0
+pull_request,,2023-09-27,2023-09-27,,closed,josephperrott,51933.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51932.0
+pull_request,,2023-09-27,2023-09-29,,closed,dylhunn,51931.0
+pull_request,,2023-09-27,2023-09-27,,closed,angular-robot,51929.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,51926.0
+pull_request,,2023-09-27,2023-09-27,,closed,MrJithil,51925.0
+pull_request,,2023-09-27,2023-10-02,,closed,janniemeyer,51923.0
+pull_request,,2023-09-27,2023-09-27,,closed,crisbeto,51922.0
+pull_request,,2023-09-27,2023-09-27,,closed,JeevanMahesha,51921.0
+pull_request,,2023-09-27,2023-09-29,,closed,AndrewKushnir,51920.0
+pull_request,,2023-09-26,2023-10-09,,closed,pmvald,51919.0
+pull_request,,2023-09-26,2023-10-13,,closed,wardbell,51918.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51917.0
+pull_request,,2023-09-26,2023-09-27,,closed,angular-robot,51916.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51915.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51914.0
+pull_request,,2023-09-26,2023-09-26,,closed,crisbeto,51913.0
+pull_request,,2023-09-26,2023-10-04,,closed,atscott,51912.0
+pull_request,,2023-09-26,2023-09-27,,closed,mmalerba,51911.0
+pull_request,,2023-09-26,2023-09-26,,closed,jessicajaniuk,51910.0
+pull_request,,2023-09-26,2023-09-26,,closed,angular-robot,51909.0
+pull_request,,2023-09-26,2023-09-26,,closed,josephperrott,51908.0
+pull_request,,2023-09-26,2023-09-26,,closed,crisbeto,51905.0
+pull_request,,2023-09-26,2023-10-02,,closed,pkozlowski-opensource,51903.0
+pull_request,,2023-09-26,2023-09-26,,closed,pkozlowski-opensource,51902.0
+pull_request,,2023-09-26,2023-09-29,,closed,AleksanderBodurri,51900.0
+pull_request,,2023-09-26,2023-09-27,,closed,angular-robot,51899.0
+pull_request,,2023-09-26,2023-10-10,,closed,angular-robot,51898.0
+pull_request,,2023-09-26,2023-10-18,,closed,angular-robot,51897.0
+pull_request,,2023-09-25,2023-09-26,,closed,angular-robot,51896.0
+pull_request,,2023-09-25,2023-09-25,,closed,AndrewKushnir,51895.0
+pull_request,,2023-09-25,2023-09-26,,closed,AndrewKushnir,51894.0
+pull_request,,2023-09-25,2023-09-27,,closed,pkozlowski-opensource,51892.0
+pull_request,,2023-09-25,2023-09-26,,closed,crisbeto,51891.0
+pull_request,,2023-09-25,2023-09-25,,closed,angular-robot,51890.0
+pull_request,,2023-09-25,2023-09-25,,closed,angular-robot,51889.0
+pull_request,,2023-10-04,2023-10-05,,closed,AndrewKushnir,52037.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52036.0
+pull_request,,2023-10-04,2023-10-10,,closed,jessicajaniuk,52035.0
+pull_request,,2023-10-04,2023-10-10,,closed,jelbourn,52034.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52033.0
+pull_request,,2023-10-04,2023-10-05,,closed,tbondwilkinson,52032.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52031.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52030.0
+pull_request,,2023-10-04,2023-10-06,,closed,JeanMeche,52029.0
+pull_request,,2023-10-04,2023-10-04,,closed,alxhub,52028.0
+pull_request,,2023-10-04,2023-11-04,,closed,yeswanth-fullstack,52025.0
+pull_request,,2023-10-04,2023-10-09,,closed,josephperrott,52024.0
+pull_request,,2023-10-04,2023-10-09,,closed,josephperrott,52023.0
+pull_request,,2023-10-04,2023-10-05,,closed,angular-robot,52022.0
+pull_request,,2023-10-04,2023-10-10,,closed,angular-robot,52021.0
+pull_request,,2023-10-04,,,open,sdedieu,52020.0
+pull_request,,2023-10-04,2023-10-05,,closed,mattlewis92,52019.0
+pull_request,,2023-10-04,2023-10-04,,closed,crisbeto,52017.0
+pull_request,,2023-10-04,2023-10-09,,closed,Nicoss54,52016.0
+pull_request,,2023-10-04,2023-10-04,,closed,crisbeto,52010.0
+pull_request,,2023-10-04,2023-10-05,,closed,AndrewKushnir,52009.0
+pull_request,,2023-10-04,2023-10-04,,closed,jelbourn,52006.0
+pull_request,,2023-10-03,2023-10-04,,closed,JeanMeche,52005.0
+pull_request,,2023-10-03,2023-10-04,,closed,atcastle,52004.0
+pull_request,,2023-10-03,2023-10-12,,closed,Nicoss54,52003.0
+pull_request,,2023-10-03,2023-10-10,,closed,atscott,52002.0
+pull_request,,2023-10-03,2023-10-23,,closed,dylhunn,52001.0
+pull_request,,2023-10-03,,,open,angular-robot,52000.0
+pull_request,,2023-10-03,2023-10-04,,closed,JeanMeche,51999.0
+pull_request,,2023-10-03,2023-10-03,,closed,JeanMeche,51998.0
+pull_request,,2023-10-03,2023-10-04,,closed,crisbeto,51997.0
+pull_request,,2023-10-03,2023-10-03,,closed,alan-agius4,51996.0
+pull_request,,2023-10-03,2023-10-03,,closed,crisbeto,51994.0
+pull_request,,2023-10-03,2023-10-05,,closed,angular-robot,51992.0
+pull_request,,2023-10-03,2023-10-10,,closed,alxhub,51991.0
+pull_request,,2023-10-02,2023-10-03,,closed,AndrewKushnir,51990.0
+pull_request,,2023-10-02,2023-10-04,,closed,JeanMeche,51989.0
+pull_request,,2023-10-02,2023-10-09,,closed,mmalerba,51988.0
+pull_request,,2023-10-02,,,open,ydomenjoud,51987.0
+pull_request,,2023-10-02,2023-10-06,,closed,alxhub,51986.0
+pull_request,,2023-10-02,2023-10-04,,closed,josephperrott,51984.0
+pull_request,,2023-10-02,2023-10-04,,closed,josephperrott,51983.0
+pull_request,,2023-10-02,2023-10-02,,closed,crisbeto,51981.0
+pull_request,,2023-10-02,2023-10-04,,closed,pkozlowski-opensource,51980.0
+pull_request,,2023-10-02,2023-10-03,,closed,crisbeto,51979.0
+pull_request,,2023-10-02,2023-10-04,,closed,angular-robot,51978.0
+pull_request,,2023-10-02,2023-10-10,,closed,Teebo,51977.0
+pull_request,,2023-10-02,2023-10-02,,closed,AndrewKushnir,51975.0
+pull_request,,2023-10-01,2023-10-04,,closed,AndrewKushnir,51974.0
+pull_request,,2023-10-01,2023-10-11,,closed,Erbenos,51972.0
+pull_request,,2023-10-01,2023-10-02,,closed,crisbeto,51971.0
+pull_request,,2023-10-01,2023-10-04,,closed,crisbeto,51969.0
+pull_request,,2023-09-30,,,open,wardbell,51968.0
+pull_request,,2023-09-30,2023-10-04,,closed,angular-robot,51966.0
+pull_request,,2023-09-30,2023-10-02,,closed,AndrewKushnir,51965.0
+pull_request,,2023-09-30,2023-10-04,,closed,AndrewKushnir,51964.0
+pull_request,,2023-09-29,2023-09-30,,closed,dylhunn,51963.0
+pull_request,,2023-09-29,2023-09-29,,closed,angular-robot,51962.0
+pull_request,,2023-09-29,2023-10-02,,closed,dylhunn,51961.0
+pull_request,,2023-09-29,2023-10-04,,closed,JeanMeche,51960.0
+pull_request,,2023-09-29,2023-09-29,,closed,angular-robot,51959.0
+pull_request,,2023-09-29,2023-09-29,,closed,Cadienvan,51958.0
+pull_request,,2023-09-29,2023-10-05,,closed,josephperrott,51957.0
+pull_request,,2023-09-29,2023-10-02,,closed,josephperrott,51956.0
+pull_request,,2023-09-29,2023-09-30,,closed,angular-robot,51955.0
+pull_request,,2023-09-29,2023-10-04,,closed,crisbeto,51952.0
+pull_request,,2023-09-29,,,open,MrJithil,51951.0
+pull_request,,2023-09-29,2023-10-04,,closed,dylhunn,51950.0
+pull_request,,2023-09-28,2023-10-27,,closed,Gkleinereva,51948.0
+pull_request,,2023-09-28,2023-10-09,,closed,pmvald,51947.0
+pull_request,,2023-09-28,2023-10-05,,closed,josephperrott,51945.0
+pull_request,,2023-09-28,2023-10-06,,closed,tomalaforge,51944.0
+pull_request,,2023-09-28,2023-10-04,,closed,dylhunn,51942.0
+pull_request,,2023-09-27,,,open,robertIsaac,51939.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51937.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51936.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51935.0
+pull_request,,2023-09-27,2023-09-27,,closed,josephperrott,51933.0
+pull_request,,2023-09-27,2023-09-27,,closed,dylhunn,51932.0
+pull_request,,2023-09-27,2023-09-29,,closed,dylhunn,51931.0
+pull_request,,2023-09-27,2023-09-27,,closed,angular-robot,51929.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,51926.0
+pull_request,,2023-09-27,2023-09-27,,closed,MrJithil,51925.0
+pull_request,,2023-09-27,2023-10-02,,closed,janniemeyer,51923.0
+pull_request,,2023-09-27,2023-09-27,,closed,crisbeto,51922.0
+pull_request,,2023-09-27,2023-09-27,,closed,JeevanMahesha,51921.0
+pull_request,,2023-09-27,2023-09-29,,closed,AndrewKushnir,51920.0
+pull_request,,2023-09-26,2023-10-09,,closed,pmvald,51919.0
+pull_request,,2023-09-26,2023-10-13,,closed,wardbell,51918.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51917.0
+pull_request,,2023-09-26,2023-09-27,,closed,angular-robot,51916.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51915.0
+pull_request,,2023-09-26,2023-09-27,,closed,AndrewKushnir,51914.0
+pull_request,,2023-09-26,2023-09-26,,closed,crisbeto,51913.0
+pull_request,,2023-09-26,2023-10-04,,closed,atscott,51912.0
+pull_request,,2023-09-26,2023-09-27,,closed,mmalerba,51911.0
+pull_request,,2023-09-26,2023-09-26,,closed,jessicajaniuk,51910.0
+pull_request,,2023-09-26,2023-09-26,,closed,angular-robot,51909.0
+pull_request,,2023-09-26,2023-09-26,,closed,josephperrott,51908.0
+pull_request,,2023-09-26,2023-09-26,,closed,crisbeto,51905.0
+pull_request,,2023-09-26,2023-10-02,,closed,pkozlowski-opensource,51903.0
+pull_request,,2023-09-26,2023-09-26,,closed,pkozlowski-opensource,51902.0
+pull_request,,2023-09-26,2023-09-29,,closed,AleksanderBodurri,51900.0
+pull_request,,2023-09-26,2023-09-27,,closed,angular-robot,51899.0
+pull_request,,2023-09-26,2023-10-10,,closed,angular-robot,51898.0
+pull_request,,2023-09-26,2023-10-18,,closed,angular-robot,51897.0
+pull_request,,2023-09-25,2023-09-26,,closed,angular-robot,51896.0
+pull_request,,2023-09-25,2023-09-25,,closed,AndrewKushnir,51895.0
+pull_request,,2023-09-25,2023-09-26,,closed,AndrewKushnir,51894.0
+pull_request,,2023-09-25,2023-09-27,,closed,pkozlowski-opensource,51892.0
+pull_request,,2023-09-25,2023-09-26,,closed,crisbeto,51891.0
+pull_request,,2023-09-25,2023-09-25,,closed,angular-robot,51890.0
+pull_request,,2023-09-25,2023-09-25,,closed,angular-robot,51889.0
+pull_request,,2023-09-25,2023-10-04,,closed,devversion,51887.0
+pull_request,,2023-09-25,2023-10-18,,closed,angular-robot,51886.0
+pull_request,,2023-09-24,2023-09-26,,closed,JeanMeche,51885.0
+pull_request,,2023-09-24,2023-09-24,,closed,JeanMeche,51884.0
+pull_request,,2023-09-24,2023-09-26,,closed,AndrewKushnir,51883.0
+pull_request,,2023-09-22,2023-09-26,,closed,dylhunn,51877.0
+pull_request,,2023-09-22,2023-09-29,,closed,mmalerba,51876.0
+pull_request,,2023-09-22,2023-09-25,,closed,angular-robot,51875.0
+pull_request,,2023-09-22,2023-09-25,,closed,crisbeto,51874.0
+pull_request,,2023-09-22,2023-09-27,,closed,angular-robot,51873.0
+pull_request,,2023-09-22,2023-10-04,,closed,JeanMeche,51872.0
+pull_request,,2023-09-22,2023-10-03,,closed,angular-robot,51871.0
+pull_request,,2023-09-22,2023-09-22,,closed,angular-robot,51870.0
+pull_request,,2023-09-22,2023-09-22,,closed,sidofdountio,51867.0
+pull_request,,2023-09-22,2023-09-22,,closed,devversion,51862.0
+pull_request,,2023-09-22,2023-09-22,,closed,JeanMeche,51858.0
+pull_request,,2023-09-22,,,open,wojtek1150,51857.0
+pull_request,,2023-09-22,2023-09-22,,closed,AndrewKushnir,51856.0
+pull_request,,2023-09-22,2023-09-22,,closed,AndrewKushnir,51855.0
+pull_request,,2023-09-21,2023-10-24,,closed,atscott,51854.0
+pull_request,,2023-09-21,2023-09-29,,closed,textbook,51851.0
+pull_request,,2023-09-21,2023-09-26,,closed,pmvald,51848.0
+pull_request,,2023-09-21,2023-09-29,,closed,josephperrott,51847.0
+pull_request,,2023-09-21,2023-10-06,,closed,atcastle,51846.0
+pull_request,,2023-09-21,2023-10-02,,closed,crisbeto,51845.0
+pull_request,,2023-09-21,2023-10-09,,closed,angular-robot,51844.0
+pull_request,,2023-09-25,2023-10-04,,closed,devversion,51887.0
+pull_request,,2023-09-25,2023-10-18,,closed,angular-robot,51886.0
+pull_request,,2023-09-24,2023-09-26,,closed,JeanMeche,51885.0
+pull_request,,2023-09-24,2023-09-24,,closed,JeanMeche,51884.0
+pull_request,,2023-09-24,2023-09-26,,closed,AndrewKushnir,51883.0
+pull_request,,2023-09-22,2023-09-26,,closed,dylhunn,51877.0
+pull_request,,2023-09-22,2023-09-29,,closed,mmalerba,51876.0
+pull_request,,2023-09-22,2023-09-25,,closed,angular-robot,51875.0
+pull_request,,2023-09-22,2023-09-25,,closed,crisbeto,51874.0
+pull_request,,2023-09-22,2023-09-27,,closed,angular-robot,51873.0
+pull_request,,2023-09-22,2023-10-04,,closed,JeanMeche,51872.0
+pull_request,,2023-09-22,2023-10-03,,closed,angular-robot,51871.0
+pull_request,,2023-09-22,2023-09-22,,closed,angular-robot,51870.0
+pull_request,,2023-09-22,2023-09-22,,closed,sidofdountio,51867.0
+pull_request,,2023-09-22,2023-09-22,,closed,devversion,51862.0
+pull_request,,2023-09-22,2023-09-22,,closed,JeanMeche,51858.0
+pull_request,,2023-09-22,,,open,wojtek1150,51857.0
+pull_request,,2023-09-22,2023-09-22,,closed,AndrewKushnir,51856.0
+pull_request,,2023-09-22,2023-09-22,,closed,AndrewKushnir,51855.0
+pull_request,,2023-09-21,2023-10-24,,closed,atscott,51854.0
+pull_request,,2023-09-21,2023-09-29,,closed,textbook,51851.0
+pull_request,,2023-09-21,2023-09-26,,closed,pmvald,51848.0
+pull_request,,2023-09-21,2023-09-29,,closed,josephperrott,51847.0
+pull_request,,2023-09-21,2023-10-06,,closed,atcastle,51846.0
+pull_request,,2023-09-21,2023-10-02,,closed,crisbeto,51845.0
+pull_request,,2023-09-21,2023-10-09,,closed,angular-robot,51844.0

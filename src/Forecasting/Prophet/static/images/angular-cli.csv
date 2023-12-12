@@ -1,0 +1,566 @@
+type,issue_number,created_at,closed_at,labels,state,author,pr_number
+issue,26454.0,2023-11-21,,[],open,brianreinhold,
+issue,26449.0,2023-11-21,,"['area: docs', 'devkit/build-angular:i18n', 'area: @angular/ssr']",open,spock123,
+issue,26448.0,2023-11-21,,[],open,paulThorsen,
+issue,26447.0,2023-11-21,2023-11-21,[],closed,raclettedesavoie,
+issue,26445.0,2023-11-21,2023-11-21,[],closed,santam85,
+issue,26443.0,2023-11-21,2023-11-21,['needs: more info'],closed,shashankagarwal1710,
+issue,26442.0,2023-11-21,2023-11-21,[],closed,codeandcloud,
+issue,26438.0,2023-11-21,,"['area: devkit/build-angular', 'devkit/build-angular:application']",open,Shosetsu,
+issue,26441.0,2023-11-21,,['needs: repro steps'],open,albahrawy,
+issue,26437.0,2023-11-20,,"['type: bug/fix', 'needs: investigation', 'devkit/build-angular:application']",open,MichielNL83,
+issue,26432.0,2023-11-20,,"['type: bug/fix', 'devkit/build-angular:application']",open,CarlosTorrecillas,
+issue,26431.0,2023-11-20,2023-11-20,[],closed,brettaio,
+issue,26429.0,2023-11-20,2023-11-20,[],closed,rkrisztian,
+issue,26427.0,2023-11-20,2023-11-20,[],closed,CarlosTorrecillas,
+issue,26423.0,2023-11-20,2023-11-20,[],closed,Shosetsu,
+issue,26419.0,2023-11-19,2023-11-19,[],closed,fssrepository,
+issue,26420.0,2023-11-19,,"['type: bug/fix', 'area: devkit/build-angular', 'devkit/build-angular:application']",open,tbprojects,
+issue,26416.0,2023-11-19,2023-11-19,[],closed,JelleBruisten,
+issue,26414.0,2023-11-19,2023-11-19,[],closed,albahrawy,
+issue,26413.0,2023-11-19,2023-11-20,[],closed,estrellajm,
+issue,26412.0,2023-11-18,,"['type: bug/fix', 'freq1: low', 'severity5: regression', 'area: devkit/schematics-cli']",open,its-dibo,
+issue,26415.0,2023-11-18,2023-11-20,"['type: bug/fix', 'devkit/build-angular:application']",closed,MichalZonis,
+issue,26411.0,2023-11-18,,['needs: discussion'],open,TheTomasJ,
+issue,26410.0,2023-11-18,2023-11-18,[],closed,SebastianStehle,
+issue,26407.0,2023-11-17,2023-11-21,[],closed,dwilches,
+issue,26408.0,2023-11-17,2023-11-18,[],closed,dwilches,
+issue,26406.0,2023-11-17,2023-11-20,[],closed,TanerSaydam,
+issue,26409.0,2023-11-17,,"['type: bug/fix', 'needs: repro steps', 'area: devkit/build-angular', 'devkit/build-angular:application']",open,spock123,
+issue,26396.0,2023-11-17,2023-11-17,[],closed,WillooWisp,
+issue,26395.0,2023-11-17,,"['type: bug/fix', 'needs: more info', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",open,LukasKomar,
+issue,26394.0,2023-11-17,,['needs: repro steps'],open,AmitRDesai,
+issue,26389.0,2023-11-17,,['needs: repro steps'],open,JoranLive,
+issue,26386.0,2023-11-17,2023-11-17,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'devkit/build-angular:i18n', 'devkit/build-angular:application']",closed,acohenOT,
+issue,26390.0,2023-11-16,2023-11-21,['needs: more info'],closed,brianmtreese,
+issue,26384.0,2023-11-16,,"['type: bug/fix', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",open,DariuszOstolski,
+issue,26383.0,2023-11-16,2023-11-17,"['type: bug/fix', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,LanderBeeuwsaert,
+issue,26382.0,2023-11-16,2023-11-17,[],closed,trickeyone,
+issue,26379.0,2023-11-16,,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",open,toddhd,
+issue,26378.0,2023-11-16,,"['area: devkit/build-angular', 'devkit/build-angular:application']",open,bjornharvold,
+issue,26377.0,2023-11-16,2023-11-16,[],closed,fengnian7,
+issue,26376.0,2023-11-16,2023-11-16,[],closed,LearnGrowAndShare,
+issue,26375.0,2023-11-16,2023-11-16,[],closed,mylifeandcode,
+issue,26374.0,2023-11-16,,['needs: repro steps'],open,ogolan-ig,
+issue,26368.0,2023-11-15,2023-11-15,[],closed,mcdenhoed,
+issue,26366.0,2023-11-15,,['state: blocked on upstream'],open,emiryumak,
+issue,26365.0,2023-11-15,2023-11-15,[],closed,kupchic,
+issue,26361.0,2023-11-15,2023-11-15,[],closed,roedoejet,
+issue,26360.0,2023-11-15,2023-11-15,[],closed,shaun-jacks,
+issue,26359.0,2023-11-14,2023-11-15,[],closed,JeanMeche,
+issue,26357.0,2023-11-14,2023-11-15,[],closed,jsloyer,
+issue,26356.0,2023-11-14,2023-11-14,[],closed,iqmeta,
+issue,26355.0,2023-11-14,2023-11-14,[],closed,robertIsaac,
+issue,26354.0,2023-11-14,2023-11-14,[],closed,Burgov,
+issue,26353.0,2023-11-14,2023-11-15,['needs: more info'],closed,enstenr,
+issue,26352.0,2023-11-14,2023-11-15,['needs: more info'],closed,its-dibo,
+issue,26350.0,2023-11-14,,"['type: bug/fix', 'area: devkit/build-angular', 'devkit/build-angular:i18n', 'devkit/build-angular:application']",open,destus90,
+issue,26349.0,2023-11-14,,"['area: devkit/build-angular', 'devkit/build-angular:dev-server', 'state: blocked on upstream']",open,miguellira,
+issue,26347.0,2023-11-13,,"['type: bug/fix', 'devkit/build-angular:application']",open,ln-e,
+issue,26345.0,2023-11-13,2023-11-15,['needs: more info'],closed,zerock54,
+issue,26344.0,2023-11-13,2023-11-13,[],closed,Burgov,
+issue,26343.0,2023-11-13,2023-11-13,[],closed,cipchk,
+issue,26342.0,2023-11-13,2023-11-14,[],closed,cexbrayat,
+issue,26339.0,2023-11-12,2023-11-15,"['type: bug/fix', 'devkit/build-angular:application']",closed,Guerric-P,
+issue,26338.0,2023-11-12,,"['feature', 'devkit/build-angular:i18n', 'feature: votes required', 'devkit/build-angular:application']",open,zip-fa,
+issue,26337.0,2023-11-12,2023-11-15,"['needs: investigation', 'area: angular/cli', 'ng update DX']",closed,kibetmasi,
+issue,26336.0,2023-11-12,2023-11-16,[],closed,noguespi,
+issue,26334.0,2023-11-11,2023-11-20,"['type: bug/fix', 'needs: more info', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,radekjakubowski,
+issue,26333.0,2023-11-11,2023-11-15,"['type: bug/fix', 'devkit/build-angular:application']",closed,inpercima,
+issue,26331.0,2023-11-11,2023-11-11,[],closed,maxfriedmann,
+issue,26332.0,2023-11-11,2023-11-13,['needs: more info'],closed,Burgov,
+issue,26330.0,2023-11-10,,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",open,joergbaier,
+issue,26329.0,2023-11-10,2023-11-12,[],closed,drtobal,
+issue,26326.0,2023-11-10,,[],open,chihab,
+issue,26325.0,2023-11-10,2023-11-15,"['type: bug/fix', 'devkit/build-angular:application']",closed,KatzRuslan,
+issue,26324.0,2023-11-10,2023-11-10,[],closed,Tiiyto,
+issue,26323.0,2023-11-10,,['devkit/build-angular:dev-server'],open,Ozzcer,
+issue,26320.0,2023-11-10,2023-11-10,['state: blocked on upstream'],closed,bagbag,
+issue,26319.0,2023-11-10,2023-11-15,[],closed,alanpurple,
+issue,26318.0,2023-11-10,2023-11-17,['needs: more info'],closed,tom-laplace,
+issue,26317.0,2023-11-10,2023-11-13,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,9kubczas4,
+issue,26316.0,2023-11-10,2023-11-10,[],closed,anhallbe,
+issue,26315.0,2023-11-10,2023-11-13,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: schematics/angular']",closed,djouf007,
+issue,26311.0,2023-11-10,2023-11-10,[],closed,vlio20,
+issue,26310.0,2023-11-10,2023-11-15,[],closed,cipchk,
+issue,26308.0,2023-11-09,2023-11-13,"['type: bug/fix', 'freq1: low', 'severity5: regression', 'area: devkit/build-angular']",closed,atsjo,
+issue,26307.0,2023-11-09,2023-11-10,[],closed,jnizet,
+issue,26305.0,2023-11-09,2023-11-09,[],closed,ssougnez,
+issue,26304.0,2023-11-09,2023-11-10,[],closed,ssougnez,
+issue,26303.0,2023-11-09,2023-11-09,['needs: repro steps'],closed,wartab,
+issue,26301.0,2023-11-09,2023-11-15,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,yutamago,
+issue,26299.0,2023-11-09,,"['feature', 'area: devkit/build-angular', 'feature: votes required', 'devkit/build-angular:application']",open,muuvmuuv,
+issue,26298.0,2023-11-09,2023-11-09,['needs: repro steps'],closed,Fab1anB,
+issue,26295.0,2023-11-09,,"['feature', 'area: angular/cli', 'feature: votes required']",open,splincode,
+issue,26292.0,2023-11-09,2023-11-09,"['needs: more info', 'area: angular/cli', 'ng update DX']",closed,SaranshChaudhary,
+issue,26291.0,2023-11-09,,"['feature', 'area: devkit/build-angular']",open,dgp1130,
+issue,26290.0,2023-11-09,,"['feature', 'area: schematics/angular']",open,dgp1130,
+issue,26288.0,2023-11-08,2023-11-09,[],closed,JosefBredereck,
+issue,26286.0,2023-11-08,,['needs: discussion'],open,zip-fa,
+issue,26284.0,2023-11-08,2023-11-15,[],closed,AhsanAyaz,
+issue,26283.0,2023-11-08,2023-11-09,[],closed,EliezerB123,
+issue,26282.0,2023-11-08,2023-11-08,[],closed,yharaskrik,
+issue,26272.0,2023-11-08,,"['feature', 'area: devkit/build-angular', 'feature: votes required']",open,simhnna,
+issue,26260.0,2023-11-07,2023-11-08,[],closed,hakimio,
+issue,26257.0,2023-11-07,2023-11-07,"['type: bug/fix', 'freq3: high', 'severity3: broken', 'area: schematics/angular']",closed,fmalcher,
+issue,26256.0,2023-11-07,2023-11-07,"['type: bug/fix', 'freq1: low', 'severity5: regression', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,zip-fa,
+issue,26255.0,2023-11-07,2023-11-07,[],closed,arunkumar30,
+issue,26244.0,2023-11-06,2023-11-06,['needs: repro steps'],closed,arturober,
+issue,26239.0,2023-11-06,2023-11-07,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:karma']",closed,akhilbiju,
+issue,26235.0,2023-11-05,2023-11-06,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,yharaskrik,
+issue,26234.0,2023-11-05,2023-11-06,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,yharaskrik,
+issue,26233.0,2023-11-04,2023-11-07,['needs: repro steps'],closed,edbzn,
+issue,26226.0,2023-11-03,2023-11-03,[],closed,pdaneshmand,
+issue,26223.0,2023-11-03,2023-11-09,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular']",closed,pcbowers,
+issue,26216.0,2023-11-03,2023-11-03,[],closed,arturober,
+issue,26215.0,2023-11-03,2023-11-03,"['type: bug/fix', 'freq2: medium', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,cexbrayat,
+issue,26213.0,2023-11-03,2023-11-03,"['type: bug/fix', 'freq2: medium', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,yjaaidi,
+issue,26209.0,2023-11-02,2023-11-02,[],closed,zip-fa,
+issue,26200.0,2023-11-02,2023-11-02,[],closed,andrewalderson,
+issue,26199.0,2023-11-01,2023-11-03,"['type: bug/fix', 'freq3: high', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,yharaskrik,
+issue,26198.0,2023-11-01,2023-11-02,['state: blocked on upstream'],closed,manfredsteyer,
+issue,26204.0,2023-11-01,,['needs: investigation'],open,gsans,
+issue,26192.0,2023-11-01,2023-11-02,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,zip-fa,
+issue,26184.0,2023-10-30,2023-10-31,[],closed,gp187,
+issue,26179.0,2023-10-30,2023-10-31,[],closed,naveedahmed1,
+issue,26178.0,2023-10-30,2023-11-01,['needs: more info'],closed,web-dave,
+issue,26167.0,2023-10-28,2023-10-30,"['type: bug/fix', 'area: angular/cli']",closed,robertIsaac,
+issue,26161.0,2023-10-27,,['needs: more info'],open,AshotAleqsanyan96,
+issue,26154.0,2023-10-26,2023-10-27,[],closed,gbrunow,
+issue,26153.0,2023-10-26,2023-10-30,[],closed,zip-fa,
+issue,26151.0,2023-10-26,2023-10-31,[],closed,zip-fa,
+issue,26148.0,2023-10-26,2023-10-27,[],closed,zip-fa,
+issue,26147.0,2023-10-26,2023-10-26,[],closed,zip-fa,
+issue,26141.0,2023-10-26,,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:ssr-dev-server']",open,iKrishnaSahu,
+issue,26140.0,2023-10-26,,"['feature', 'area: devkit/build-angular', 'feature: votes required', 'devkit/build-angular:application']",open,iKrishnaSahu,
+issue,26138.0,2023-10-26,2023-10-26,[],closed,spock123,
+issue,26135.0,2023-10-26,2023-10-26,[],closed,zip-fa,
+issue,26134.0,2023-10-26,2023-10-26,[],closed,Neizan93,
+issue,26132.0,2023-10-25,,"['feature', 'area: devkit/build-angular', 'feature: under consideration']",open,dgp1130,
+issue,26114.0,2023-10-24,2023-10-30,['area: angular/cli'],closed,JeanMeche,
+issue,26106.0,2023-10-23,2023-10-23,[],closed,pumano,
+issue,26110.0,2023-10-23,2023-10-31,"['type: bug/fix', 'freq1: low', 'area: schematics/angular']",closed,sonallux,
+issue,26105.0,2023-10-23,,[],open,pumano,
+issue,26101.0,2023-10-23,2023-10-23,[],closed,Casimodo72,
+issue,26095.0,2023-10-23,2023-10-24,[],closed,AnaA95,
+issue,26093.0,2023-10-23,2023-10-25,[],closed,d9j,
+issue,26092.0,2023-10-22,2023-10-22,[],closed,JeanMeche,
+issue,26091.0,2023-10-22,2023-10-22,[],closed,jasonrichdarmawan,
+issue,26090.0,2023-10-22,2023-10-25,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,HymanZHAN,
+issue,26088.0,2023-10-21,2023-10-23,[],closed,arambazamba,
+issue,26083.0,2023-10-20,2023-10-23,"['type: bug/fix', 'freq3: high', 'severity3: broken', 'area: schematics/angular']",closed,mcalmus,
+issue,26080.0,2023-10-20,2023-10-20,[],closed,turtleinspace1,
+issue,26074.0,2023-10-19,2023-10-20,['needs: more info'],closed,robertIsaac,
+issue,26063.0,2023-10-19,2023-10-19,"['type: bug/fix', 'freq2: medium', 'severity3: broken', 'area: schematics/angular']",closed,spock123,
+issue,26057.0,2023-10-18,,"['area: devkit/build-angular', 'devkit/build-angular:application']",open,MarcoGlauser,
+issue,26050.0,2023-10-17,2023-10-17,[],closed,DaniyalAlam09,
+issue,26044.0,2023-10-16,2023-10-18,"['type: bug/fix', 'severity3: broken', 'devkit/build-angular:application']",closed,yusuke-oba1,
+issue,26043.0,2023-10-16,2023-10-16,[],closed,jpike88,
+issue,26041.0,2023-10-14,2023-10-15,[],closed,lcpichette,
+issue,26042.0,2023-10-14,2023-10-15,[],closed,spock123,
+issue,26040.0,2023-10-14,2023-10-16,[],closed,Razorshnegax018,
+issue,26028.0,2023-10-13,2023-10-13,[],closed,thaoula,
+issue,26026.0,2023-10-12,2023-10-20,"['needs: investigation', 'devkit/build-angular:application']",closed,zip-fa,
+issue,26025.0,2023-10-12,2023-10-12,[],closed,DimitriTsikaridze,
+issue,26023.0,2023-10-12,2023-10-12,[],closed,zip-fa,
+issue,26021.0,2023-10-12,2023-10-12,"['type: bug/fix', 'freq3: high', 'severity5: regression', 'area: devkit/build-angular']",closed,zip-fa,
+issue,26014.0,2023-10-11,2023-10-12,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,zip-fa,
+issue,26013.0,2023-10-11,2023-10-16,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,zip-fa,
+issue,26012.0,2023-10-11,2023-10-18,"['type: bug/fix', 'help wanted', 'freq1: low', 'severity2: inconvenient', 'area: schematics/angular', 'good first issue']",closed,ocombe,
+issue,26010.0,2023-10-11,2023-10-11,[],closed,sercancolak,
+issue,26003.0,2023-10-11,2023-10-11,[],closed,bruceauyeung,
+issue,26000.0,2023-10-10,,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/schematics']",open,cheng93,
+issue,25998.0,2023-10-10,2023-10-10,[],closed,VincenzoManto,
+issue,25996.0,2023-10-09,2023-10-16,['needs: more info'],closed,codeunifier,
+issue,25987.0,2023-10-09,2023-10-09,[],closed,zip-fa,
+issue,25983.0,2023-10-09,2023-10-09,[],closed,danielhasugian,
+issue,25985.0,2023-10-08,2023-10-09,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,zip-fa,
+issue,25980.0,2023-10-08,2023-10-09,[],closed,digeomel,
+issue,25979.0,2023-10-07,2023-10-09,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server', 'devkit/build-angular:i18n']",closed,zip-fa,
+issue,25978.0,2023-10-07,2023-10-09,"['type: bug/fix', 'freq1: low', 'severity2: inconvenient', 'area: devkit/build-angular', 'devkit/build-angular:dev-server']",closed,zip-fa,
+issue,25972.0,2023-10-06,2023-10-18,"['type: bug/fix', 'freq2: medium', 'severity3: broken', 'devkit/build-angular:application']",closed,eneajaho,
+issue,25966.0,2023-10-05,2023-10-05,[],closed,muhamedkarajic,
+issue,25944.0,2023-10-04,2023-10-05,"['severity6: security', 'area: devkit/build-angular']",closed,clusterberries,
+issue,25943.0,2023-10-04,2023-10-23,"['type: bug/fix', 'freq2: medium', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,d9j,
+issue,25936.0,2023-10-02,,"['type: bug/fix', 'freq1: low', 'severity5: regression', 'area: ngtools/webpack']",open,apangr,
+issue,25935.0,2023-10-02,2023-10-11,"['type: bug/fix', 'needs: more info', 'freq2: medium', 'severity4: memory/performance', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,vbraun,
+issue,25929.0,2023-09-29,2023-09-29,[],closed,Potapich,
+issue,25925.0,2023-09-29,2023-09-29,['ng update DX'],closed,nikita-fuchs,
+issue,25924.0,2023-09-29,2023-09-29,"['type: bug/fix', 'freq3: high', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:dev-server', 'devkit/build-angular:application']",closed,eneajaho,
+issue,25923.0,2023-09-29,2023-09-29,[],closed,nblaudez,
+issue,25921.0,2023-09-28,2023-09-29,[],closed,segevfiner,
+issue,25920.0,2023-09-28,2023-09-29,[],closed,rcsilva83,
+issue,25919.0,2023-09-28,2023-10-11,['needs: more info'],closed,johncrim,
+issue,25918.0,2023-09-28,2023-09-28,[],closed,chopswil15,
+issue,25915.0,2023-09-28,2023-09-28,[],closed,dev-rajat-bacancy,
+issue,25912.0,2023-09-27,2023-10-04,"['type: bug/fix', 'freq3: high', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:application']",closed,psarno,
+issue,25911.0,2023-09-27,2023-10-09,"['type: bug/fix', 'freq1: low', 'severity3: broken', 'area: devkit/build-angular', 'devkit/build-angular:i18n', 'devkit/build-angular:application']",closed,cexbrayat,
+issue,25910.0,2023-09-27,2023-10-12,['needs: more info'],closed,LennonReid,
+issue,25907.0,2023-09-27,2023-09-27,[],closed,twilker,
+issue,25902.0,2023-09-26,2023-09-26,[],closed,SandorSzilard,
+issue,25897.0,2023-09-24,2023-09-24,[],closed,hubnerd,
+issue,25885.0,2023-09-21,2023-10-05,['needs: repro steps'],closed,ilyakonrad,
+issue,25883.0,2023-09-21,,"['needs: investigation', 'area: devkit/build-angular', 'devkit/build-angular:i18n']",open,cexbrayat,
+pull_request,,2023-11-21,2023-11-22,,closed,dgp1130,26452.0
+pull_request,,2023-11-21,2023-11-21,,closed,dgp1130,26451.0
+pull_request,,2023-11-21,2023-11-21,,closed,clydin,26450.0
+pull_request,,2023-11-21,2023-11-21,,closed,clydin,26446.0
+pull_request,,2023-11-21,,,open,alan-agius4,26444.0
+pull_request,,2023-11-21,2023-11-21,,closed,angular-robot,26440.0
+pull_request,,2023-11-21,2023-11-21,,closed,angular-robot,26439.0
+pull_request,,2023-11-20,2023-11-21,,closed,clydin,26436.0
+pull_request,,2023-11-20,,,open,clydin,26435.0
+pull_request,,2023-11-20,2023-11-20,,closed,dgp1130,26434.0
+pull_request,,2023-11-20,2023-11-20,,closed,dgp1130,26433.0
+pull_request,,2023-11-20,2023-11-20,,closed,alan-agius4,26430.0
+pull_request,,2023-11-20,2023-11-20,,closed,alan-agius4,26428.0
+pull_request,,2023-11-20,2023-11-20,,closed,alan-agius4,26426.0
+pull_request,,2023-11-20,2023-11-20,,closed,alan-agius4,26425.0
+pull_request,,2023-11-20,2023-11-20,,closed,alan-agius4,26424.0
+pull_request,,2023-11-20,2023-11-21,,closed,angular-robot,26422.0
+pull_request,,2023-11-19,2023-11-20,,closed,clydin,26418.0
+pull_request,,2023-11-19,2023-11-20,,closed,clydin,26417.0
+pull_request,,2023-11-18,2023-11-19,,closed,angular-robot,26405.0
+pull_request,,2023-11-18,2023-11-20,,closed,clydin,26404.0
+pull_request,,2023-11-18,2023-11-20,,closed,clydin,26403.0
+pull_request,,2023-11-17,2023-11-17,,closed,clydin,26402.0
+pull_request,,2023-11-17,,,open,clydin,26401.0
+pull_request,,2023-11-17,2023-11-20,,closed,clydin,26400.0
+pull_request,,2023-11-17,2023-11-20,,closed,clydin,26399.0
+pull_request,,2023-11-17,2023-11-17,,closed,clydin,26398.0
+pull_request,,2023-11-17,2023-11-17,,closed,clydin,26397.0
+pull_request,,2023-11-17,2023-11-17,,closed,clydin,26393.0
+pull_request,,2023-11-17,2023-11-17,,closed,alan-agius4,26392.0
+pull_request,,2023-11-17,2023-11-21,,closed,alan-agius4,26391.0
+pull_request,,2023-11-17,2023-11-17,,closed,angular-robot,26388.0
+pull_request,,2023-11-17,2023-11-17,,closed,angular-robot,26387.0
+pull_request,,2023-11-16,2023-11-17,,closed,clydin,26385.0
+pull_request,,2023-11-16,2023-11-17,,closed,clydin,26381.0
+pull_request,,2023-11-16,2023-11-16,,closed,alan-agius4,26380.0
+pull_request,,2023-11-16,2023-11-16,,closed,alan-agius4,26373.0
+pull_request,,2023-11-16,2023-11-16,,closed,angular-robot,26372.0
+pull_request,,2023-11-16,2023-11-16,,closed,clydin,26371.0
+pull_request,,2023-11-15,2023-11-15,,closed,clydin,26370.0
+pull_request,,2023-11-15,2023-11-15,,closed,clydin,26369.0
+pull_request,,2023-11-15,2023-11-15,,closed,alan-agius4,26367.0
+pull_request,,2023-11-15,2023-11-15,,closed,alan-agius4,26364.0
+pull_request,,2023-11-15,2023-11-15,,closed,alan-agius4,26363.0
+pull_request,,2023-11-15,2023-11-15,,closed,angular-robot,26362.0
+pull_request,,2023-11-14,2023-11-15,,closed,clydin,26358.0
+pull_request,,2023-11-14,2023-11-20,,closed,angular-robot,26351.0
+pull_request,,2023-11-13,2023-11-15,,closed,clydin,26346.0
+pull_request,,2023-11-13,2023-11-13,,closed,angular-robot,26341.0
+pull_request,,2023-11-13,2023-11-20,,closed,JeanMeche,26340.0
+pull_request,,2023-11-12,2023-11-15,,closed,angular-robot,26335.0
+pull_request,,2023-11-10,2023-11-13,,closed,alan-agius4,26322.0
+pull_request,,2023-11-10,2023-11-13,,closed,alan-agius4,26321.0
+pull_request,,2023-11-10,2023-11-15,,closed,alan-agius4,26314.0
+pull_request,,2023-11-10,2023-11-13,,closed,alan-agius4,26313.0
+pull_request,,2023-11-10,2023-11-13,,closed,angular-robot,26312.0
+pull_request,,2023-11-10,,,open,ArthurDibe,26309.0
+pull_request,,2023-11-09,2023-11-13,,closed,alan-agius4,26302.0
+pull_request,,2023-11-09,2023-11-13,,closed,alan-agius4,26300.0
+pull_request,,2023-11-09,2023-11-13,,closed,alan-agius4,26297.0
+pull_request,,2023-11-09,2023-11-13,,closed,alan-agius4,26296.0
+pull_request,,2023-11-09,2023-11-09,,closed,angular-robot,26294.0
+pull_request,,2023-11-09,2023-11-09,,closed,angular-robot,26293.0
+pull_request,,2023-11-08,2023-11-09,,closed,clydin,26289.0
+pull_request,,2023-11-08,2023-11-08,,closed,cexbrayat,26287.0
+pull_request,,2023-11-08,2023-11-08,,closed,cexbrayat,26285.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26281.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26280.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26279.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26278.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26277.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26276.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26275.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26274.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26273.0
+pull_request,,2023-11-08,2023-11-08,,closed,alan-agius4,26271.0
+pull_request,,2023-11-08,2023-11-08,,closed,cexbrayat,26270.0
+pull_request,,2023-11-07,2023-11-08,,closed,d-koppenhagen,26269.0
+pull_request,,2023-11-07,2023-11-07,,closed,dgp1130,26268.0
+pull_request,,2023-11-07,2023-11-07,,closed,dgp1130,26267.0
+pull_request,,2023-11-07,2023-11-07,,closed,alan-agius4,26266.0
+pull_request,,2023-11-07,2023-11-08,,closed,clydin,26265.0
+pull_request,,2023-11-07,2023-11-07,,closed,clydin,26264.0
+pull_request,,2023-11-07,2023-11-08,,closed,alan-agius4,26263.0
+pull_request,,2023-11-07,2023-11-07,,closed,alan-agius4,26262.0
+pull_request,,2023-11-07,2023-11-07,,closed,clydin,26261.0
+pull_request,,2023-11-07,2023-11-07,,closed,alan-agius4,26259.0
+pull_request,,2023-11-07,2023-11-07,,closed,alan-agius4,26258.0
+pull_request,,2023-11-07,2023-11-08,,closed,angular-robot,26254.0
+pull_request,,2023-11-07,2023-11-07,,closed,dgp1130,26253.0
+pull_request,,2023-11-07,2023-11-07,,closed,dgp1130,26252.0
+pull_request,,2023-11-06,2023-11-06,,closed,twerske,26251.0
+pull_request,,2023-11-06,2023-11-06,,closed,clydin,26250.0
+pull_request,,2023-11-06,2023-11-06,,closed,clydin,26249.0
+pull_request,,2023-11-06,2023-11-06,,closed,alan-agius4,26248.0
+pull_request,,2023-11-06,2023-11-06,,closed,alan-agius4,26247.0
+pull_request,,2023-11-06,2023-11-06,,closed,alan-agius4,26246.0
+pull_request,,2023-11-06,2023-11-07,,closed,akhilbiju,26245.0
+pull_request,,2023-11-06,2023-11-06,,closed,akhilbiju,26243.0
+pull_request,,2023-11-06,2023-11-06,,closed,akhilbiju,26242.0
+pull_request,,2023-11-06,2023-11-06,,closed,akhilbiju,26241.0
+pull_request,,2023-11-06,2023-11-07,,closed,angular-robot,26240.0
+pull_request,,2023-11-05,2023-11-06,,closed,clydin,26237.0
+pull_request,,2023-11-05,2023-11-08,,closed,angular-robot,26236.0
+pull_request,,2023-11-04,2023-11-05,,closed,alan-agius4,26232.0
+pull_request,,2023-11-04,2023-11-05,,closed,alan-agius4,26231.0
+pull_request,,2023-11-04,2023-11-04,,closed,angular-robot,26230.0
+pull_request,,2023-11-04,2023-11-05,,closed,angular-robot,26229.0
+pull_request,,2023-11-04,2023-11-04,,closed,hirotoKirimaru,26228.0
+pull_request,,2023-11-03,2023-11-05,,closed,clydin,26227.0
+pull_request,,2023-11-03,2023-11-03,,closed,clydin,26225.0
+pull_request,,2023-11-03,2023-11-06,,closed,alan-agius4,26224.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,26222.0
+pull_request,,2023-11-03,2023-11-07,,closed,alan-agius4,26221.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,26220.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,26219.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,26218.0
+pull_request,,2023-11-03,2023-11-03,,closed,alan-agius4,26217.0
+pull_request,,2023-11-03,2023-11-03,,closed,cexbrayat,26214.0
+pull_request,,2023-11-02,2023-11-03,,closed,clydin,26212.0
+pull_request,,2023-11-02,2023-11-03,,closed,clydin,26211.0
+pull_request,,2023-11-02,2023-11-03,,closed,alan-agius4,26210.0
+pull_request,,2023-11-02,2023-11-02,,closed,angular-robot,26208.0
+pull_request,,2023-11-02,2023-11-02,,closed,alan-agius4,26207.0
+pull_request,,2023-11-02,2023-11-02,,closed,alan-agius4,26206.0
+pull_request,,2023-11-02,2023-11-03,,closed,alan-agius4,26205.0
+pull_request,,2023-11-02,2023-11-02,,closed,alan-agius4,26203.0
+pull_request,,2023-11-02,2023-11-02,,closed,alan-agius4,26202.0
+pull_request,,2023-11-02,2023-11-02,,closed,leosvelperez,26201.0
+pull_request,,2023-11-01,2023-11-03,,closed,atcastle,26197.0
+pull_request,,2023-11-01,2023-11-02,,closed,clydin,26196.0
+pull_request,,2023-11-01,2023-11-01,,closed,clydin,26195.0
+pull_request,,2023-11-01,2023-11-01,,closed,clydin,26194.0
+pull_request,,2023-11-01,2023-11-01,,closed,alan-agius4,26193.0
+pull_request,,2023-11-01,2023-11-02,,closed,angular-robot,26191.0
+pull_request,,2023-11-01,2023-11-01,,closed,alan-agius4,26190.0
+pull_request,,2023-11-01,2023-11-01,,closed,alan-agius4,26189.0
+pull_request,,2023-11-01,2023-11-01,,closed,alan-agius4,26188.0
+pull_request,,2023-10-31,2023-10-31,,closed,crisbeto,26187.0
+pull_request,,2023-10-31,2023-10-31,,closed,alan-agius4,26186.0
+pull_request,,2023-10-31,2023-11-01,,closed,angular-robot,26185.0
+pull_request,,2023-10-31,2023-10-31,,closed,angular-robot,26183.0
+pull_request,,2023-10-31,2023-10-31,,closed,clydin,26182.0
+pull_request,,2023-10-30,2023-10-31,,closed,clydin,26181.0
+pull_request,,2023-10-30,2023-10-31,,closed,clydin,26180.0
+pull_request,,2023-10-30,2023-10-30,,closed,alan-agius4,26177.0
+pull_request,,2023-10-30,2023-10-30,,closed,alan-agius4,26176.0
+pull_request,,2023-10-30,2023-10-31,,closed,alan-agius4,26175.0
+pull_request,,2023-10-30,2023-10-30,,closed,alan-agius4,26174.0
+pull_request,,2023-10-30,2023-10-30,,closed,alan-agius4,26173.0
+pull_request,,2023-10-30,2023-10-30,,closed,angular-robot,26172.0
+pull_request,,2023-10-29,2023-10-30,,closed,clydin,26171.0
+pull_request,,2023-10-29,2023-10-30,,closed,clydin,26170.0
+pull_request,,2023-10-29,2023-10-30,,closed,clydin,26169.0
+pull_request,,2023-10-29,2023-10-30,,closed,angular-robot,26168.0
+pull_request,,2023-10-28,2023-10-30,,closed,clydin,26166.0
+pull_request,,2023-10-27,2023-10-30,,closed,clydin,26165.0
+pull_request,,2023-10-27,2023-10-30,,closed,dgp1130,26164.0
+pull_request,,2023-10-27,2023-10-30,,closed,josephperrott,26163.0
+pull_request,,2023-10-27,2023-10-30,,closed,clydin,26162.0
+pull_request,,2023-10-27,2023-10-30,,closed,alan-agius4,26160.0
+pull_request,,2023-10-27,2023-10-27,,closed,alan-agius4,26159.0
+pull_request,,2023-10-27,2023-10-31,,closed,alan-agius4,26158.0
+pull_request,,2023-10-27,2023-10-27,,closed,angular-robot,26157.0
+pull_request,,2023-10-27,2023-10-27,,closed,alan-agius4,26156.0
+pull_request,,2023-10-27,2023-11-03,,closed,angular-robot,26155.0
+pull_request,,2023-10-26,2023-10-26,,closed,dgp1130,26152.0
+pull_request,,2023-10-26,2023-10-27,,closed,clydin,26150.0
+pull_request,,2023-10-26,2023-10-26,,closed,dgp1130,26149.0
+pull_request,,2023-10-26,2023-10-27,,closed,clydin,26146.0
+pull_request,,2023-10-26,2023-10-26,,closed,angular-robot,26145.0
+pull_request,,2023-10-26,2023-10-26,,closed,angular-robot,26144.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,26143.0
+pull_request,,2023-10-26,2023-10-26,,closed,clydin,26142.0
+pull_request,,2023-10-26,2023-10-26,,closed,cexbrayat,26139.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,26137.0
+pull_request,,2023-10-26,2023-10-26,,closed,alan-agius4,26136.0
+pull_request,,2023-10-26,2023-10-26,,closed,angular-robot,26133.0
+pull_request,,2023-10-25,2023-10-25,,closed,dgp1130,26131.0
+pull_request,,2023-10-25,2023-10-25,,closed,dgp1130,26130.0
+pull_request,,2023-10-25,2023-10-26,,closed,clydin,26129.0
+pull_request,,2023-10-25,2023-10-26,,closed,clydin,26128.0
+pull_request,,2023-10-25,2023-10-25,,closed,dgp1130,26127.0
+pull_request,,2023-10-25,2023-10-25,,closed,dgp1130,26126.0
+pull_request,,2023-10-25,2023-10-28,,closed,I-A-S,26125.0
+pull_request,,2023-10-25,2023-10-25,,closed,angular-robot,26124.0
+pull_request,,2023-10-25,2023-10-25,,closed,angular-robot,26123.0
+pull_request,,2023-10-25,2023-10-26,,closed,angular-robot,26122.0
+pull_request,,2023-10-25,2023-10-25,,closed,clydin,26121.0
+pull_request,,2023-10-25,2023-10-25,,closed,I-A-S,26120.0
+pull_request,,2023-10-24,2023-10-30,,closed,josephperrott,26119.0
+pull_request,,2023-10-24,2023-10-25,,closed,clydin,26118.0
+pull_request,,2023-10-24,2023-10-25,,closed,alan-agius4,26117.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,26116.0
+pull_request,,2023-10-24,2023-10-24,,closed,alan-agius4,26115.0
+pull_request,,2023-10-24,2023-10-26,,closed,alan-agius4,26113.0
+pull_request,,2023-10-24,2023-10-24,,closed,clydin,26112.0
+pull_request,,2023-10-24,2023-10-24,,closed,clydin,26111.0
+pull_request,,2023-10-23,2023-10-31,,closed,michaelfaith,26109.0
+pull_request,,2023-10-23,2023-10-23,,closed,clydin,26108.0
+pull_request,,2023-10-23,2023-10-25,,closed,clydin,26107.0
+pull_request,,2023-10-23,2023-10-23,,closed,clydin,26104.0
+pull_request,,2023-10-23,2023-10-23,,closed,clydin,26103.0
+pull_request,,2023-10-23,2023-10-23,,closed,clydin,26102.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,26100.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,26099.0
+pull_request,,2023-10-23,2023-10-24,,closed,alan-agius4,26098.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,26097.0
+pull_request,,2023-10-23,2023-10-23,,closed,alan-agius4,26096.0
+pull_request,,2023-10-23,2023-10-25,,closed,angular-robot,26094.0
+pull_request,,2023-10-21,2023-10-23,,closed,clydin,26089.0
+pull_request,,2023-10-21,2023-10-23,,closed,angular-robot,26087.0
+pull_request,,2023-10-21,2023-10-23,,closed,angular-robot,26086.0
+pull_request,,2023-10-21,2023-10-23,,closed,angular-robot,26085.0
+pull_request,,2023-10-21,2023-10-23,,closed,clydin,26084.0
+pull_request,,2023-10-20,2023-10-20,,closed,alan-agius4,26082.0
+pull_request,,2023-10-20,2023-10-23,,closed,clydin,26081.0
+pull_request,,2023-10-20,2023-10-20,,closed,alan-agius4,26079.0
+pull_request,,2023-10-20,2023-10-20,,closed,thapasusheel,26078.0
+pull_request,,2023-10-20,2023-10-20,,closed,angular-robot,26077.0
+pull_request,,2023-10-20,2023-10-20,,closed,alan-agius4,26076.0
+pull_request,,2023-10-19,2023-10-20,,closed,clydin,26075.0
+pull_request,,2023-10-19,2023-10-20,,closed,clydin,26073.0
+pull_request,,2023-10-19,2023-10-19,,closed,dgp1130,26072.0
+pull_request,,2023-10-19,2023-10-19,,closed,dgp1130,26071.0
+pull_request,,2023-10-19,2023-10-20,,closed,clydin,26070.0
+pull_request,,2023-10-19,2023-10-19,,closed,clydin,26069.0
+pull_request,,2023-10-19,2023-10-19,,closed,clydin,26068.0
+pull_request,,2023-10-19,2023-10-19,,closed,alan-agius4,26067.0
+pull_request,,2023-10-19,2023-10-20,,closed,alan-agius4,26066.0
+pull_request,,2023-10-19,2023-10-19,,closed,alan-agius4,26065.0
+pull_request,,2023-10-19,2023-10-19,,closed,alan-agius4,26064.0
+pull_request,,2023-10-19,2023-10-19,,closed,angular-robot,26062.0
+pull_request,,2023-10-18,2023-10-18,,closed,alan-agius4,26061.0
+pull_request,,2023-10-18,2023-10-18,,closed,clydin,26060.0
+pull_request,,2023-10-18,2023-10-18,,closed,clydin,26059.0
+pull_request,,2023-10-18,2023-10-18,,closed,alan-agius4,26058.0
+pull_request,,2023-10-18,2023-10-18,,closed,alan-agius4,26056.0
+pull_request,,2023-10-18,2023-10-19,,closed,angular-robot,26055.0
+pull_request,,2023-10-18,2023-10-19,,closed,angular-robot,26054.0
+pull_request,,2023-10-18,2023-10-18,,closed,clydin,26053.0
+pull_request,,2023-10-17,2023-10-18,,closed,clydin,26052.0
+pull_request,,2023-10-17,2023-10-18,,closed,clydin,26051.0
+pull_request,,2023-10-17,2023-10-17,,closed,angular-robot,26048.0
+pull_request,,2023-10-16,2023-10-19,,closed,domske,26047.0
+pull_request,,2023-10-16,2023-10-17,,closed,clydin,26046.0
+pull_request,,2023-10-16,2023-10-20,,closed,alan-agius4,26045.0
+pull_request,,2023-10-14,2023-10-18,,closed,SarthakD15,26039.0
+pull_request,,2023-10-14,2023-10-16,,closed,angular-robot,26038.0
+pull_request,,2023-10-14,2023-10-16,,closed,angular-robot,26037.0
+pull_request,,2023-10-13,,,open,clydin,26036.0
+pull_request,,2023-10-13,2023-10-17,,closed,clydin,26035.0
+pull_request,,2023-10-13,2023-10-16,,closed,clydin,26034.0
+pull_request,,2023-10-13,2023-10-16,,closed,alan-agius4,26033.0
+pull_request,,2023-10-13,2023-10-13,,closed,angular-robot,26032.0
+pull_request,,2023-10-13,2023-10-15,,closed,SarthakD15,26031.0
+pull_request,,2023-10-13,2023-10-13,,closed,angular-robot,26030.0
+pull_request,,2023-10-13,2023-10-18,,closed,angular-robot,26029.0
+pull_request,,2023-10-12,2023-10-13,,closed,clydin,26027.0
+pull_request,,2023-10-12,2023-10-12,,closed,alan-agius4,26024.0
+pull_request,,2023-10-12,2023-10-12,,closed,alan-agius4,26022.0
+pull_request,,2023-10-12,2023-10-12,,closed,alan-agius4,26020.0
+pull_request,,2023-10-12,2023-10-12,,closed,alan-agius4,26019.0
+pull_request,,2023-10-12,2023-10-13,,closed,alan-agius4,26018.0
+pull_request,,2023-10-12,2023-10-12,,closed,angular-robot,26017.0
+pull_request,,2023-10-11,2023-10-12,,closed,clydin,26016.0
+pull_request,,2023-10-11,2023-10-11,,closed,clydin,26015.0
+pull_request,,2023-10-11,2023-10-11,,closed,clydin,26011.0
+pull_request,,2023-10-11,2023-10-11,,closed,alan-agius4,26009.0
+pull_request,,2023-10-11,2023-10-11,,closed,alan-agius4,26008.0
+pull_request,,2023-10-11,2023-10-11,,closed,alan-agius4,26007.0
+pull_request,,2023-10-11,2023-10-12,,closed,alan-agius4,26006.0
+pull_request,,2023-10-11,2023-10-11,,closed,alan-agius4,26005.0
+pull_request,,2023-10-11,2023-10-11,,closed,alan-agius4,26004.0
+pull_request,,2023-10-11,2023-10-11,,closed,angular-robot,26002.0
+pull_request,,2023-10-11,2023-10-11,,closed,dgp1130,26001.0
+pull_request,,2023-10-10,2023-10-10,,closed,alan-agius4,25999.0
+pull_request,,2023-10-10,2023-10-12,,closed,alan-agius4,25997.0
+pull_request,,2023-10-10,2023-10-10,,closed,alan-agius4,25995.0
+pull_request,,2023-10-10,2023-10-10,,closed,angular-robot,25994.0
+pull_request,,2023-10-10,2023-10-12,,closed,angular-robot,25993.0
+pull_request,,2023-10-09,2023-10-10,,closed,clydin,25992.0
+pull_request,,2023-10-09,2023-10-18,,closed,clydin,25991.0
+pull_request,,2023-10-09,2023-10-09,,closed,angular-robot,25990.0
+pull_request,,2023-10-09,2023-10-09,,closed,clydin,25989.0
+pull_request,,2023-10-09,2023-10-09,,closed,alan-agius4,25988.0
+pull_request,,2023-10-09,2023-10-09,,closed,alan-agius4,25986.0
+pull_request,,2023-10-09,2023-10-09,,closed,angular-robot,25984.0
+pull_request,,2023-10-08,2023-10-09,,closed,clydin,25982.0
+pull_request,,2023-10-08,2023-10-09,,closed,clydin,25981.0
+pull_request,,2023-10-07,2023-10-09,,closed,angular-robot,25977.0
+pull_request,,2023-10-06,2023-10-09,,closed,clydin,25976.0
+pull_request,,2023-10-06,2023-10-09,,closed,alan-agius4,25975.0
+pull_request,,2023-10-06,2023-10-06,,closed,alan-agius4,25974.0
+pull_request,,2023-10-06,2023-10-09,,closed,alan-agius4,25973.0
+pull_request,,2023-10-06,2023-10-06,,closed,alan-agius4,25971.0
+pull_request,,2023-10-06,2023-10-06,,closed,angular-robot,25970.0
+pull_request,,2023-10-06,2023-10-09,,closed,angular-robot,25969.0
+pull_request,,2023-10-06,2023-10-06,,closed,lam131,25968.0
+pull_request,,2023-10-06,2023-10-06,,closed,clydin,25967.0
+pull_request,,2023-10-05,2023-10-09,,closed,clydin,25965.0
+pull_request,,2023-10-05,2023-10-05,,closed,clydin,25964.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25963.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25962.0
+pull_request,,2023-10-05,2023-10-05,,closed,clydin,25961.0
+pull_request,,2023-10-05,2023-10-05,,closed,clydin,25960.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25959.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25958.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25957.0
+pull_request,,2023-10-05,2023-10-05,,closed,alan-agius4,25956.0
+pull_request,,2023-10-05,2023-10-09,,closed,angular-robot,25955.0
+pull_request,,2023-10-05,2023-10-05,,closed,angular-robot,25954.0
+pull_request,,2023-10-05,2023-10-05,,closed,angular-robot,25953.0
+pull_request,,2023-10-04,2023-10-04,,closed,clydin,25952.0
+pull_request,,2023-10-04,2023-10-04,,closed,clydin,25951.0
+pull_request,,2023-10-04,2023-10-04,,closed,clydin,25950.0
+pull_request,,2023-10-04,2023-10-04,,closed,clydin,25949.0
+pull_request,,2023-10-04,2023-10-04,,closed,alan-agius4,25948.0
+pull_request,,2023-10-04,2023-10-04,,closed,alan-agius4,25947.0
+pull_request,,2023-10-04,2023-10-05,,closed,alan-agius4,25946.0
+pull_request,,2023-10-04,2023-10-04,,closed,angular-robot,25945.0
+pull_request,,2023-10-03,2023-11-01,,closed,clydin,25942.0
+pull_request,,2023-10-03,2023-10-04,,closed,clydin,25941.0
+pull_request,,2023-10-03,2023-10-04,,closed,clydin,25940.0
+pull_request,,2023-10-03,2023-10-04,,closed,clydin,25939.0
+pull_request,,2023-10-03,2023-10-04,,closed,clydin,25938.0
+pull_request,,2023-10-03,2023-10-04,,closed,crisbeto,25937.0
+pull_request,,2023-10-02,2023-10-02,,closed,alan-agius4,25934.0
+pull_request,,2023-10-02,2023-10-02,,closed,alan-agius4,25933.0
+pull_request,,2023-10-02,2023-10-04,,closed,angular-robot,25932.0
+pull_request,,2023-10-01,2023-10-11,,closed,twoco,25931.0
+pull_request,,2023-09-30,2023-10-09,,closed,crisbeto,25930.0
+pull_request,,2023-09-29,2023-09-29,,closed,cexbrayat,25928.0
+pull_request,,2023-09-29,2023-09-29,,closed,alan-agius4,25927.0
+pull_request,,2023-09-29,2023-09-29,,closed,alan-agius4,25926.0
+pull_request,,2023-09-29,2023-10-04,,closed,angular-robot,25922.0
+pull_request,,2023-09-28,2023-09-28,,closed,cexbrayat,25917.0
+pull_request,,2023-09-28,2023-09-28,,closed,alan-agius4,25916.0
+pull_request,,2023-09-28,2023-09-28,,closed,angular-robot,25914.0
+pull_request,,2023-09-27,2023-10-04,,closed,cexbrayat,25913.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,25909.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,25908.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,25906.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,25905.0
+pull_request,,2023-09-27,2023-09-27,,closed,alan-agius4,25904.0
+pull_request,,2023-09-27,2023-09-28,,closed,alan-agius4,25903.0
+pull_request,,2023-09-25,,,open,sp90,25901.0
+pull_request,,2023-09-25,2023-09-26,,closed,alan-agius4,25900.0
+pull_request,,2023-09-25,2023-09-25,,closed,alan-agius4,25899.0
+pull_request,,2023-09-25,2023-09-26,,closed,angular-robot,25898.0
+pull_request,,2023-09-23,2023-09-25,,closed,angular-robot,25896.0
+pull_request,,2023-09-23,2023-09-28,,closed,angular-robot,25895.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25894.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25893.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25891.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25890.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25889.0
+pull_request,,2023-09-22,2023-09-22,,closed,alan-agius4,25888.0
+pull_request,,2023-09-22,2023-09-22,,closed,angular-robot,25887.0
+pull_request,,2023-09-22,2023-09-22,,closed,clydin,25886.0
+pull_request,,2023-09-21,2023-09-22,,closed,alan-agius4,25884.0
+pull_request,,2023-09-21,2023-09-21,,closed,angular-robot,25882.0
+pull_request,,2023-09-21,2023-09-21,,closed,clydin,25881.0

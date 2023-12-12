@@ -1,0 +1,384 @@
+type,issue_number,created_at,closed_at,labels,state,author,pr_number
+issue,13183.0,2023-11-21,2023-11-21,['I-defect'],closed,polRk,
+issue,13182.0,2023-11-21,2023-11-21,['I-defect'],closed,anassibnoualii,
+issue,13181.0,2023-11-21,,"['C-nodejs', 'I-defect', 'needs-triaging']",open,slhck,
+issue,13180.0,2023-11-21,,"['R-awaiting answer', 'I-defect']",open,manikumarnune123,
+issue,13179.0,2023-11-21,2023-11-21,['I-defect'],closed,jjqi92,
+issue,13178.0,2023-11-21,,"['I-defect', 'I-issue-template']",open,JanardhanGN91,
+issue,13177.0,2023-11-21,,"['R-awaiting answer', 'I-defect']",open,Dandush03,
+issue,13172.0,2023-11-19,,"['R-awaiting answer', 'C-dotnet', 'I-defect', 'needs-triaging']",open,budcribar,
+issue,13171.0,2023-11-19,,"['I-defect', 'needs-triaging', 'help wanted']",open,rbri,
+issue,13170.0,2023-11-19,2023-11-19,"['I-defect', 'needs-triaging']",closed,sarushili0430,
+issue,13169.0,2023-11-19,2023-11-19,"['I-defect', 'needs-triaging']",closed,konflic,
+issue,13168.0,2023-11-17,,"['C-dotnet', 'I-defect', 'needs-triaging']",open,Y2KMAX3000,
+issue,13167.0,2023-11-17,,"['I-defect', 'needs-triaging']",open,csgbn,
+issue,13164.0,2023-11-16,,"['I-defect', 'I-issue-template']",open,zubairkhakwani,
+issue,13163.0,2023-11-16,2023-11-17,"['C-java', 'I-defect']",closed,vlad8x8,
+issue,13161.0,2023-11-16,2023-11-16,"['I-defect', 'I-issue-template']",closed,gdonald,
+issue,13160.0,2023-11-16,,"['I-enhancement', 'C-devtools']",open,boris-petrov,
+issue,13158.0,2023-11-16,2023-11-16,"['I-defect', 'needs-triaging']",closed,kkoripl,
+issue,13157.0,2023-11-16,,"['I-defect', 'I-issue-template', 'needs-triaging']",open,pravinshinde222,
+issue,13156.0,2023-11-15,,"['R-awaiting answer', 'I-defect', 'I-issue-template']",open,amistry96,
+issue,13155.0,2023-11-15,2023-11-15,['I-question'],closed,SidArtem,
+issue,13154.0,2023-11-15,2023-11-15,"['C-java', 'I-defect']",closed,fjf2002,
+issue,13152.0,2023-11-15,,"['R-awaiting answer', 'C-rb', 'I-defect']",open,JuzerShakir,
+issue,13150.0,2023-11-14,,"['I-enhancement', 'C-build', 'needs-triaging']",open,titusfortner,
+issue,13149.0,2023-11-14,2023-11-14,[],closed,Shumatic,
+issue,13148.0,2023-11-14,2023-11-14,['I-question'],closed,invincibleSachi,
+issue,13147.0,2023-11-14,,"['C-py', 'I-defect']",open,jnhyperion,
+issue,13146.0,2023-11-13,2023-11-13,[],closed,dcooke570,
+issue,13145.0,2023-11-13,2023-11-13,"['C-java', 'I-defect', 'needs-triaging']",closed,namuller30,
+issue,13144.0,2023-11-13,,"['C-grid', 'I-defect', 'help wanted']",open,tom17031,
+issue,13141.0,2023-11-10,,"['C-py', 'I-defect']",open,Yurnerosk,
+issue,13139.0,2023-11-10,2023-11-13,"['I-enhancement', 'needs-triaging']",closed,harmin-parra,
+issue,13138.0,2023-11-10,,"['I-enhancement', 'help wanted']",open,harmin-parra,
+issue,13137.0,2023-11-10,2023-11-13,"['R-awaiting answer', 'C-dotnet', 'I-defect']",closed,jduust,
+issue,13135.0,2023-11-10,2023-11-10,"['I-defect', 'I-question', 'needs-triaging']",closed,SeleniumNinja,
+issue,13132.0,2023-11-10,,"['I-defect', 'needs-triaging']",open,whimboo,
+issue,13130.0,2023-11-09,2023-11-13,"['I-defect', 'C-build', 'C-rust']",closed,HernJer,
+issue,13128.0,2023-11-09,2023-11-16,"['I-enhancement', 'C-rust']",closed,titusfortner,
+issue,13127.0,2023-11-09,,"['R-awaiting answer', 'C-py', 'I-defect', 'needs-triaging']",open,luketudge,
+issue,13124.0,2023-11-09,2023-11-09,"['I-enhancement', 'needs-triaging', 'G-geckodriver']",closed,MatzFan,
+issue,13122.0,2023-11-09,2023-11-09,['I-question'],closed,Z-YHDD,
+issue,13121.0,2023-11-08,2023-11-14,"['C-java', 'I-defect', 'needs-triaging']",closed,tony-parasoft,
+issue,13119.0,2023-11-08,2023-11-08,"['R-awaiting answer', 'I-defect']",closed,peachonpizza,
+issue,13118.0,2023-11-08,2023-11-08,"['I-defect', 'needs-triaging']",closed,satya081,
+issue,13116.0,2023-11-08,2023-11-09,"['I-defect', 'needs-triaging']",closed,LiudmilaSantos,
+issue,13115.0,2023-11-08,2023-11-08,"['R-awaiting answer', 'I-defect', 'I-issue-template']",closed,seungoh-lee,
+issue,13114.0,2023-11-08,2023-11-13,"['R-awaiting answer', 'I-defect']",closed,kenoti,
+issue,13112.0,2023-11-08,,"['R-awaiting answer', 'C-rb', 'I-defect', 'help wanted']",open,tatsuyafw,
+issue,13111.0,2023-11-08,2023-11-09,"['R-awaiting answer', 'I-defect']",closed,young-kingdom,
+issue,13110.0,2023-11-07,2023-11-16,"['I-enhancement', 'C-rust']",closed,MarcelWilson,
+issue,13109.0,2023-11-07,2023-11-09,"['C-java', 'I-defect', 'I-issue-template']",closed,jstermask,
+issue,13107.0,2023-11-07,2023-11-07,"['C-java', 'I-defect', 'needs-triaging']",closed,lacell75,
+issue,13106.0,2023-11-07,,"['C-java', 'I-defect', 'help wanted']",open,valfirst,
+issue,13105.0,2023-11-07,2023-11-07,['G-chromedriver'],closed,BinBk12,
+issue,13104.0,2023-11-07,2023-11-07,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,jawad-arshad-khan97,
+issue,13103.0,2023-11-06,2023-11-06,['I-question'],closed,Deceptio,
+issue,13100.0,2023-11-05,2023-11-05,"['R-awaiting answer', 'I-enhancement']",closed,giuliohome,
+issue,13099.0,2023-11-05,2023-11-05,"['I-defect', 'needs-triaging']",closed,mgorny,
+issue,13097.0,2023-11-04,,"['C-dotnet', 'I-enhancement', 'help wanted']",open,nvborisenko,
+issue,13096.0,2023-11-04,2023-11-06,"['I-defect', 'needs-triaging']",closed,mykola-mokhnach,
+issue,13095.0,2023-11-03,2023-11-16,"['C-py', 'I-defect', 'G-chromedriver']",closed,MohamedV0,
+issue,13094.0,2023-11-03,2023-11-16,"['I-enhancement', 'needs-triaging']",closed,mooragor,
+issue,13092.0,2023-11-03,2023-11-17,"['A-needs decision', 'I-enhancement']",closed,MatzFan,
+issue,13091.0,2023-11-03,2023-11-21,"['C-grid', 'I-defect']",closed,parholmdahl,
+issue,13089.0,2023-11-03,2023-11-06,"['C-grid', 'A-needs decision', 'I-enhancement']",closed,titusfortner,
+issue,13087.0,2023-11-02,2023-11-09,"['I-defect', 'needs-triaging']",closed,luketudge,
+issue,13086.0,2023-11-02,,"['C-dotnet', 'I-defect']",open,skeksk91,
+issue,13085.0,2023-11-02,2023-11-02,"['C-java', 'I-defect']",closed,iamxiaojianzheng,
+issue,13084.0,2023-11-02,2023-11-02,"['I-defect', 'I-issue-template', 'needs-triaging']",closed,Anandh1924,
+issue,13083.0,2023-11-01,,"['C-grid', 'R-awaiting answer', 'I-defect']",open,Daniel-Pierce-IV,
+issue,13081.0,2023-11-01,2023-11-01,"['I-defect', 'needs-triaging']",closed,swapnabhaskarun,
+issue,13080.0,2023-11-01,2023-11-01,"['I-defect', 'needs-triaging']",closed,MatzFan,
+issue,13079.0,2023-11-01,2023-11-01,"['I-defect', 'needs-triaging']",closed,MatzFan,
+issue,13077.0,2023-11-01,2023-11-13,"['R-awaiting answer', 'I-defect']",closed,dammie12,
+issue,13076.0,2023-11-01,2023-11-01,"['I-defect', 'needs-triaging']",closed,Fradhyle,
+issue,13075.0,2023-10-31,2023-11-01,"['I-enhancement', 'needs-triaging']",closed,bryancoxdish,
+issue,13074.0,2023-10-31,2023-10-31,"['I-enhancement', 'needs-triaging']",closed,manoelcampos,
+issue,13073.0,2023-10-31,2023-10-31,['I-question'],closed,uman3951,
+issue,13072.0,2023-10-31,2023-10-31,"['I-defect', 'needs-triaging']",closed,SeleniumNinja,
+issue,13063.0,2023-10-29,2023-10-30,"['I-defect', 'I-issue-template', 'needs-triaging']",closed,SeleniumNinja,
+issue,13062.0,2023-10-29,2023-10-30,"['I-defect', 'I-question', 'needs-triaging']",closed,soan1d,
+issue,13061.0,2023-10-27,2023-10-28,"['needs-triaging', 'G-chromedriver']",closed,sharutkarsh,
+issue,13060.0,2023-10-27,2023-11-02,"['I-enhancement', 'needs-triaging']",closed,joerg1985,
+issue,13038.0,2023-10-24,,"['R-awaiting answer', 'I-defect']",open,lucamcwood,
+issue,13031.0,2023-10-23,2023-10-23,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,aaruun,
+issue,13030.0,2023-10-23,2023-10-23,"['C-dotnet', 'I-defect', 'needs-triaging']",closed,MaggieKro,
+issue,13029.0,2023-10-23,,"['R-awaiting answer', 'I-enhancement']",open,Zubastic,
+issue,13022.0,2023-10-22,,"['A-needs decision', 'I-enhancement']",open,titusfortner,
+issue,13021.0,2023-10-22,,"['A-needs decision', 'I-enhancement']",open,titusfortner,
+issue,13020.0,2023-10-22,2023-11-19,"['I-enhancement', 'C-build']",closed,titusfortner,
+issue,13019.0,2023-10-22,,"['I-enhancement', 'C-build']",open,titusfortner,
+issue,12986.0,2023-10-22,,"['A-needs decision', 'I-enhancement', 'C-rust']",open,titusfortner,
+issue,12985.0,2023-10-22,,"['A-needs decision', 'I-enhancement', 'C-rust']",open,titusfortner,
+issue,12984.0,2023-10-22,2023-10-22,"['I-defect', 'needs-triaging']",closed,dvorst,
+issue,12983.0,2023-10-22,2023-10-22,"['I-defect', 'I-question', 'C-rust']",closed,SripriyaPKulkarni,
+issue,12982.0,2023-10-22,,"['R-awaiting answer', 'I-defect', 'I-issue-template']",open,reyoreyo,
+issue,12976.0,2023-10-20,2023-10-20,"['I-defect', 'I-question', 'needs-triaging']",closed,Abhijith1190,
+issue,12975.0,2023-10-20,,"['C-grid', 'I-defect', 'needs-triaging']",open,joerg1985,
+issue,12973.0,2023-10-20,2023-11-17,"['R-awaiting answer', 'I-defect', 'I-issue-template', 'G-chromedriver']",closed,saif8983ansari,
+issue,12972.0,2023-10-19,2023-11-01,"['R-awaiting answer', 'I-defect']",closed,MarcelWilson,
+issue,12971.0,2023-10-19,2023-10-19,"['I-defect', 'needs-triaging']",closed,Mo0rBy,
+issue,12970.0,2023-10-19,,"['I-enhancement', 'needs-triaging']",open,RaHehl,
+issue,12969.0,2023-10-19,2023-10-19,"['I-defect', 'needs-triaging']",closed,bratwurzt,
+issue,12967.0,2023-10-18,2023-10-24,"['I-defect', 'I-issue-template', 'G-chromedriver']",closed,cdutton1,
+issue,12965.0,2023-10-18,2023-10-18,"['R-awaiting answer', 'I-defect']",closed,youvegotnigel,
+issue,12964.0,2023-10-18,,"['C-grid', 'I-defect']",open,bhecquet,
+issue,12963.0,2023-10-18,2023-10-18,[],closed,leopom,
+issue,12962.0,2023-10-18,2023-10-26,"['R-awaiting answer', 'C-java', 'I-defect', 'C-devtools']",closed,MarcJagtInfor,
+issue,12961.0,2023-10-18,2023-10-18,"['I-defect', 'needs-triaging']",closed,harmin-parra,
+issue,12959.0,2023-10-17,2023-10-17,"['I-defect', 'needs-triaging']",closed,harmin-parra,
+issue,12958.0,2023-10-16,2023-11-20,"['R-awaiting answer', 'I-defect']",closed,ssrmm,
+issue,12957.0,2023-10-16,2023-10-16,"['I-defect', 'needs-triaging']",closed,fippo,
+issue,12954.0,2023-10-16,2023-10-24,"['R-awaiting answer', 'I-defect', 'G-chromedriver']",closed,rpudlowski93,
+issue,12953.0,2023-10-16,2023-10-16,[],closed,devinschumacher,
+issue,12952.0,2023-10-16,2023-10-16,['G-msedgedriver'],closed,csharsha,
+issue,12950.0,2023-10-14,2023-11-10,"['R-awaiting answer', 'C-dotnet', 'I-defect']",closed,csgbn,
+issue,12949.0,2023-10-14,,"['R-awaiting answer', 'I-defect', 'needs-triaging']",open,foshesss,
+issue,12947.0,2023-10-13,,"['C-nodejs', 'I-defect']",open,djelinek,
+issue,12945.0,2023-10-13,2023-10-16,[],closed,jaychoubaby,
+issue,12944.0,2023-10-12,2023-10-12,"['I-defect', 'needs-triaging']",closed,YoungerThuggg,
+issue,12939.0,2023-10-12,,"['I-defect', 'C-rust']",open,elliottj,
+issue,12938.0,2023-10-12,,"['I-defect', 'C-rust']",open,elliottj,
+issue,12936.0,2023-10-12,2023-10-12,"['I-enhancement', 'I-question', 'needs-triaging']",closed,Aditi729,
+issue,12935.0,2023-10-12,,['I-enhancement'],open,rsingh2023,
+issue,12931.0,2023-10-11,2023-10-11,"['C-py', 'I-defect', 'C-rust']",closed,Gray-Falcon,
+issue,12930.0,2023-10-11,2023-10-17,[],closed,brenol,
+issue,12929.0,2023-10-11,2023-10-11,"['I-defect', 'needs-triaging']",closed,bollwyvl,
+issue,12927.0,2023-10-11,2023-10-11,[],closed,TWiStErRob,
+issue,12926.0,2023-10-11,2023-10-16,"['I-enhancement', 'C-rust']",closed,elliottj,
+issue,12925.0,2023-10-11,2023-10-13,['I-question'],closed,andrei-z,
+issue,12924.0,2023-10-11,,"['C-java', 'I-defect', 'I-question']",open,joerg1985,
+issue,12923.0,2023-10-11,2023-10-11,[],closed,vicozohili,
+issue,12922.0,2023-10-11,2023-10-11,"['I-defect', 'I-issue-template']",closed,IvanRastamanov,
+issue,12921.0,2023-10-11,2023-11-02,"['C-grid', 'I-defect']",closed,pogrebnyaksa,
+issue,12918.0,2023-10-10,2023-11-06,"['I-enhancement', 'needs-triaging']",closed,mykola-mokhnach,
+issue,12915.0,2023-10-10,2023-10-10,"['I-defect', 'needs-triaging']",closed,xtianus,
+issue,12911.0,2023-10-10,,"['I-defect', 'I-issue-template']",open,msharma2020,
+issue,12910.0,2023-10-09,2023-10-10,"['needs-triaging', 'G-chromedriver', 'bug']",closed,Original-Sorrow,
+issue,12908.0,2023-10-09,2023-10-09,"['I-defect', 'needs-triaging']",closed,raja-anbazhagan,
+issue,12906.0,2023-10-09,2023-10-09,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,biolds,
+issue,12902.0,2023-10-09,2023-10-17,"['R-awaiting answer', 'I-defect']",closed,alaahong,
+issue,12900.0,2023-10-08,2023-10-16,['I-defect'],closed,johnago,
+issue,12897.0,2023-10-07,2023-10-07,"['I-defect', 'needs-triaging']",closed,himanshu177,
+issue,12896.0,2023-10-07,2023-10-07,"['I-defect', 'needs-triaging']",closed,paul11123,
+issue,12895.0,2023-10-07,2023-10-07,"['I-defect', 'needs-triaging']",closed,johnago,
+issue,12892.0,2023-10-06,,"['A-needs decision', 'C-java']",open,titusfortner,
+issue,12891.0,2023-10-06,2023-10-06,"['I-enhancement', 'needs-triaging']",closed,joseajunior,
+issue,12889.0,2023-10-06,2023-10-06,"['I-defect', 'needs-triaging']",closed,IamRanjeetSingh,
+issue,12888.0,2023-10-06,2023-10-06,"['I-defect', 'I-question', 'needs-triaging']",closed,johnago,
+issue,12887.0,2023-10-06,2023-10-23,['C-rust'],closed,bonigarcia,
+issue,12886.0,2023-10-06,2023-10-17,['I-question'],closed,SmartSureshBabu,
+issue,12885.0,2023-10-06,2023-10-06,"['I-defect', 'I-issue-template', 'I-question', 'needs-triaging']",closed,DomZZ,
+issue,12884.0,2023-10-06,2023-10-11,"['I-defect', 'needs-triaging']",closed,MrSerth,
+issue,12883.0,2023-10-06,2023-10-06,['I-enhancement'],closed,ksingha161,
+issue,12882.0,2023-10-06,2023-11-17,"['C-java', 'I-defect', 'C-devtools']",closed,pujagani,
+issue,12881.0,2023-10-05,2023-10-05,['G-geckodriver'],closed,Ethan-DSB,
+issue,12876.0,2023-10-05,2023-10-05,"['C-grid', 'I-question']",closed,loki1507m,
+issue,12875.0,2023-10-05,2023-10-16,"['R-awaiting answer', 'I-defect']",closed,johnago,
+issue,12872.0,2023-10-05,2023-10-05,"['I-defect', 'I-question', 'needs-triaging']",closed,Yash1067,
+issue,12870.0,2023-10-05,2023-10-05,"['C-py', 'I-defect', 'needs-triaging']",closed,alexey-pelykh,
+issue,12869.0,2023-10-05,2023-10-06,"['C-java', 'I-defect']",closed,titusfortner,
+issue,12868.0,2023-10-05,2023-10-05,"['I-defect', 'needs-triaging']",closed,protect69,
+issue,12865.0,2023-10-04,,"['R-awaiting answer', 'C-java', 'I-defect']",open,Markedo,
+issue,12867.0,2023-10-04,2023-10-05,"['needs-triaging', 'bug']",closed,rajeshsrinivas1991,
+issue,12864.0,2023-10-03,,"['I-enhancement', 'needs-triaging']",open,cartersocha,
+issue,12862.0,2023-10-03,2023-10-03,"['R-awaiting answer', 'I-defect']",closed,searchexplore,
+issue,12860.0,2023-10-03,2023-10-03,"['I-defect', 'needs-triaging']",closed,ZiTAL,
+issue,12859.0,2023-10-03,2023-10-03,"['I-defect', 'I-question', 'needs-triaging']",closed,xaliander,
+issue,12858.0,2023-10-03,2023-10-03,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,MrLMrks,
+issue,12857.0,2023-10-03,,"['R-awaiting answer', 'I-defect']",open,NotJuba,
+issue,12856.0,2023-10-03,2023-10-10,"['R-awaiting answer', 'C-dotnet', 'I-defect']",closed,nairdinesh04,
+issue,12855.0,2023-10-03,,"['R-awaiting answer', 'I-defect']",open,notSoTechnical,
+issue,12854.0,2023-10-03,,"['C-java', 'I-defect']",open,titusfortner,
+issue,12851.0,2023-10-02,2023-10-02,"['I-defect', 'needs-triaging']",closed,sharutkarsh,
+issue,12850.0,2023-10-02,,"['R-awaiting answer', 'I-enhancement']",open,MykolaGolubyev,
+issue,12846.0,2023-10-01,2023-10-01,"['I-defect', 'needs-triaging']",closed,tudubucket,
+issue,12845.0,2023-09-30,2023-10-02,"['I-defect', 'needs-triaging']",closed,HasiniRangana,
+issue,12842.0,2023-09-29,2023-10-01,"['C-dotnet', 'I-defect', 'needs-triaging']",closed,Sigrec,
+issue,12841.0,2023-09-29,2023-09-30,"['I-defect', 'needs-triaging']",closed,lpcoutinho,
+issue,12839.0,2023-09-29,2023-10-06,"['C-grid', 'R-awaiting answer', 'I-defect']",closed,bhecquet,
+issue,12837.0,2023-09-29,2023-09-29,"['I-defect', 'needs-triaging']",closed,yanniszark,
+issue,12836.0,2023-09-29,,"['I-defect', 'needs-triaging']",open,webtoman,
+issue,12833.0,2023-09-28,2023-09-29,"['R-awaiting answer', 'C-rb', 'I-defect', 'needs-triaging']",closed,pgundlupetvenkatesh,
+issue,12832.0,2023-09-28,2023-10-19,"['C-grid', 'C-java', 'I-defect']",closed,bhecquet,
+issue,12831.0,2023-09-28,2023-10-06,"['I-defect', 'needs-triaging']",closed,Artur-,
+issue,12829.0,2023-09-27,2023-09-27,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,rakeshkumarpanda,
+issue,12828.0,2023-09-27,,"['I-defect', 'needs-triaging']",open,lugi0,
+issue,12827.0,2023-09-26,2023-09-27,['I-question'],closed,briangits,
+issue,12826.0,2023-09-26,2023-09-28,"['R-awaiting answer', 'I-defect', 'needs-triaging']",closed,ashwakpasha,
+issue,12825.0,2023-09-26,2023-09-29,"['C-java', 'I-defect', 'D-firefox', 'C-devtools']",closed,Pe-te,
+issue,12824.0,2023-09-26,2023-09-26,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,MateuszMalik,
+issue,12821.0,2023-09-25,,"['C-dotnet', 'I-enhancement', 'needs-triaging']",open,sbakharev,
+issue,12819.0,2023-09-25,2023-09-27,"['R-awaiting answer', 'I-defect', 'needs-triaging']",closed,ZhaoYis,
+issue,12818.0,2023-09-25,2023-09-25,"['I-defect', 'I-issue-template', 'G-chromedriver']",closed,Yash1067,
+issue,12815.0,2023-09-24,2023-09-24,"['I-defect', 'needs-triaging']",closed,Z-YHDD,
+issue,12814.0,2023-09-23,,"['C-java', 'I-enhancement', 'needs-triaging']",open,joerg1985,
+issue,12813.0,2023-09-22,,"['R-awaiting answer', 'C-dotnet', 'I-defect', 'needs-triaging']",open,PYasonau,
+issue,12812.0,2023-09-22,2023-09-28,['I-defect'],closed,ShaheedHaque,
+issue,12811.0,2023-09-21,2023-09-22,"['I-defect', 'needs-triaging', 'G-chromedriver']",closed,ZeldaFlower,
+issue,12806.0,2023-09-21,2023-09-21,[],closed,SvetlaNorka,
+issue,12805.0,2023-09-21,2023-10-19,"['C-dotnet', 'I-defect', 'needs-triaging']",closed,drauch,
+issue,12804.0,2023-09-21,2023-09-22,"['I-enhancement', 'needs-triaging']",closed,fuzzy-boiii23a,
+issue,12803.0,2023-09-21,2023-09-22,"['I-defect', 'needs-triaging']",closed,Duez-Yoan,
+issue,12802.0,2023-09-21,2023-10-20,"['I-defect', 'C-rust']",closed,eravion,
+issue,12801.0,2023-09-21,2023-09-21,"['I-defect', 'needs-triaging']",closed,surajgupta7175,
+issue,12800.0,2023-09-21,2023-09-21,"['I-enhancement', 'needs-triaging']",closed,harmin-parra,
+issue,12799.0,2023-09-21,,"['R-awaiting answer', 'C-rb', 'I-defect', 'needs-triaging']",open,DanielHeath,
+pull_request,,2023-11-20,,,open,dependabot[bot],13176.0
+pull_request,,2023-11-20,,,open,EdwinVanVliet,13175.0
+pull_request,,2023-11-20,,,open,EdwinVanVliet,13174.0
+pull_request,,2023-11-20,,,open,bonigarcia,13173.0
+pull_request,,2023-11-17,,,open,anemele,13166.0
+pull_request,,2023-11-17,2023-11-17,,closed,pujagani,13165.0
+pull_request,,2023-11-16,2023-11-17,,closed,asottile,13162.0
+pull_request,,2023-11-16,2023-11-16,,closed,bonigarcia,13159.0
+pull_request,,2023-11-15,,,open,pujagani,13153.0
+pull_request,,2023-11-15,,,open,jnhyperion,13151.0
+pull_request,,2023-11-11,2023-11-14,,closed,manuelsblanco,13143.0
+pull_request,,2023-11-11,2023-11-15,,closed,centic9,13142.0
+pull_request,,2023-11-10,,,open,nvborisenko,13140.0
+pull_request,,2023-11-10,2023-11-13,,closed,purkhusid,13136.0
+pull_request,,2023-11-10,2023-11-10,,closed,bonigarcia,13134.0
+pull_request,,2023-11-10,2023-11-10,,closed,bonigarcia,13133.0
+pull_request,,2023-11-09,2023-11-10,,closed,nvborisenko,13131.0
+pull_request,,2023-11-09,2023-11-10,,closed,shs96c,13129.0
+pull_request,,2023-11-09,,,open,titusfortner,13126.0
+pull_request,,2023-11-09,2023-11-09,,closed,shs96c,13125.0
+pull_request,,2023-11-09,,,open,bonigarcia,13123.0
+pull_request,,2023-11-08,2023-11-09,,closed,icnocop,13120.0
+pull_request,,2023-11-08,2023-11-08,,closed,purkhusid,13117.0
+pull_request,,2023-11-08,2023-11-14,,closed,nikhlagrwl,13113.0
+pull_request,,2023-11-07,2023-11-09,,closed,pinterior,13108.0
+pull_request,,2023-11-06,,,open,titusfortner,13102.0
+pull_request,,2023-11-06,,,open,bonigarcia,13101.0
+pull_request,,2023-11-04,2023-11-06,,closed,marvinruder,13098.0
+pull_request,,2023-11-03,2023-11-06,,closed,joromero,13093.0
+pull_request,,2023-11-03,2023-11-10,,closed,MatzFan,13090.0
+pull_request,,2023-11-02,,,open,luketudge,13088.0
+pull_request,,2023-11-01,,,open,pinterior,13082.0
+pull_request,,2023-11-01,2023-11-01,,closed,pujagani,13078.0
+pull_request,,2023-10-30,2023-11-01,,closed,mweinelt,13071.0
+pull_request,,2023-10-30,2023-10-31,,closed,pinterior,13070.0
+pull_request,,2023-10-30,2023-11-01,,closed,dependabot[bot],13069.0
+pull_request,,2023-10-30,2023-10-31,,closed,dependabot[bot],13068.0
+pull_request,,2023-10-30,2023-10-31,,closed,dependabot[bot],13067.0
+pull_request,,2023-10-30,,,open,dependabot[bot],13066.0
+pull_request,,2023-10-30,,,open,dependabot[bot],13065.0
+pull_request,,2023-10-30,,,open,dependabot[bot],13064.0
+pull_request,,2023-10-27,2023-10-30,,closed,dependabot[bot],13059.0
+pull_request,,2023-10-27,2023-11-01,,closed,dependabot[bot],13058.0
+pull_request,,2023-10-27,2023-11-01,,closed,bonigarcia,13057.0
+pull_request,,2023-10-26,2023-11-01,,closed,dependabot[bot],13056.0
+pull_request,,2023-10-26,,,open,dependabot[bot],13055.0
+pull_request,,2023-10-26,,,open,dependabot[bot],13054.0
+pull_request,,2023-10-25,,,open,dlanza1,13053.0
+pull_request,,2023-10-25,,,open,dependabot[bot],13052.0
+pull_request,,2023-10-25,2023-10-25,,closed,dependabot[bot],13051.0
+pull_request,,2023-10-25,2023-10-27,,closed,dependabot[bot],13050.0
+pull_request,,2023-10-25,2023-10-27,,closed,dependabot[bot],13049.0
+pull_request,,2023-10-25,2023-10-25,,closed,dependabot[bot],13048.0
+pull_request,,2023-10-25,2023-10-31,,closed,dependabot[bot],13047.0
+pull_request,,2023-10-25,2023-10-27,,closed,dependabot[bot],13046.0
+pull_request,,2023-10-25,,,open,dependabot[bot],13045.0
+pull_request,,2023-10-25,2023-10-31,,closed,dependabot[bot],13044.0
+pull_request,,2023-10-25,2023-10-31,,closed,dependabot[bot],13043.0
+pull_request,,2023-10-25,2023-10-31,,closed,dependabot[bot],13042.0
+pull_request,,2023-10-25,2023-10-31,,closed,dependabot[bot],13041.0
+pull_request,,2023-10-25,2023-11-01,,closed,dependabot[bot],13040.0
+pull_request,,2023-10-24,2023-10-24,,closed,AutomatedTester,13039.0
+pull_request,,2023-10-24,2023-10-24,,closed,dependabot[bot],13037.0
+pull_request,,2023-10-24,2023-10-24,,closed,dependabot[bot],13036.0
+pull_request,,2023-10-24,2023-10-25,,closed,dependabot[bot],13035.0
+pull_request,,2023-10-24,2023-10-27,,closed,dependabot[bot],13034.0
+pull_request,,2023-10-24,2023-10-24,,closed,dependabot[bot],13033.0
+pull_request,,2023-10-24,,,open,dependabot[bot],13032.0
+pull_request,,2023-10-23,2023-10-23,,closed,bonigarcia,13028.0
+pull_request,,2023-10-23,,,open,dependabot[bot],13027.0
+pull_request,,2023-10-23,,,open,titusfortner,13026.0
+pull_request,,2023-10-23,2023-10-23,,closed,titusfortner,13025.0
+pull_request,,2023-10-22,2023-10-24,,closed,titusfortner,13024.0
+pull_request,,2023-10-22,2023-11-01,,closed,titusfortner,13023.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13018.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13017.0
+pull_request,,2023-10-22,,,open,dependabot[bot],13016.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13015.0
+pull_request,,2023-10-22,2023-10-27,,closed,dependabot[bot],13014.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13013.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13012.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13011.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13010.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13009.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13008.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13007.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13006.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13005.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13004.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13003.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13002.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],13001.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],13000.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12998.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],12999.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],12997.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12995.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],12996.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],12994.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12993.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12992.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],12991.0
+pull_request,,2023-10-22,2023-10-24,,closed,dependabot[bot],12990.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12989.0
+pull_request,,2023-10-22,2023-10-23,,closed,dependabot[bot],12988.0
+pull_request,,2023-10-22,2023-10-22,,closed,dependabot[bot],12987.0
+pull_request,,2023-10-21,2023-11-01,,closed,titusfortner,12981.0
+pull_request,,2023-10-21,2023-10-21,,closed,ramyags123,12980.0
+pull_request,,2023-10-20,2023-11-01,,closed,titusfortner,12979.0
+pull_request,,2023-10-20,2023-11-13,,closed,joerg1985,12978.0
+pull_request,,2023-10-20,2023-10-31,,closed,titusfortner,12977.0
+pull_request,,2023-10-20,2023-10-23,,closed,bonigarcia,12974.0
+pull_request,,2023-10-18,2023-11-01,,closed,dependabot[bot],12968.0
+pull_request,,2023-10-18,2023-10-18,,closed,bonigarcia,12966.0
+pull_request,,2023-10-17,2023-11-16,,closed,bonigarcia,12960.0
+pull_request,,2023-10-16,,,open,dependabot[bot],12956.0
+pull_request,,2023-10-16,,,open,dependabot[bot],12955.0
+pull_request,,2023-10-16,,,open,titusfortner,12951.0
+pull_request,,2023-10-13,2023-10-16,,closed,titusfortner,12948.0
+pull_request,,2023-10-13,2023-10-16,,closed,bonigarcia,12946.0
+pull_request,,2023-10-12,2023-10-16,,closed,joerg1985,12943.0
+pull_request,,2023-10-12,,,open,manuelsblanco,12942.0
+pull_request,,2023-10-12,2023-10-12,,closed,manuelsblanco,12941.0
+pull_request,,2023-10-12,2023-10-17,,closed,pujagani,12940.0
+pull_request,,2023-10-12,2023-10-12,,closed,sazi-y,12937.0
+pull_request,,2023-10-11,,,open,asolntsev,12934.0
+pull_request,,2023-10-11,2023-10-12,,closed,manuelsblanco,12933.0
+pull_request,,2023-10-11,2023-10-24,,closed,manuelsblanco,12932.0
+pull_request,,2023-10-11,2023-10-11,,closed,bollwyvl,12928.0
+pull_request,,2023-10-10,2023-10-11,,closed,manuelsblanco,12920.0
+pull_request,,2023-10-10,2023-10-11,,closed,titusfortner,12919.0
+pull_request,,2023-10-10,2023-10-10,,closed,joerg1985,12917.0
+pull_request,,2023-10-10,2023-10-10,,closed,shs96c,12916.0
+pull_request,,2023-10-10,2023-10-11,,closed,bonigarcia,12914.0
+pull_request,,2023-10-10,2023-10-10,,closed,shs96c,12913.0
+pull_request,,2023-10-10,2023-10-10,,closed,pujagani,12912.0
+pull_request,,2023-10-09,2023-10-11,,closed,danielrozenberg,12909.0
+pull_request,,2023-10-09,,,open,shs96c,12907.0
+pull_request,,2023-10-09,2023-10-09,,closed,bonigarcia,12904.0
+pull_request,,2023-10-09,2023-10-17,,closed,alaahong,12903.0
+pull_request,,2023-10-09,2023-10-09,,closed,Prince23gitof,12901.0
+pull_request,,2023-10-07,2023-10-08,,closed,nvborisenko,12899.0
+pull_request,,2023-10-07,2023-10-11,,closed,joerg1985,12898.0
+pull_request,,2023-10-06,2023-10-08,,closed,manuelsblanco,12894.0
+pull_request,,2023-10-06,2023-10-10,,closed,manuelsblanco,12893.0
+pull_request,,2023-10-06,2023-10-07,,closed,bonigarcia,12890.0
+pull_request,,2023-10-05,2023-10-06,,closed,titusfortner,12880.0
+pull_request,,2023-10-05,2023-10-06,,closed,nvborisenko,12879.0
+pull_request,,2023-10-05,2023-10-05,,closed,nvborisenko,12878.0
+pull_request,,2023-10-05,2023-10-05,,closed,bonigarcia,12877.0
+pull_request,,2023-10-05,2023-10-06,,closed,pujagani,12874.0
+pull_request,,2023-10-05,2023-10-31,,closed,nvborisenko,12873.0
+pull_request,,2023-10-05,2023-10-05,,closed,alexey-pelykh,12871.0
+pull_request,,2023-10-04,2023-10-06,,closed,titusfortner,12866.0
+pull_request,,2023-10-03,2023-10-05,,closed,nvborisenko,12863.0
+pull_request,,2023-10-03,2023-10-04,,closed,nvborisenko,12861.0
+pull_request,,2023-10-02,2023-10-05,,closed,titusfortner,12853.0
+pull_request,,2023-10-02,2023-10-09,,closed,bonigarcia,12852.0
+pull_request,,2023-10-02,2023-10-05,,closed,joerg1985,12849.0
+pull_request,,2023-10-02,2023-10-19,,closed,bhecquet,12848.0
+pull_request,,2023-10-01,,,open,shs96c,12847.0
+pull_request,,2023-09-30,2023-11-20,,closed,aguspe,12844.0
+pull_request,,2023-09-30,2023-10-06,,closed,titusfortner,12843.0
+pull_request,,2023-09-29,2023-09-30,,closed,bonigarcia,12840.0
+pull_request,,2023-09-29,2023-10-06,,closed,pujagani,12838.0
+pull_request,,2023-09-29,2023-10-07,,closed,bonigarcia,12835.0
+pull_request,,2023-09-28,2023-09-29,,closed,nvborisenko,12834.0
+pull_request,,2023-09-27,2023-10-06,,closed,titusfortner,12830.0
+pull_request,,2023-09-26,2023-09-26,,closed,nvborisenko,12823.0
+pull_request,,2023-09-25,2023-09-26,,closed,nvborisenko,12820.0
+pull_request,,2023-09-25,2023-09-25,,closed,titusfortner,12817.0
+pull_request,,2023-09-24,2023-09-25,,closed,titusfortner,12816.0
+pull_request,,2023-09-21,,,open,dependabot[bot],12810.0
+pull_request,,2023-09-21,,,open,dependabot[bot],12809.0
+pull_request,,2023-09-21,,,open,dependabot[bot],12808.0
+pull_request,,2023-09-21,2023-09-24,,closed,bonigarcia,12807.0
