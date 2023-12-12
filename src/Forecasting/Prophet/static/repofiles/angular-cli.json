@@ -1,0 +1,565 @@
+{"type": "issue", "issue_number": 26454, "created_at": "2023-11-21", "closed_at": null, "labels": [], "state": "open", "author": "brianreinhold"}
+{"type": "issue", "issue_number": 26449, "created_at": "2023-11-21", "closed_at": null, "labels": ["area: docs", "devkit/build-angular:i18n", "area: @angular/ssr"], "state": "open", "author": "spock123"}
+{"type": "issue", "issue_number": 26448, "created_at": "2023-11-21", "closed_at": null, "labels": [], "state": "open", "author": "paulThorsen"}
+{"type": "issue", "issue_number": 26447, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": [], "state": "closed", "author": "raclettedesavoie"}
+{"type": "issue", "issue_number": 26445, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": [], "state": "closed", "author": "santam85"}
+{"type": "issue", "issue_number": 26443, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": ["needs: more info"], "state": "closed", "author": "shashankagarwal1710"}
+{"type": "issue", "issue_number": 26442, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": [], "state": "closed", "author": "codeandcloud"}
+{"type": "issue", "issue_number": 26438, "created_at": "2023-11-21", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "Shosetsu"}
+{"type": "issue", "issue_number": 26441, "created_at": "2023-11-21", "closed_at": null, "labels": ["needs: repro steps"], "state": "open", "author": "albahrawy"}
+{"type": "issue", "issue_number": 26437, "created_at": "2023-11-20", "closed_at": null, "labels": ["type: bug/fix", "needs: investigation", "devkit/build-angular:application"], "state": "open", "author": "MichielNL83"}
+{"type": "issue", "issue_number": 26432, "created_at": "2023-11-20", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "open", "author": "CarlosTorrecillas"}
+{"type": "issue", "issue_number": 26431, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "brettaio"}
+{"type": "issue", "issue_number": 26429, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "rkrisztian"}
+{"type": "issue", "issue_number": 26427, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "CarlosTorrecillas"}
+{"type": "issue", "issue_number": 26423, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "Shosetsu"}
+{"type": "issue", "issue_number": 26419, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "state": "closed", "author": "fssrepository"}
+{"type": "issue", "issue_number": 26420, "created_at": "2023-11-19", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "tbprojects"}
+{"type": "issue", "issue_number": 26416, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "state": "closed", "author": "JelleBruisten"}
+{"type": "issue", "issue_number": 26414, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": [], "state": "closed", "author": "albahrawy"}
+{"type": "issue", "issue_number": 26413, "created_at": "2023-11-19", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "estrellajm"}
+{"type": "issue", "issue_number": 26412, "created_at": "2023-11-18", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/schematics-cli"], "state": "open", "author": "its-dibo"}
+{"type": "issue", "issue_number": 26415, "created_at": "2023-11-18", "closed_at": "2023-11-20", "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "closed", "author": "MichalZonis"}
+{"type": "issue", "issue_number": 26411, "created_at": "2023-11-18", "closed_at": null, "labels": ["needs: discussion"], "state": "open", "author": "TheTomasJ"}
+{"type": "issue", "issue_number": 26410, "created_at": "2023-11-18", "closed_at": "2023-11-18", "labels": [], "state": "closed", "author": "SebastianStehle"}
+{"type": "issue", "issue_number": 26407, "created_at": "2023-11-17", "closed_at": "2023-11-21", "labels": [], "state": "closed", "author": "dwilches"}
+{"type": "issue", "issue_number": 26408, "created_at": "2023-11-17", "closed_at": "2023-11-18", "labels": [], "state": "closed", "author": "dwilches"}
+{"type": "issue", "issue_number": 26406, "created_at": "2023-11-17", "closed_at": "2023-11-20", "labels": [], "state": "closed", "author": "TanerSaydam"}
+{"type": "issue", "issue_number": 26409, "created_at": "2023-11-17", "closed_at": null, "labels": ["type: bug/fix", "needs: repro steps", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "spock123"}
+{"type": "issue", "issue_number": 26396, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": [], "state": "closed", "author": "WillooWisp"}
+{"type": "issue", "issue_number": 26395, "created_at": "2023-11-17", "closed_at": null, "labels": ["type: bug/fix", "needs: more info", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "open", "author": "LukasKomar"}
+{"type": "issue", "issue_number": 26394, "created_at": "2023-11-17", "closed_at": null, "labels": ["needs: repro steps"], "state": "open", "author": "AmitRDesai"}
+{"type": "issue", "issue_number": 26389, "created_at": "2023-11-17", "closed_at": null, "labels": ["needs: repro steps"], "state": "open", "author": "JoranLive"}
+{"type": "issue", "issue_number": 26386, "created_at": "2023-11-17", "closed_at": "2023-11-17", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "devkit/build-angular:i18n", "devkit/build-angular:application"], "state": "closed", "author": "acohenOT"}
+{"type": "issue", "issue_number": 26390, "created_at": "2023-11-16", "closed_at": "2023-11-21", "labels": ["needs: more info"], "state": "closed", "author": "brianmtreese"}
+{"type": "issue", "issue_number": 26384, "created_at": "2023-11-16", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "open", "author": "DariuszOstolski"}
+{"type": "issue", "issue_number": 26383, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "LanderBeeuwsaert"}
+{"type": "issue", "issue_number": 26382, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": [], "state": "closed", "author": "trickeyone"}
+{"type": "issue", "issue_number": 26379, "created_at": "2023-11-16", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "toddhd"}
+{"type": "issue", "issue_number": 26378, "created_at": "2023-11-16", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "bjornharvold"}
+{"type": "issue", "issue_number": 26377, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "state": "closed", "author": "fengnian7"}
+{"type": "issue", "issue_number": 26376, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "state": "closed", "author": "LearnGrowAndShare"}
+{"type": "issue", "issue_number": 26375, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": [], "state": "closed", "author": "mylifeandcode"}
+{"type": "issue", "issue_number": 26374, "created_at": "2023-11-16", "closed_at": null, "labels": ["needs: repro steps"], "state": "open", "author": "ogolan-ig"}
+{"type": "issue", "issue_number": 26368, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "mcdenhoed"}
+{"type": "issue", "issue_number": 26366, "created_at": "2023-11-15", "closed_at": null, "labels": ["state: blocked on upstream"], "state": "open", "author": "emiryumak"}
+{"type": "issue", "issue_number": 26365, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "kupchic"}
+{"type": "issue", "issue_number": 26361, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "roedoejet"}
+{"type": "issue", "issue_number": 26360, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "shaun-jacks"}
+{"type": "issue", "issue_number": 26359, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "JeanMeche"}
+{"type": "issue", "issue_number": 26357, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "jsloyer"}
+{"type": "issue", "issue_number": 26356, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "state": "closed", "author": "iqmeta"}
+{"type": "issue", "issue_number": 26355, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "state": "closed", "author": "robertIsaac"}
+{"type": "issue", "issue_number": 26354, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "state": "closed", "author": "Burgov"}
+{"type": "issue", "issue_number": 26353, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["needs: more info"], "state": "closed", "author": "enstenr"}
+{"type": "issue", "issue_number": 26352, "created_at": "2023-11-14", "closed_at": "2023-11-15", "labels": ["needs: more info"], "state": "closed", "author": "its-dibo"}
+{"type": "issue", "issue_number": 26350, "created_at": "2023-11-14", "closed_at": null, "labels": ["type: bug/fix", "area: devkit/build-angular", "devkit/build-angular:i18n", "devkit/build-angular:application"], "state": "open", "author": "destus90"}
+{"type": "issue", "issue_number": 26349, "created_at": "2023-11-14", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:dev-server", "state: blocked on upstream"], "state": "open", "author": "miguellira"}
+{"type": "issue", "issue_number": 26347, "created_at": "2023-11-13", "closed_at": null, "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "open", "author": "ln-e"}
+{"type": "issue", "issue_number": 26345, "created_at": "2023-11-13", "closed_at": "2023-11-15", "labels": ["needs: more info"], "state": "closed", "author": "zerock54"}
+{"type": "issue", "issue_number": 26344, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "state": "closed", "author": "Burgov"}
+{"type": "issue", "issue_number": 26343, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "state": "closed", "author": "cipchk"}
+{"type": "issue", "issue_number": 26342, "created_at": "2023-11-13", "closed_at": "2023-11-14", "labels": [], "state": "closed", "author": "cexbrayat"}
+{"type": "issue", "issue_number": 26339, "created_at": "2023-11-12", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "closed", "author": "Guerric-P"}
+{"type": "issue", "issue_number": 26338, "created_at": "2023-11-12", "closed_at": null, "labels": ["feature", "devkit/build-angular:i18n", "feature: votes required", "devkit/build-angular:application"], "state": "open", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26337, "created_at": "2023-11-12", "closed_at": "2023-11-15", "labels": ["needs: investigation", "area: angular/cli", "ng update DX"], "state": "closed", "author": "kibetmasi"}
+{"type": "issue", "issue_number": 26336, "created_at": "2023-11-12", "closed_at": "2023-11-16", "labels": [], "state": "closed", "author": "noguespi"}
+{"type": "issue", "issue_number": 26334, "created_at": "2023-11-11", "closed_at": "2023-11-20", "labels": ["type: bug/fix", "needs: more info", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "radekjakubowski"}
+{"type": "issue", "issue_number": 26333, "created_at": "2023-11-11", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "closed", "author": "inpercima"}
+{"type": "issue", "issue_number": 26331, "created_at": "2023-11-11", "closed_at": "2023-11-11", "labels": [], "state": "closed", "author": "maxfriedmann"}
+{"type": "issue", "issue_number": 26332, "created_at": "2023-11-11", "closed_at": "2023-11-13", "labels": ["needs: more info"], "state": "closed", "author": "Burgov"}
+{"type": "issue", "issue_number": 26330, "created_at": "2023-11-10", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "joergbaier"}
+{"type": "issue", "issue_number": 26329, "created_at": "2023-11-10", "closed_at": "2023-11-12", "labels": [], "state": "closed", "author": "drtobal"}
+{"type": "issue", "issue_number": 26326, "created_at": "2023-11-10", "closed_at": null, "labels": [], "state": "open", "author": "chihab"}
+{"type": "issue", "issue_number": 26325, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "devkit/build-angular:application"], "state": "closed", "author": "KatzRuslan"}
+{"type": "issue", "issue_number": 26324, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "state": "closed", "author": "Tiiyto"}
+{"type": "issue", "issue_number": 26323, "created_at": "2023-11-10", "closed_at": null, "labels": ["devkit/build-angular:dev-server"], "state": "open", "author": "Ozzcer"}
+{"type": "issue", "issue_number": 26320, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["state: blocked on upstream"], "state": "closed", "author": "bagbag"}
+{"type": "issue", "issue_number": 26319, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "alanpurple"}
+{"type": "issue", "issue_number": 26318, "created_at": "2023-11-10", "closed_at": "2023-11-17", "labels": ["needs: more info"], "state": "closed", "author": "tom-laplace"}
+{"type": "issue", "issue_number": 26317, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "9kubczas4"}
+{"type": "issue", "issue_number": 26316, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "state": "closed", "author": "anhallbe"}
+{"type": "issue", "issue_number": 26315, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: schematics/angular"], "state": "closed", "author": "djouf007"}
+{"type": "issue", "issue_number": 26311, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": [], "state": "closed", "author": "vlio20"}
+{"type": "issue", "issue_number": 26310, "created_at": "2023-11-10", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "cipchk"}
+{"type": "issue", "issue_number": 26308, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular"], "state": "closed", "author": "atsjo"}
+{"type": "issue", "issue_number": 26307, "created_at": "2023-11-09", "closed_at": "2023-11-10", "labels": [], "state": "closed", "author": "jnizet"}
+{"type": "issue", "issue_number": 26305, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": [], "state": "closed", "author": "ssougnez"}
+{"type": "issue", "issue_number": 26304, "created_at": "2023-11-09", "closed_at": "2023-11-10", "labels": [], "state": "closed", "author": "ssougnez"}
+{"type": "issue", "issue_number": 26303, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: repro steps"], "state": "closed", "author": "wartab"}
+{"type": "issue", "issue_number": 26301, "created_at": "2023-11-09", "closed_at": "2023-11-15", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "yutamago"}
+{"type": "issue", "issue_number": 26299, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required", "devkit/build-angular:application"], "state": "open", "author": "muuvmuuv"}
+{"type": "issue", "issue_number": 26298, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: repro steps"], "state": "closed", "author": "Fab1anB"}
+{"type": "issue", "issue_number": 26295, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: angular/cli", "feature: votes required"], "state": "open", "author": "splincode"}
+{"type": "issue", "issue_number": 26292, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["needs: more info", "area: angular/cli", "ng update DX"], "state": "closed", "author": "SaranshChaudhary"}
+{"type": "issue", "issue_number": 26291, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: devkit/build-angular"], "state": "open", "author": "dgp1130"}
+{"type": "issue", "issue_number": 26290, "created_at": "2023-11-09", "closed_at": null, "labels": ["feature", "area: schematics/angular"], "state": "open", "author": "dgp1130"}
+{"type": "issue", "issue_number": 26288, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": [], "state": "closed", "author": "JosefBredereck"}
+{"type": "issue", "issue_number": 26286, "created_at": "2023-11-08", "closed_at": null, "labels": ["needs: discussion"], "state": "open", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26284, "created_at": "2023-11-08", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "AhsanAyaz"}
+{"type": "issue", "issue_number": 26283, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": [], "state": "closed", "author": "EliezerB123"}
+{"type": "issue", "issue_number": 26282, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": [], "state": "closed", "author": "yharaskrik"}
+{"type": "issue", "issue_number": 26272, "created_at": "2023-11-08", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required"], "state": "open", "author": "simhnna"}
+{"type": "issue", "issue_number": 26260, "created_at": "2023-11-07", "closed_at": "2023-11-08", "labels": [], "state": "closed", "author": "hakimio"}
+{"type": "issue", "issue_number": 26257, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: schematics/angular"], "state": "closed", "author": "fmalcher"}
+{"type": "issue", "issue_number": 26256, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26255, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": [], "state": "closed", "author": "arunkumar30"}
+{"type": "issue", "issue_number": 26244, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["needs: repro steps"], "state": "closed", "author": "arturober"}
+{"type": "issue", "issue_number": 26239, "created_at": "2023-11-06", "closed_at": "2023-11-07", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:karma"], "state": "closed", "author": "akhilbiju"}
+{"type": "issue", "issue_number": 26235, "created_at": "2023-11-05", "closed_at": "2023-11-06", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "yharaskrik"}
+{"type": "issue", "issue_number": 26234, "created_at": "2023-11-05", "closed_at": "2023-11-06", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "yharaskrik"}
+{"type": "issue", "issue_number": 26233, "created_at": "2023-11-04", "closed_at": "2023-11-07", "labels": ["needs: repro steps"], "state": "closed", "author": "edbzn"}
+{"type": "issue", "issue_number": 26226, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": [], "state": "closed", "author": "pdaneshmand"}
+{"type": "issue", "issue_number": 26223, "created_at": "2023-11-03", "closed_at": "2023-11-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular"], "state": "closed", "author": "pcbowers"}
+{"type": "issue", "issue_number": 26216, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": [], "state": "closed", "author": "arturober"}
+{"type": "issue", "issue_number": 26215, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "cexbrayat"}
+{"type": "issue", "issue_number": 26213, "created_at": "2023-11-03", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "yjaaidi"}
+{"type": "issue", "issue_number": 26209, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26200, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": [], "state": "closed", "author": "andrewalderson"}
+{"type": "issue", "issue_number": 26199, "created_at": "2023-11-01", "closed_at": "2023-11-03", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "yharaskrik"}
+{"type": "issue", "issue_number": 26198, "created_at": "2023-11-01", "closed_at": "2023-11-02", "labels": ["state: blocked on upstream"], "state": "closed", "author": "manfredsteyer"}
+{"type": "issue", "issue_number": 26204, "created_at": "2023-11-01", "closed_at": null, "labels": ["needs: investigation"], "state": "open", "author": "gsans"}
+{"type": "issue", "issue_number": 26192, "created_at": "2023-11-01", "closed_at": "2023-11-02", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26184, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": [], "state": "closed", "author": "gp187"}
+{"type": "issue", "issue_number": 26179, "created_at": "2023-10-30", "closed_at": "2023-10-31", "labels": [], "state": "closed", "author": "naveedahmed1"}
+{"type": "issue", "issue_number": 26178, "created_at": "2023-10-30", "closed_at": "2023-11-01", "labels": ["needs: more info"], "state": "closed", "author": "web-dave"}
+{"type": "issue", "issue_number": 26167, "created_at": "2023-10-28", "closed_at": "2023-10-30", "labels": ["type: bug/fix", "area: angular/cli"], "state": "closed", "author": "robertIsaac"}
+{"type": "issue", "issue_number": 26161, "created_at": "2023-10-27", "closed_at": null, "labels": ["needs: more info"], "state": "open", "author": "AshotAleqsanyan96"}
+{"type": "issue", "issue_number": 26154, "created_at": "2023-10-26", "closed_at": "2023-10-27", "labels": [], "state": "closed", "author": "gbrunow"}
+{"type": "issue", "issue_number": 26153, "created_at": "2023-10-26", "closed_at": "2023-10-30", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26151, "created_at": "2023-10-26", "closed_at": "2023-10-31", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26148, "created_at": "2023-10-26", "closed_at": "2023-10-27", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26147, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26141, "created_at": "2023-10-26", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:ssr-dev-server"], "state": "open", "author": "iKrishnaSahu"}
+{"type": "issue", "issue_number": 26140, "created_at": "2023-10-26", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: votes required", "devkit/build-angular:application"], "state": "open", "author": "iKrishnaSahu"}
+{"type": "issue", "issue_number": 26138, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "state": "closed", "author": "spock123"}
+{"type": "issue", "issue_number": 26135, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26134, "created_at": "2023-10-26", "closed_at": "2023-10-26", "labels": [], "state": "closed", "author": "Neizan93"}
+{"type": "issue", "issue_number": 26132, "created_at": "2023-10-25", "closed_at": null, "labels": ["feature", "area: devkit/build-angular", "feature: under consideration"], "state": "open", "author": "dgp1130"}
+{"type": "issue", "issue_number": 26114, "created_at": "2023-10-24", "closed_at": "2023-10-30", "labels": ["area: angular/cli"], "state": "closed", "author": "JeanMeche"}
+{"type": "issue", "issue_number": 26106, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": [], "state": "closed", "author": "pumano"}
+{"type": "issue", "issue_number": 26110, "created_at": "2023-10-23", "closed_at": "2023-10-31", "labels": ["type: bug/fix", "freq1: low", "area: schematics/angular"], "state": "closed", "author": "sonallux"}
+{"type": "issue", "issue_number": 26105, "created_at": "2023-10-23", "closed_at": null, "labels": [], "state": "open", "author": "pumano"}
+{"type": "issue", "issue_number": 26101, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": [], "state": "closed", "author": "Casimodo72"}
+{"type": "issue", "issue_number": 26095, "created_at": "2023-10-23", "closed_at": "2023-10-24", "labels": [], "state": "closed", "author": "AnaA95"}
+{"type": "issue", "issue_number": 26093, "created_at": "2023-10-23", "closed_at": "2023-10-25", "labels": [], "state": "closed", "author": "d9j"}
+{"type": "issue", "issue_number": 26092, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "state": "closed", "author": "JeanMeche"}
+{"type": "issue", "issue_number": 26091, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": [], "state": "closed", "author": "jasonrichdarmawan"}
+{"type": "issue", "issue_number": 26090, "created_at": "2023-10-22", "closed_at": "2023-10-25", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "HymanZHAN"}
+{"type": "issue", "issue_number": 26088, "created_at": "2023-10-21", "closed_at": "2023-10-23", "labels": [], "state": "closed", "author": "arambazamba"}
+{"type": "issue", "issue_number": 26083, "created_at": "2023-10-20", "closed_at": "2023-10-23", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: schematics/angular"], "state": "closed", "author": "mcalmus"}
+{"type": "issue", "issue_number": 26080, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": [], "state": "closed", "author": "turtleinspace1"}
+{"type": "issue", "issue_number": 26074, "created_at": "2023-10-19", "closed_at": "2023-10-20", "labels": ["needs: more info"], "state": "closed", "author": "robertIsaac"}
+{"type": "issue", "issue_number": 26063, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: schematics/angular"], "state": "closed", "author": "spock123"}
+{"type": "issue", "issue_number": 26057, "created_at": "2023-10-18", "closed_at": null, "labels": ["area: devkit/build-angular", "devkit/build-angular:application"], "state": "open", "author": "MarcoGlauser"}
+{"type": "issue", "issue_number": 26050, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": [], "state": "closed", "author": "DaniyalAlam09"}
+{"type": "issue", "issue_number": 26044, "created_at": "2023-10-16", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "severity3: broken", "devkit/build-angular:application"], "state": "closed", "author": "yusuke-oba1"}
+{"type": "issue", "issue_number": 26043, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "state": "closed", "author": "jpike88"}
+{"type": "issue", "issue_number": 26041, "created_at": "2023-10-14", "closed_at": "2023-10-15", "labels": [], "state": "closed", "author": "lcpichette"}
+{"type": "issue", "issue_number": 26042, "created_at": "2023-10-14", "closed_at": "2023-10-15", "labels": [], "state": "closed", "author": "spock123"}
+{"type": "issue", "issue_number": 26040, "created_at": "2023-10-14", "closed_at": "2023-10-16", "labels": [], "state": "closed", "author": "Razorshnegax018"}
+{"type": "issue", "issue_number": 26028, "created_at": "2023-10-13", "closed_at": "2023-10-13", "labels": [], "state": "closed", "author": "thaoula"}
+{"type": "issue", "issue_number": 26026, "created_at": "2023-10-12", "closed_at": "2023-10-20", "labels": ["needs: investigation", "devkit/build-angular:application"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26025, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "state": "closed", "author": "DimitriTsikaridze"}
+{"type": "issue", "issue_number": 26023, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26021, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["type: bug/fix", "freq3: high", "severity5: regression", "area: devkit/build-angular"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26014, "created_at": "2023-10-11", "closed_at": "2023-10-12", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26013, "created_at": "2023-10-11", "closed_at": "2023-10-16", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 26012, "created_at": "2023-10-11", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "help wanted", "freq1: low", "severity2: inconvenient", "area: schematics/angular", "good first issue"], "state": "closed", "author": "ocombe"}
+{"type": "issue", "issue_number": 26010, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "state": "closed", "author": "sercancolak"}
+{"type": "issue", "issue_number": 26003, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "state": "closed", "author": "bruceauyeung"}
+{"type": "issue", "issue_number": 26000, "created_at": "2023-10-10", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/schematics"], "state": "open", "author": "cheng93"}
+{"type": "issue", "issue_number": 25998, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": [], "state": "closed", "author": "VincenzoManto"}
+{"type": "issue", "issue_number": 25996, "created_at": "2023-10-09", "closed_at": "2023-10-16", "labels": ["needs: more info"], "state": "closed", "author": "codeunifier"}
+{"type": "issue", "issue_number": 25987, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 25983, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": [], "state": "closed", "author": "danielhasugian"}
+{"type": "issue", "issue_number": 25985, "created_at": "2023-10-08", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 25980, "created_at": "2023-10-08", "closed_at": "2023-10-09", "labels": [], "state": "closed", "author": "digeomel"}
+{"type": "issue", "issue_number": 25979, "created_at": "2023-10-07", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server", "devkit/build-angular:i18n"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 25978, "created_at": "2023-10-07", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity2: inconvenient", "area: devkit/build-angular", "devkit/build-angular:dev-server"], "state": "closed", "author": "zip-fa"}
+{"type": "issue", "issue_number": 25972, "created_at": "2023-10-06", "closed_at": "2023-10-18", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "devkit/build-angular:application"], "state": "closed", "author": "eneajaho"}
+{"type": "issue", "issue_number": 25966, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": [], "state": "closed", "author": "muhamedkarajic"}
+{"type": "issue", "issue_number": 25944, "created_at": "2023-10-04", "closed_at": "2023-10-05", "labels": ["severity6: security", "area: devkit/build-angular"], "state": "closed", "author": "clusterberries"}
+{"type": "issue", "issue_number": 25943, "created_at": "2023-10-04", "closed_at": "2023-10-23", "labels": ["type: bug/fix", "freq2: medium", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "d9j"}
+{"type": "issue", "issue_number": 25936, "created_at": "2023-10-02", "closed_at": null, "labels": ["type: bug/fix", "freq1: low", "severity5: regression", "area: ngtools/webpack"], "state": "open", "author": "apangr"}
+{"type": "issue", "issue_number": 25935, "created_at": "2023-10-02", "closed_at": "2023-10-11", "labels": ["type: bug/fix", "needs: more info", "freq2: medium", "severity4: memory/performance", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "vbraun"}
+{"type": "issue", "issue_number": 25929, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": [], "state": "closed", "author": "Potapich"}
+{"type": "issue", "issue_number": 25925, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["ng update DX"], "state": "closed", "author": "nikita-fuchs"}
+{"type": "issue", "issue_number": 25924, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:dev-server", "devkit/build-angular:application"], "state": "closed", "author": "eneajaho"}
+{"type": "issue", "issue_number": 25923, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": [], "state": "closed", "author": "nblaudez"}
+{"type": "issue", "issue_number": 25921, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": [], "state": "closed", "author": "segevfiner"}
+{"type": "issue", "issue_number": 25920, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": [], "state": "closed", "author": "rcsilva83"}
+{"type": "issue", "issue_number": 25919, "created_at": "2023-09-28", "closed_at": "2023-10-11", "labels": ["needs: more info"], "state": "closed", "author": "johncrim"}
+{"type": "issue", "issue_number": 25918, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "state": "closed", "author": "chopswil15"}
+{"type": "issue", "issue_number": 25915, "created_at": "2023-09-28", "closed_at": "2023-09-28", "labels": [], "state": "closed", "author": "dev-rajat-bacancy"}
+{"type": "issue", "issue_number": 25912, "created_at": "2023-09-27", "closed_at": "2023-10-04", "labels": ["type: bug/fix", "freq3: high", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:application"], "state": "closed", "author": "psarno"}
+{"type": "issue", "issue_number": 25911, "created_at": "2023-09-27", "closed_at": "2023-10-09", "labels": ["type: bug/fix", "freq1: low", "severity3: broken", "area: devkit/build-angular", "devkit/build-angular:i18n", "devkit/build-angular:application"], "state": "closed", "author": "cexbrayat"}
+{"type": "issue", "issue_number": 25910, "created_at": "2023-09-27", "closed_at": "2023-10-12", "labels": ["needs: more info"], "state": "closed", "author": "LennonReid"}
+{"type": "issue", "issue_number": 25907, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": [], "state": "closed", "author": "twilker"}
+{"type": "issue", "issue_number": 25902, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": [], "state": "closed", "author": "SandorSzilard"}
+{"type": "issue", "issue_number": 25897, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": [], "state": "closed", "author": "hubnerd"}
+{"type": "issue", "issue_number": 25885, "created_at": "2023-09-21", "closed_at": "2023-10-05", "labels": ["needs: repro steps"], "state": "closed", "author": "ilyakonrad"}
+{"type": "issue", "issue_number": 25883, "created_at": "2023-09-21", "closed_at": null, "labels": ["needs: investigation", "area: devkit/build-angular", "devkit/build-angular:i18n"], "state": "open", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26452, "created_at": "2023-11-21", "closed_at": "2023-11-22", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26451, "created_at": "2023-11-21", "closed_at": "2023-11-21", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26450, "created_at": "2023-11-21", "closed_at": "2023-11-21", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26446, "created_at": "2023-11-21", "closed_at": "2023-11-21", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26444, "created_at": "2023-11-21", "closed_at": null, "state": "open", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26440, "created_at": "2023-11-21", "closed_at": "2023-11-21", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26439, "created_at": "2023-11-21", "closed_at": "2023-11-21", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26436, "created_at": "2023-11-20", "closed_at": "2023-11-21", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26435, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26434, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26433, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26430, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26428, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26426, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26425, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26424, "created_at": "2023-11-20", "closed_at": "2023-11-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26422, "created_at": "2023-11-20", "closed_at": "2023-11-21", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26418, "created_at": "2023-11-19", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26417, "created_at": "2023-11-19", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26405, "created_at": "2023-11-18", "closed_at": "2023-11-19", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26404, "created_at": "2023-11-18", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26403, "created_at": "2023-11-18", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26402, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26401, "created_at": "2023-11-17", "closed_at": null, "state": "open", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26400, "created_at": "2023-11-17", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26399, "created_at": "2023-11-17", "closed_at": "2023-11-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26398, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26397, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26393, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26392, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26391, "created_at": "2023-11-17", "closed_at": "2023-11-21", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26388, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26387, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26385, "created_at": "2023-11-16", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26381, "created_at": "2023-11-16", "closed_at": "2023-11-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26380, "created_at": "2023-11-16", "closed_at": "2023-11-16", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26373, "created_at": "2023-11-16", "closed_at": "2023-11-16", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26372, "created_at": "2023-11-16", "closed_at": "2023-11-16", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26371, "created_at": "2023-11-16", "closed_at": "2023-11-16", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26370, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26369, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26367, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26364, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26363, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26362, "created_at": "2023-11-15", "closed_at": "2023-11-15", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26358, "created_at": "2023-11-14", "closed_at": "2023-11-15", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26351, "created_at": "2023-11-14", "closed_at": "2023-11-20", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26346, "created_at": "2023-11-13", "closed_at": "2023-11-15", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26341, "created_at": "2023-11-13", "closed_at": "2023-11-13", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26340, "created_at": "2023-11-13", "closed_at": "2023-11-20", "state": "closed", "author": "JeanMeche"}
+{"type": "pull_request", "pr_number": 26335, "created_at": "2023-11-12", "closed_at": "2023-11-15", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26322, "created_at": "2023-11-10", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26321, "created_at": "2023-11-10", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26314, "created_at": "2023-11-10", "closed_at": "2023-11-15", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26313, "created_at": "2023-11-10", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26312, "created_at": "2023-11-10", "closed_at": "2023-11-13", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26309, "created_at": "2023-11-10", "closed_at": null, "state": "open", "author": "ArthurDibe"}
+{"type": "pull_request", "pr_number": 26302, "created_at": "2023-11-09", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26300, "created_at": "2023-11-09", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26297, "created_at": "2023-11-09", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26296, "created_at": "2023-11-09", "closed_at": "2023-11-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26294, "created_at": "2023-11-09", "closed_at": "2023-11-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26293, "created_at": "2023-11-09", "closed_at": "2023-11-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26289, "created_at": "2023-11-08", "closed_at": "2023-11-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26287, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26285, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26281, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26280, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26279, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26278, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26277, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26276, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26275, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26274, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26273, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26271, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26270, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26269, "created_at": "2023-11-07", "closed_at": "2023-11-08", "state": "closed", "author": "d-koppenhagen"}
+{"type": "pull_request", "pr_number": 26268, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26267, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26266, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26265, "created_at": "2023-11-07", "closed_at": "2023-11-08", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26264, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26263, "created_at": "2023-11-07", "closed_at": "2023-11-08", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26262, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26261, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26259, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26258, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26254, "created_at": "2023-11-07", "closed_at": "2023-11-08", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26253, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26252, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26251, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "twerske"}
+{"type": "pull_request", "pr_number": 26250, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26249, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26248, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26247, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26246, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26245, "created_at": "2023-11-06", "closed_at": "2023-11-07", "state": "closed", "author": "akhilbiju"}
+{"type": "pull_request", "pr_number": 26243, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "akhilbiju"}
+{"type": "pull_request", "pr_number": 26242, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "akhilbiju"}
+{"type": "pull_request", "pr_number": 26241, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "akhilbiju"}
+{"type": "pull_request", "pr_number": 26240, "created_at": "2023-11-06", "closed_at": "2023-11-07", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26237, "created_at": "2023-11-05", "closed_at": "2023-11-06", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26236, "created_at": "2023-11-05", "closed_at": "2023-11-08", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26232, "created_at": "2023-11-04", "closed_at": "2023-11-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26231, "created_at": "2023-11-04", "closed_at": "2023-11-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26230, "created_at": "2023-11-04", "closed_at": "2023-11-04", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26229, "created_at": "2023-11-04", "closed_at": "2023-11-05", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26228, "created_at": "2023-11-04", "closed_at": "2023-11-04", "state": "closed", "author": "hirotoKirimaru"}
+{"type": "pull_request", "pr_number": 26227, "created_at": "2023-11-03", "closed_at": "2023-11-05", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26225, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26224, "created_at": "2023-11-03", "closed_at": "2023-11-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26222, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26221, "created_at": "2023-11-03", "closed_at": "2023-11-07", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26220, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26219, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26218, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26217, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26214, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26212, "created_at": "2023-11-02", "closed_at": "2023-11-03", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26211, "created_at": "2023-11-02", "closed_at": "2023-11-03", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26210, "created_at": "2023-11-02", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26208, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26207, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26206, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26205, "created_at": "2023-11-02", "closed_at": "2023-11-03", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26203, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26202, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26201, "created_at": "2023-11-02", "closed_at": "2023-11-02", "state": "closed", "author": "leosvelperez"}
+{"type": "pull_request", "pr_number": 26197, "created_at": "2023-11-01", "closed_at": "2023-11-03", "state": "closed", "author": "atcastle"}
+{"type": "pull_request", "pr_number": 26196, "created_at": "2023-11-01", "closed_at": "2023-11-02", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26195, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26194, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26193, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26191, "created_at": "2023-11-01", "closed_at": "2023-11-02", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26190, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26189, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26188, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26187, "created_at": "2023-10-31", "closed_at": "2023-10-31", "state": "closed", "author": "crisbeto"}
+{"type": "pull_request", "pr_number": 26186, "created_at": "2023-10-31", "closed_at": "2023-10-31", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26185, "created_at": "2023-10-31", "closed_at": "2023-11-01", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26183, "created_at": "2023-10-31", "closed_at": "2023-10-31", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26182, "created_at": "2023-10-31", "closed_at": "2023-10-31", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26181, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26180, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26177, "created_at": "2023-10-30", "closed_at": "2023-10-30", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26176, "created_at": "2023-10-30", "closed_at": "2023-10-30", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26175, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26174, "created_at": "2023-10-30", "closed_at": "2023-10-30", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26173, "created_at": "2023-10-30", "closed_at": "2023-10-30", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26172, "created_at": "2023-10-30", "closed_at": "2023-10-30", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26171, "created_at": "2023-10-29", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26170, "created_at": "2023-10-29", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26169, "created_at": "2023-10-29", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26168, "created_at": "2023-10-29", "closed_at": "2023-10-30", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26166, "created_at": "2023-10-28", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26165, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26164, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26163, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "josephperrott"}
+{"type": "pull_request", "pr_number": 26162, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26160, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26159, "created_at": "2023-10-27", "closed_at": "2023-10-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26158, "created_at": "2023-10-27", "closed_at": "2023-10-31", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26157, "created_at": "2023-10-27", "closed_at": "2023-10-27", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26156, "created_at": "2023-10-27", "closed_at": "2023-10-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26155, "created_at": "2023-10-27", "closed_at": "2023-11-03", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26152, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26150, "created_at": "2023-10-26", "closed_at": "2023-10-27", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26149, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26146, "created_at": "2023-10-26", "closed_at": "2023-10-27", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26145, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26144, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26143, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26142, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26139, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 26137, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26136, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26133, "created_at": "2023-10-26", "closed_at": "2023-10-26", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26131, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26130, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26129, "created_at": "2023-10-25", "closed_at": "2023-10-26", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26128, "created_at": "2023-10-25", "closed_at": "2023-10-26", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26127, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26126, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26125, "created_at": "2023-10-25", "closed_at": "2023-10-28", "state": "closed", "author": "I-A-S"}
+{"type": "pull_request", "pr_number": 26124, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26123, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26122, "created_at": "2023-10-25", "closed_at": "2023-10-26", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26121, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26120, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "I-A-S"}
+{"type": "pull_request", "pr_number": 26119, "created_at": "2023-10-24", "closed_at": "2023-10-30", "state": "closed", "author": "josephperrott"}
+{"type": "pull_request", "pr_number": 26118, "created_at": "2023-10-24", "closed_at": "2023-10-25", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26117, "created_at": "2023-10-24", "closed_at": "2023-10-25", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26116, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26115, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26113, "created_at": "2023-10-24", "closed_at": "2023-10-26", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26112, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26111, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26109, "created_at": "2023-10-23", "closed_at": "2023-10-31", "state": "closed", "author": "michaelfaith"}
+{"type": "pull_request", "pr_number": 26108, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26107, "created_at": "2023-10-23", "closed_at": "2023-10-25", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26104, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26103, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26102, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26100, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26099, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26098, "created_at": "2023-10-23", "closed_at": "2023-10-24", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26097, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26096, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26094, "created_at": "2023-10-23", "closed_at": "2023-10-25", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26089, "created_at": "2023-10-21", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26087, "created_at": "2023-10-21", "closed_at": "2023-10-23", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26086, "created_at": "2023-10-21", "closed_at": "2023-10-23", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26085, "created_at": "2023-10-21", "closed_at": "2023-10-23", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26084, "created_at": "2023-10-21", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26082, "created_at": "2023-10-20", "closed_at": "2023-10-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26081, "created_at": "2023-10-20", "closed_at": "2023-10-23", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26079, "created_at": "2023-10-20", "closed_at": "2023-10-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26078, "created_at": "2023-10-20", "closed_at": "2023-10-20", "state": "closed", "author": "thapasusheel"}
+{"type": "pull_request", "pr_number": 26077, "created_at": "2023-10-20", "closed_at": "2023-10-20", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26076, "created_at": "2023-10-20", "closed_at": "2023-10-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26075, "created_at": "2023-10-19", "closed_at": "2023-10-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26073, "created_at": "2023-10-19", "closed_at": "2023-10-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26072, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26071, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 26070, "created_at": "2023-10-19", "closed_at": "2023-10-20", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26069, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26068, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26067, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26066, "created_at": "2023-10-19", "closed_at": "2023-10-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26065, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26064, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26062, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26061, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26060, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26059, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26058, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26056, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26055, "created_at": "2023-10-18", "closed_at": "2023-10-19", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26054, "created_at": "2023-10-18", "closed_at": "2023-10-19", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26053, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26052, "created_at": "2023-10-17", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26051, "created_at": "2023-10-17", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26048, "created_at": "2023-10-17", "closed_at": "2023-10-17", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26047, "created_at": "2023-10-16", "closed_at": "2023-10-19", "state": "closed", "author": "domske"}
+{"type": "pull_request", "pr_number": 26046, "created_at": "2023-10-16", "closed_at": "2023-10-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26045, "created_at": "2023-10-16", "closed_at": "2023-10-20", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26039, "created_at": "2023-10-14", "closed_at": "2023-10-18", "state": "closed", "author": "SarthakD15"}
+{"type": "pull_request", "pr_number": 26038, "created_at": "2023-10-14", "closed_at": "2023-10-16", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26037, "created_at": "2023-10-14", "closed_at": "2023-10-16", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26036, "created_at": "2023-10-13", "closed_at": null, "state": "open", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26035, "created_at": "2023-10-13", "closed_at": "2023-10-17", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26034, "created_at": "2023-10-13", "closed_at": "2023-10-16", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26033, "created_at": "2023-10-13", "closed_at": "2023-10-16", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26032, "created_at": "2023-10-13", "closed_at": "2023-10-13", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26031, "created_at": "2023-10-13", "closed_at": "2023-10-15", "state": "closed", "author": "SarthakD15"}
+{"type": "pull_request", "pr_number": 26030, "created_at": "2023-10-13", "closed_at": "2023-10-13", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26029, "created_at": "2023-10-13", "closed_at": "2023-10-18", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26027, "created_at": "2023-10-12", "closed_at": "2023-10-13", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26024, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26022, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26020, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26019, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26018, "created_at": "2023-10-12", "closed_at": "2023-10-13", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26017, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26016, "created_at": "2023-10-11", "closed_at": "2023-10-12", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26015, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26011, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 26009, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26008, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26007, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26006, "created_at": "2023-10-11", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26005, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26004, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 26002, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 26001, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "dgp1130"}
+{"type": "pull_request", "pr_number": 25999, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25997, "created_at": "2023-10-10", "closed_at": "2023-10-12", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25995, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25994, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25993, "created_at": "2023-10-10", "closed_at": "2023-10-12", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25992, "created_at": "2023-10-09", "closed_at": "2023-10-10", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25991, "created_at": "2023-10-09", "closed_at": "2023-10-18", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25990, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25989, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25988, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25986, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25984, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25982, "created_at": "2023-10-08", "closed_at": "2023-10-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25981, "created_at": "2023-10-08", "closed_at": "2023-10-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25977, "created_at": "2023-10-07", "closed_at": "2023-10-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25976, "created_at": "2023-10-06", "closed_at": "2023-10-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25975, "created_at": "2023-10-06", "closed_at": "2023-10-09", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25974, "created_at": "2023-10-06", "closed_at": "2023-10-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25973, "created_at": "2023-10-06", "closed_at": "2023-10-09", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25971, "created_at": "2023-10-06", "closed_at": "2023-10-06", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25970, "created_at": "2023-10-06", "closed_at": "2023-10-06", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25969, "created_at": "2023-10-06", "closed_at": "2023-10-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25968, "created_at": "2023-10-06", "closed_at": "2023-10-06", "state": "closed", "author": "lam131"}
+{"type": "pull_request", "pr_number": 25967, "created_at": "2023-10-06", "closed_at": "2023-10-06", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25965, "created_at": "2023-10-05", "closed_at": "2023-10-09", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25964, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25963, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25962, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25961, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25960, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25959, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25958, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25957, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25956, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25955, "created_at": "2023-10-05", "closed_at": "2023-10-09", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25954, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25953, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25952, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25951, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25950, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25949, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25948, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25947, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25946, "created_at": "2023-10-04", "closed_at": "2023-10-05", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25945, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25942, "created_at": "2023-10-03", "closed_at": "2023-11-01", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25941, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25940, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25939, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25938, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25937, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "crisbeto"}
+{"type": "pull_request", "pr_number": 25934, "created_at": "2023-10-02", "closed_at": "2023-10-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25933, "created_at": "2023-10-02", "closed_at": "2023-10-02", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25932, "created_at": "2023-10-02", "closed_at": "2023-10-04", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25931, "created_at": "2023-10-01", "closed_at": "2023-10-11", "state": "closed", "author": "twoco"}
+{"type": "pull_request", "pr_number": 25930, "created_at": "2023-09-30", "closed_at": "2023-10-09", "state": "closed", "author": "crisbeto"}
+{"type": "pull_request", "pr_number": 25928, "created_at": "2023-09-29", "closed_at": "2023-09-29", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 25927, "created_at": "2023-09-29", "closed_at": "2023-09-29", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25926, "created_at": "2023-09-29", "closed_at": "2023-09-29", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25922, "created_at": "2023-09-29", "closed_at": "2023-10-04", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25917, "created_at": "2023-09-28", "closed_at": "2023-09-28", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 25916, "created_at": "2023-09-28", "closed_at": "2023-09-28", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25914, "created_at": "2023-09-28", "closed_at": "2023-09-28", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25913, "created_at": "2023-09-27", "closed_at": "2023-10-04", "state": "closed", "author": "cexbrayat"}
+{"type": "pull_request", "pr_number": 25909, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25908, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25906, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25905, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25904, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25903, "created_at": "2023-09-27", "closed_at": "2023-09-28", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25901, "created_at": "2023-09-25", "closed_at": null, "state": "open", "author": "sp90"}
+{"type": "pull_request", "pr_number": 25900, "created_at": "2023-09-25", "closed_at": "2023-09-26", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25899, "created_at": "2023-09-25", "closed_at": "2023-09-25", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25898, "created_at": "2023-09-25", "closed_at": "2023-09-26", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25896, "created_at": "2023-09-23", "closed_at": "2023-09-25", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25895, "created_at": "2023-09-23", "closed_at": "2023-09-28", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25894, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25893, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25891, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25890, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25889, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25888, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25887, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25886, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "clydin"}
+{"type": "pull_request", "pr_number": 25884, "created_at": "2023-09-21", "closed_at": "2023-09-22", "state": "closed", "author": "alan-agius4"}
+{"type": "pull_request", "pr_number": 25882, "created_at": "2023-09-21", "closed_at": "2023-09-21", "state": "closed", "author": "angular-robot"}
+{"type": "pull_request", "pr_number": 25881, "created_at": "2023-09-21", "closed_at": "2023-09-21", "state": "closed", "author": "clydin"}

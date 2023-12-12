@@ -1,0 +1,145 @@
+{"type": "issue", "issue_number": 876, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": [], "state": "closed", "author": "KFA23SCM79D"}
+{"type": "issue", "issue_number": 873, "created_at": "2023-11-20", "closed_at": null, "labels": [], "state": "open", "author": "Delightai6881"}
+{"type": "issue", "issue_number": 872, "created_at": "2023-11-20", "closed_at": "2023-11-20", "labels": ["bug"], "state": "closed", "author": "jconsidi"}
+{"type": "issue", "issue_number": 871, "created_at": "2023-11-20", "closed_at": null, "labels": ["support"], "state": "open", "author": "MarshalXu"}
+{"type": "issue", "issue_number": 869, "created_at": "2023-11-18", "closed_at": null, "labels": ["support"], "state": "open", "author": "Sky640q"}
+{"type": "issue", "issue_number": 861, "created_at": "2023-11-15", "closed_at": null, "labels": ["bug"], "state": "open", "author": "hengqujushi"}
+{"type": "issue", "issue_number": 858, "created_at": "2023-11-14", "closed_at": null, "labels": ["bug"], "state": "open", "author": "gaborcselle"}
+{"type": "issue", "issue_number": 855, "created_at": "2023-11-13", "closed_at": "2023-11-14", "labels": ["bug"], "state": "closed", "author": "gaborcselle"}
+{"type": "issue", "issue_number": 854, "created_at": "2023-11-13", "closed_at": null, "labels": ["support"], "state": "open", "author": "shayben"}
+{"type": "issue", "issue_number": 844, "created_at": "2023-11-10", "closed_at": null, "labels": ["support"], "state": "open", "author": "Kulaneian"}
+{"type": "issue", "issue_number": 842, "created_at": "2023-11-10", "closed_at": null, "labels": ["support"], "state": "open", "author": "ihorrible"}
+{"type": "issue", "issue_number": 839, "created_at": "2023-11-10", "closed_at": null, "labels": ["bug"], "state": "open", "author": "adhillon192"}
+{"type": "issue", "issue_number": 832, "created_at": "2023-11-08", "closed_at": null, "labels": ["support"], "state": "open", "author": "Code-Hex"}
+{"type": "issue", "issue_number": 830, "created_at": "2023-11-08", "closed_at": null, "labels": [], "state": "open", "author": "afzaltipu"}
+{"type": "issue", "issue_number": 825, "created_at": "2023-11-07", "closed_at": null, "labels": ["support"], "state": "open", "author": "Kunal93v"}
+{"type": "issue", "issue_number": 824, "created_at": "2023-11-07", "closed_at": null, "labels": ["bug"], "state": "open", "author": "munirjojoverge"}
+{"type": "issue", "issue_number": 813, "created_at": "2023-10-30", "closed_at": "2023-11-15", "labels": [], "state": "closed", "author": "mohitd404"}
+{"type": "issue", "issue_number": 812, "created_at": "2023-10-30", "closed_at": null, "labels": ["bug"], "state": "open", "author": "jahabeebs"}
+{"type": "issue", "issue_number": 802, "created_at": "2023-10-19", "closed_at": null, "labels": ["support"], "state": "open", "author": "crypto-date"}
+{"type": "issue", "issue_number": 799, "created_at": "2023-10-18", "closed_at": null, "labels": ["bug"], "state": "open", "author": "askmeegs"}
+{"type": "issue", "issue_number": 797, "created_at": "2023-10-18", "closed_at": "2023-10-19", "labels": ["bug"], "state": "closed", "author": "pavlovp"}
+{"type": "issue", "issue_number": 789, "created_at": "2023-10-15", "closed_at": null, "labels": ["support"], "state": "open", "author": "khalidshamim1"}
+{"type": "issue", "issue_number": 786, "created_at": "2023-10-14", "closed_at": null, "labels": [], "state": "open", "author": "JaynouOliver"}
+{"type": "issue", "issue_number": 780, "created_at": "2023-10-12", "closed_at": null, "labels": [], "state": "open", "author": "kenakamu"}
+{"type": "issue", "issue_number": 772, "created_at": "2023-10-10", "closed_at": "2023-10-11", "labels": ["bug"], "state": "closed", "author": "281462094"}
+{"type": "issue", "issue_number": 769, "created_at": "2023-10-08", "closed_at": "2023-10-11", "labels": [], "state": "closed", "author": "Capin-daddy"}
+{"type": "issue", "issue_number": 766, "created_at": "2023-10-07", "closed_at": "2023-10-13", "labels": ["support"], "state": "closed", "author": "nlp999"}
+{"type": "issue", "issue_number": 764, "created_at": "2023-10-06", "closed_at": "2023-10-07", "labels": [], "state": "closed", "author": "Capin-daddy"}
+{"type": "issue", "issue_number": 749, "created_at": "2023-10-02", "closed_at": null, "labels": ["support"], "state": "open", "author": "calebpitan"}
+{"type": "issue", "issue_number": 748, "created_at": "2023-09-30", "closed_at": "2023-10-16", "labels": [], "state": "closed", "author": "rajveer43"}
+{"type": "issue", "issue_number": 743, "created_at": "2023-09-28", "closed_at": "2023-10-17", "labels": [], "state": "closed", "author": "perborgen"}
+{"type": "pull_request", "pr_number": 875, "created_at": "2023-11-21", "closed_at": null, "state": "open", "author": "dpirad007"}
+{"type": "pull_request", "pr_number": 874, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "prakul"}
+{"type": "pull_request", "pr_number": 870, "created_at": "2023-11-19", "closed_at": null, "state": "open", "author": "lionelchg"}
+{"type": "pull_request", "pr_number": 868, "created_at": "2023-11-17", "closed_at": null, "state": "open", "author": "Pistus"}
+{"type": "pull_request", "pr_number": 867, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "KmingLyu"}
+{"type": "pull_request", "pr_number": 866, "created_at": "2023-11-16", "closed_at": null, "state": "open", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 865, "created_at": "2023-11-16", "closed_at": null, "state": "open", "author": "taranjeet"}
+{"type": "pull_request", "pr_number": 864, "created_at": "2023-11-16", "closed_at": null, "state": "open", "author": "taranjeet"}
+{"type": "pull_request", "pr_number": 863, "created_at": "2023-11-15", "closed_at": null, "state": "open", "author": "gaborcselle"}
+{"type": "pull_request", "pr_number": 862, "created_at": "2023-11-15", "closed_at": null, "state": "open", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 860, "created_at": "2023-11-15", "closed_at": null, "state": "open", "author": "edspencer"}
+{"type": "pull_request", "pr_number": 859, "created_at": "2023-11-14", "closed_at": "2023-11-14", "state": "closed", "author": "keyboardAnt"}
+{"type": "pull_request", "pr_number": 857, "created_at": "2023-11-13", "closed_at": "2023-11-14", "state": "closed", "author": "gaborcselle"}
+{"type": "pull_request", "pr_number": 856, "created_at": "2023-11-13", "closed_at": null, "state": "open", "author": "royziv11"}
+{"type": "pull_request", "pr_number": 853, "created_at": "2023-11-13", "closed_at": "2023-11-14", "state": "closed", "author": "hemidactylus"}
+{"type": "pull_request", "pr_number": 852, "created_at": "2023-11-13", "closed_at": "2023-11-13", "state": "closed", "author": "ugoborghetti"}
+{"type": "pull_request", "pr_number": 851, "created_at": "2023-11-13", "closed_at": "2023-11-13", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 850, "created_at": "2023-11-12", "closed_at": "2023-11-13", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 849, "created_at": "2023-11-11", "closed_at": "2023-11-11", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 848, "created_at": "2023-11-11", "closed_at": null, "state": "open", "author": "ravi03071991"}
+{"type": "pull_request", "pr_number": 847, "created_at": "2023-11-11", "closed_at": "2023-11-14", "state": "closed", "author": "JakeLin"}
+{"type": "pull_request", "pr_number": 846, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 845, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 843, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "ibigio"}
+{"type": "pull_request", "pr_number": 841, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 840, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 838, "created_at": "2023-11-09", "closed_at": "2023-11-13", "state": "closed", "author": "royziv11"}
+{"type": "pull_request", "pr_number": 837, "created_at": "2023-11-09", "closed_at": "2023-11-14", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 836, "created_at": "2023-11-09", "closed_at": null, "state": "open", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 835, "created_at": "2023-11-09", "closed_at": "2023-11-09", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 834, "created_at": "2023-11-09", "closed_at": "2023-11-10", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 833, "created_at": "2023-11-08", "closed_at": "2023-11-14", "state": "closed", "author": "kristapratico"}
+{"type": "pull_request", "pr_number": 831, "created_at": "2023-11-08", "closed_at": null, "state": "open", "author": "afzaltipu"}
+{"type": "pull_request", "pr_number": 829, "created_at": "2023-11-08", "closed_at": "2023-11-10", "state": "closed", "author": "wptad"}
+{"type": "pull_request", "pr_number": 828, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 827, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "johnoct"}
+{"type": "pull_request", "pr_number": 826, "created_at": "2023-11-07", "closed_at": "2023-11-07", "state": "closed", "author": "OutSystemsAMM"}
+{"type": "pull_request", "pr_number": 823, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "cathykc"}
+{"type": "pull_request", "pr_number": 822, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 821, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 820, "created_at": "2023-11-06", "closed_at": "2023-11-06", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 819, "created_at": "2023-11-03", "closed_at": "2023-11-07", "state": "closed", "author": "gregnr"}
+{"type": "pull_request", "pr_number": 818, "created_at": "2023-11-03", "closed_at": null, "state": "open", "author": "dylanra-openai"}
+{"type": "pull_request", "pr_number": 817, "created_at": "2023-11-03", "closed_at": "2023-11-03", "state": "closed", "author": "IvanMongi"}
+{"type": "pull_request", "pr_number": 815, "created_at": "2023-10-31", "closed_at": "2023-10-31", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 814, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "mohitd404"}
+{"type": "pull_request", "pr_number": 811, "created_at": "2023-10-29", "closed_at": "2023-10-31", "state": "closed", "author": "Mayureshd-18"}
+{"type": "pull_request", "pr_number": 810, "created_at": "2023-10-27", "closed_at": "2023-11-10", "state": "closed", "author": "jhills20"}
+{"type": "pull_request", "pr_number": 809, "created_at": "2023-10-24", "closed_at": "2023-10-31", "state": "closed", "author": "yashwantjodha"}
+{"type": "pull_request", "pr_number": 808, "created_at": "2023-10-23", "closed_at": "2023-10-27", "state": "closed", "author": "romitp4l"}
+{"type": "pull_request", "pr_number": 807, "created_at": "2023-10-20", "closed_at": "2023-11-14", "state": "closed", "author": "dcarpintero"}
+{"type": "pull_request", "pr_number": 806, "created_at": "2023-10-20", "closed_at": "2023-10-31", "state": "closed", "author": "guspan-tanadi"}
+{"type": "pull_request", "pr_number": 805, "created_at": "2023-10-19", "closed_at": "2023-10-31", "state": "closed", "author": "Tanmay-Tiwaricyber"}
+{"type": "pull_request", "pr_number": 804, "created_at": "2023-10-19", "closed_at": null, "state": "open", "author": "colin-openai"}
+{"type": "pull_request", "pr_number": 803, "created_at": "2023-10-19", "closed_at": "2023-10-19", "state": "closed", "author": "pavlovp"}
+{"type": "pull_request", "pr_number": 801, "created_at": "2023-10-19", "closed_at": "2023-10-31", "state": "closed", "author": "sh1nj1"}
+{"type": "pull_request", "pr_number": 800, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "vrushankportkey"}
+{"type": "pull_request", "pr_number": 798, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "suravshresth"}
+{"type": "pull_request", "pr_number": 796, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "pavlovp"}
+{"type": "pull_request", "pr_number": 795, "created_at": "2023-10-17", "closed_at": "2023-10-18", "state": "closed", "author": "shyamal-anadkat"}
+{"type": "pull_request", "pr_number": 794, "created_at": "2023-10-17", "closed_at": "2023-10-17", "state": "closed", "author": "alienishi"}
+{"type": "pull_request", "pr_number": 793, "created_at": "2023-10-17", "closed_at": "2023-10-17", "state": "closed", "author": "AnkitaSikdar005"}
+{"type": "pull_request", "pr_number": 792, "created_at": "2023-10-17", "closed_at": "2023-10-17", "state": "closed", "author": "shruti-sen2004"}
+{"type": "pull_request", "pr_number": 791, "created_at": "2023-10-16", "closed_at": "2023-10-16", "state": "closed", "author": "zurawiki"}
+{"type": "pull_request", "pr_number": 790, "created_at": "2023-10-16", "closed_at": "2023-10-18", "state": "closed", "author": "shyamal-anadkat"}
+{"type": "pull_request", "pr_number": 788, "created_at": "2023-10-15", "closed_at": "2023-10-16", "state": "closed", "author": "nermalcat69"}
+{"type": "pull_request", "pr_number": 787, "created_at": "2023-10-14", "closed_at": "2023-10-17", "state": "closed", "author": "eltociear"}
+{"type": "pull_request", "pr_number": 785, "created_at": "2023-10-14", "closed_at": "2023-10-14", "state": "closed", "author": "LazaUK"}
+{"type": "pull_request", "pr_number": 784, "created_at": "2023-10-13", "closed_at": "2023-10-13", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 783, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 782, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 781, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "cathykc"}
+{"type": "pull_request", "pr_number": 779, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 778, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 777, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 776, "created_at": "2023-10-11", "closed_at": "2023-10-12", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 775, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "askmeegs"}
+{"type": "pull_request", "pr_number": 774, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "sumansaurabh"}
+{"type": "pull_request", "pr_number": 773, "created_at": "2023-10-10", "closed_at": "2023-10-11", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 771, "created_at": "2023-10-09", "closed_at": "2023-10-18", "state": "closed", "author": "dcarpintero"}
+{"type": "pull_request", "pr_number": 770, "created_at": "2023-10-09", "closed_at": "2023-10-11", "state": "closed", "author": "gusmally"}
+{"type": "pull_request", "pr_number": 765, "created_at": "2023-10-06", "closed_at": "2023-10-07", "state": "closed", "author": "emilsedgh"}
+{"type": "pull_request", "pr_number": 763, "created_at": "2023-10-05", "closed_at": "2023-10-07", "state": "closed", "author": "cathykc"}
+{"type": "pull_request", "pr_number": 762, "created_at": "2023-10-05", "closed_at": "2023-10-17", "state": "closed", "author": "perborgen"}
+{"type": "pull_request", "pr_number": 761, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 760, "created_at": "2023-10-04", "closed_at": "2023-10-04", "state": "closed", "author": "kherrera3250"}
+{"type": "pull_request", "pr_number": 759, "created_at": "2023-10-04", "closed_at": "2023-10-11", "state": "closed", "author": "joschkabraun"}
+{"type": "pull_request", "pr_number": 758, "created_at": "2023-10-04", "closed_at": "2023-10-05", "state": "closed", "author": "ash0ts"}
+{"type": "pull_request", "pr_number": 757, "created_at": "2023-10-03", "closed_at": "2023-10-05", "state": "closed", "author": "krrishdholakia"}
+{"type": "pull_request", "pr_number": 756, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 755, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 754, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 753, "created_at": "2023-10-03", "closed_at": "2023-10-18", "state": "closed", "author": "AlexZhangji"}
+{"type": "pull_request", "pr_number": 752, "created_at": "2023-10-02", "closed_at": "2023-10-03", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 751, "created_at": "2023-10-02", "closed_at": "2023-10-02", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 750, "created_at": "2023-10-02", "closed_at": "2023-10-02", "state": "closed", "author": "nickblegacy"}
+{"type": "pull_request", "pr_number": 747, "created_at": "2023-09-29", "closed_at": "2023-09-30", "state": "closed", "author": "danieltprice"}
+{"type": "pull_request", "pr_number": 746, "created_at": "2023-09-29", "closed_at": "2023-09-30", "state": "closed", "author": "danieltprice"}
+{"type": "pull_request", "pr_number": 745, "created_at": "2023-09-28", "closed_at": "2023-09-29", "state": "closed", "author": "hemidactylus"}
+{"type": "pull_request", "pr_number": 744, "created_at": "2023-09-28", "closed_at": "2023-09-29", "state": "closed", "author": "jirihofman"}
+{"type": "pull_request", "pr_number": 742, "created_at": "2023-09-28", "closed_at": "2023-09-29", "state": "closed", "author": "dhruv-anand-aintech"}
+{"type": "pull_request", "pr_number": 741, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 740, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 739, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "Xin-Jing"}
+{"type": "pull_request", "pr_number": 738, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "Xin-Jing"}
+{"type": "pull_request", "pr_number": 737, "created_at": "2023-09-27", "closed_at": "2023-09-27", "state": "closed", "author": "perborgen"}
+{"type": "pull_request", "pr_number": 736, "created_at": "2023-09-26", "closed_at": "2023-09-26", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 735, "created_at": "2023-09-25", "closed_at": "2023-09-25", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 734, "created_at": "2023-09-24", "closed_at": "2023-09-26", "state": "closed", "author": "chuongmep"}
+{"type": "pull_request", "pr_number": 733, "created_at": "2023-09-24", "closed_at": "2023-09-26", "state": "closed", "author": "ridrisa"}
+{"type": "pull_request", "pr_number": 732, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 731, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 730, "created_at": "2023-09-22", "closed_at": "2023-09-22", "state": "closed", "author": "simonpfish"}
+{"type": "pull_request", "pr_number": 729, "created_at": "2023-09-21", "closed_at": "2023-09-22", "state": "closed", "author": "gusmally"}

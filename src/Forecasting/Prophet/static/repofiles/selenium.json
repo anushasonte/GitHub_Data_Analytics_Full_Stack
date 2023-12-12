@@ -1,0 +1,383 @@
+{"type": "issue", "issue_number": 13183, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": ["I-defect"], "state": "closed", "author": "polRk"}
+{"type": "issue", "issue_number": 13182, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": ["I-defect"], "state": "closed", "author": "anassibnoualii"}
+{"type": "issue", "issue_number": 13181, "created_at": "2023-11-21", "closed_at": null, "labels": ["C-nodejs", "I-defect", "needs-triaging"], "state": "open", "author": "slhck"}
+{"type": "issue", "issue_number": 13180, "created_at": "2023-11-21", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "state": "open", "author": "manikumarnune123"}
+{"type": "issue", "issue_number": 13179, "created_at": "2023-11-21", "closed_at": "2023-11-21", "labels": ["I-defect"], "state": "closed", "author": "jjqi92"}
+{"type": "issue", "issue_number": 13178, "created_at": "2023-11-21", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "state": "open", "author": "JanardhanGN91"}
+{"type": "issue", "issue_number": 13177, "created_at": "2023-11-21", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "state": "open", "author": "Dandush03"}
+{"type": "issue", "issue_number": 13172, "created_at": "2023-11-19", "closed_at": null, "labels": ["R-awaiting answer", "C-dotnet", "I-defect", "needs-triaging"], "state": "open", "author": "budcribar"}
+{"type": "issue", "issue_number": 13171, "created_at": "2023-11-19", "closed_at": null, "labels": ["I-defect", "needs-triaging", "help wanted"], "state": "open", "author": "rbri"}
+{"type": "issue", "issue_number": 13170, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "sarushili0430"}
+{"type": "issue", "issue_number": 13169, "created_at": "2023-11-19", "closed_at": "2023-11-19", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "konflic"}
+{"type": "issue", "issue_number": 13168, "created_at": "2023-11-17", "closed_at": null, "labels": ["C-dotnet", "I-defect", "needs-triaging"], "state": "open", "author": "Y2KMAX3000"}
+{"type": "issue", "issue_number": 13167, "created_at": "2023-11-17", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "state": "open", "author": "csgbn"}
+{"type": "issue", "issue_number": 13164, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "state": "open", "author": "zubairkhakwani"}
+{"type": "issue", "issue_number": 13163, "created_at": "2023-11-16", "closed_at": "2023-11-17", "labels": ["C-java", "I-defect"], "state": "closed", "author": "vlad8x8"}
+{"type": "issue", "issue_number": 13161, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["I-defect", "I-issue-template"], "state": "closed", "author": "gdonald"}
+{"type": "issue", "issue_number": 13160, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-enhancement", "C-devtools"], "state": "open", "author": "boris-petrov"}
+{"type": "issue", "issue_number": 13158, "created_at": "2023-11-16", "closed_at": "2023-11-16", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "kkoripl"}
+{"type": "issue", "issue_number": 13157, "created_at": "2023-11-16", "closed_at": null, "labels": ["I-defect", "I-issue-template", "needs-triaging"], "state": "open", "author": "pravinshinde222"}
+{"type": "issue", "issue_number": 13156, "created_at": "2023-11-15", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "state": "open", "author": "amistry96"}
+{"type": "issue", "issue_number": 13155, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["I-question"], "state": "closed", "author": "SidArtem"}
+{"type": "issue", "issue_number": 13154, "created_at": "2023-11-15", "closed_at": "2023-11-15", "labels": ["C-java", "I-defect"], "state": "closed", "author": "fjf2002"}
+{"type": "issue", "issue_number": 13152, "created_at": "2023-11-15", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect"], "state": "open", "author": "JuzerShakir"}
+{"type": "issue", "issue_number": 13150, "created_at": "2023-11-14", "closed_at": null, "labels": ["I-enhancement", "C-build", "needs-triaging"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13149, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": [], "state": "closed", "author": "Shumatic"}
+{"type": "issue", "issue_number": 13148, "created_at": "2023-11-14", "closed_at": "2023-11-14", "labels": ["I-question"], "state": "closed", "author": "invincibleSachi"}
+{"type": "issue", "issue_number": 13147, "created_at": "2023-11-14", "closed_at": null, "labels": ["C-py", "I-defect"], "state": "open", "author": "jnhyperion"}
+{"type": "issue", "issue_number": 13146, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": [], "state": "closed", "author": "dcooke570"}
+{"type": "issue", "issue_number": 13145, "created_at": "2023-11-13", "closed_at": "2023-11-13", "labels": ["C-java", "I-defect", "needs-triaging"], "state": "closed", "author": "namuller30"}
+{"type": "issue", "issue_number": 13144, "created_at": "2023-11-13", "closed_at": null, "labels": ["C-grid", "I-defect", "help wanted"], "state": "open", "author": "tom17031"}
+{"type": "issue", "issue_number": 13141, "created_at": "2023-11-10", "closed_at": null, "labels": ["C-py", "I-defect"], "state": "open", "author": "Yurnerosk"}
+{"type": "issue", "issue_number": 13139, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "harmin-parra"}
+{"type": "issue", "issue_number": 13138, "created_at": "2023-11-10", "closed_at": null, "labels": ["I-enhancement", "help wanted"], "state": "open", "author": "harmin-parra"}
+{"type": "issue", "issue_number": 13137, "created_at": "2023-11-10", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "state": "closed", "author": "jduust"}
+{"type": "issue", "issue_number": 13135, "created_at": "2023-11-10", "closed_at": "2023-11-10", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "SeleniumNinja"}
+{"type": "issue", "issue_number": 13132, "created_at": "2023-11-10", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "state": "open", "author": "whimboo"}
+{"type": "issue", "issue_number": 13130, "created_at": "2023-11-09", "closed_at": "2023-11-13", "labels": ["I-defect", "C-build", "C-rust"], "state": "closed", "author": "HernJer"}
+{"type": "issue", "issue_number": 13128, "created_at": "2023-11-09", "closed_at": "2023-11-16", "labels": ["I-enhancement", "C-rust"], "state": "closed", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13127, "created_at": "2023-11-09", "closed_at": null, "labels": ["R-awaiting answer", "C-py", "I-defect", "needs-triaging"], "state": "open", "author": "luketudge"}
+{"type": "issue", "issue_number": 13124, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["I-enhancement", "needs-triaging", "G-geckodriver"], "state": "closed", "author": "MatzFan"}
+{"type": "issue", "issue_number": 13122, "created_at": "2023-11-09", "closed_at": "2023-11-09", "labels": ["I-question"], "state": "closed", "author": "Z-YHDD"}
+{"type": "issue", "issue_number": 13121, "created_at": "2023-11-08", "closed_at": "2023-11-14", "labels": ["C-java", "I-defect", "needs-triaging"], "state": "closed", "author": "tony-parasoft"}
+{"type": "issue", "issue_number": 13119, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "peachonpizza"}
+{"type": "issue", "issue_number": 13118, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "satya081"}
+{"type": "issue", "issue_number": 13116, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "LiudmilaSantos"}
+{"type": "issue", "issue_number": 13115, "created_at": "2023-11-08", "closed_at": "2023-11-08", "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "state": "closed", "author": "seungoh-lee"}
+{"type": "issue", "issue_number": 13114, "created_at": "2023-11-08", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "kenoti"}
+{"type": "issue", "issue_number": 13112, "created_at": "2023-11-08", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect", "help wanted"], "state": "open", "author": "tatsuyafw"}
+{"type": "issue", "issue_number": 13111, "created_at": "2023-11-08", "closed_at": "2023-11-09", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "young-kingdom"}
+{"type": "issue", "issue_number": 13110, "created_at": "2023-11-07", "closed_at": "2023-11-16", "labels": ["I-enhancement", "C-rust"], "state": "closed", "author": "MarcelWilson"}
+{"type": "issue", "issue_number": 13109, "created_at": "2023-11-07", "closed_at": "2023-11-09", "labels": ["C-java", "I-defect", "I-issue-template"], "state": "closed", "author": "jstermask"}
+{"type": "issue", "issue_number": 13107, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["C-java", "I-defect", "needs-triaging"], "state": "closed", "author": "lacell75"}
+{"type": "issue", "issue_number": 13106, "created_at": "2023-11-07", "closed_at": null, "labels": ["C-java", "I-defect", "help wanted"], "state": "open", "author": "valfirst"}
+{"type": "issue", "issue_number": 13105, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["G-chromedriver"], "state": "closed", "author": "BinBk12"}
+{"type": "issue", "issue_number": 13104, "created_at": "2023-11-07", "closed_at": "2023-11-07", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "jawad-arshad-khan97"}
+{"type": "issue", "issue_number": 13103, "created_at": "2023-11-06", "closed_at": "2023-11-06", "labels": ["I-question"], "state": "closed", "author": "Deceptio"}
+{"type": "issue", "issue_number": 13100, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["R-awaiting answer", "I-enhancement"], "state": "closed", "author": "giuliohome"}
+{"type": "issue", "issue_number": 13099, "created_at": "2023-11-05", "closed_at": "2023-11-05", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "mgorny"}
+{"type": "issue", "issue_number": 13097, "created_at": "2023-11-04", "closed_at": null, "labels": ["C-dotnet", "I-enhancement", "help wanted"], "state": "open", "author": "nvborisenko"}
+{"type": "issue", "issue_number": 13096, "created_at": "2023-11-04", "closed_at": "2023-11-06", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "mykola-mokhnach"}
+{"type": "issue", "issue_number": 13095, "created_at": "2023-11-03", "closed_at": "2023-11-16", "labels": ["C-py", "I-defect", "G-chromedriver"], "state": "closed", "author": "MohamedV0"}
+{"type": "issue", "issue_number": 13094, "created_at": "2023-11-03", "closed_at": "2023-11-16", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "mooragor"}
+{"type": "issue", "issue_number": 13092, "created_at": "2023-11-03", "closed_at": "2023-11-17", "labels": ["A-needs decision", "I-enhancement"], "state": "closed", "author": "MatzFan"}
+{"type": "issue", "issue_number": 13091, "created_at": "2023-11-03", "closed_at": "2023-11-21", "labels": ["C-grid", "I-defect"], "state": "closed", "author": "parholmdahl"}
+{"type": "issue", "issue_number": 13089, "created_at": "2023-11-03", "closed_at": "2023-11-06", "labels": ["C-grid", "A-needs decision", "I-enhancement"], "state": "closed", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13087, "created_at": "2023-11-02", "closed_at": "2023-11-09", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "luketudge"}
+{"type": "issue", "issue_number": 13086, "created_at": "2023-11-02", "closed_at": null, "labels": ["C-dotnet", "I-defect"], "state": "open", "author": "skeksk91"}
+{"type": "issue", "issue_number": 13085, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["C-java", "I-defect"], "state": "closed", "author": "iamxiaojianzheng"}
+{"type": "issue", "issue_number": 13084, "created_at": "2023-11-02", "closed_at": "2023-11-02", "labels": ["I-defect", "I-issue-template", "needs-triaging"], "state": "closed", "author": "Anandh1924"}
+{"type": "issue", "issue_number": 13083, "created_at": "2023-11-01", "closed_at": null, "labels": ["C-grid", "R-awaiting answer", "I-defect"], "state": "open", "author": "Daniel-Pierce-IV"}
+{"type": "issue", "issue_number": 13081, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "swapnabhaskarun"}
+{"type": "issue", "issue_number": 13080, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "MatzFan"}
+{"type": "issue", "issue_number": 13079, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "MatzFan"}
+{"type": "issue", "issue_number": 13077, "created_at": "2023-11-01", "closed_at": "2023-11-13", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "dammie12"}
+{"type": "issue", "issue_number": 13076, "created_at": "2023-11-01", "closed_at": "2023-11-01", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "Fradhyle"}
+{"type": "issue", "issue_number": 13075, "created_at": "2023-10-31", "closed_at": "2023-11-01", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "bryancoxdish"}
+{"type": "issue", "issue_number": 13074, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "manoelcampos"}
+{"type": "issue", "issue_number": 13073, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-question"], "state": "closed", "author": "uman3951"}
+{"type": "issue", "issue_number": 13072, "created_at": "2023-10-31", "closed_at": "2023-10-31", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "SeleniumNinja"}
+{"type": "issue", "issue_number": 13063, "created_at": "2023-10-29", "closed_at": "2023-10-30", "labels": ["I-defect", "I-issue-template", "needs-triaging"], "state": "closed", "author": "SeleniumNinja"}
+{"type": "issue", "issue_number": 13062, "created_at": "2023-10-29", "closed_at": "2023-10-30", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "soan1d"}
+{"type": "issue", "issue_number": 13061, "created_at": "2023-10-27", "closed_at": "2023-10-28", "labels": ["needs-triaging", "G-chromedriver"], "state": "closed", "author": "sharutkarsh"}
+{"type": "issue", "issue_number": 13060, "created_at": "2023-10-27", "closed_at": "2023-11-02", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "joerg1985"}
+{"type": "issue", "issue_number": 13038, "created_at": "2023-10-24", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "state": "open", "author": "lucamcwood"}
+{"type": "issue", "issue_number": 13031, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "aaruun"}
+{"type": "issue", "issue_number": 13030, "created_at": "2023-10-23", "closed_at": "2023-10-23", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "state": "closed", "author": "MaggieKro"}
+{"type": "issue", "issue_number": 13029, "created_at": "2023-10-23", "closed_at": null, "labels": ["R-awaiting answer", "I-enhancement"], "state": "open", "author": "Zubastic"}
+{"type": "issue", "issue_number": 13022, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13021, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13020, "created_at": "2023-10-22", "closed_at": "2023-11-19", "labels": ["I-enhancement", "C-build"], "state": "closed", "author": "titusfortner"}
+{"type": "issue", "issue_number": 13019, "created_at": "2023-10-22", "closed_at": null, "labels": ["I-enhancement", "C-build"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12986, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement", "C-rust"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12985, "created_at": "2023-10-22", "closed_at": null, "labels": ["A-needs decision", "I-enhancement", "C-rust"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12984, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "dvorst"}
+{"type": "issue", "issue_number": 12983, "created_at": "2023-10-22", "closed_at": "2023-10-22", "labels": ["I-defect", "I-question", "C-rust"], "state": "closed", "author": "SripriyaPKulkarni"}
+{"type": "issue", "issue_number": 12982, "created_at": "2023-10-22", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "I-issue-template"], "state": "open", "author": "reyoreyo"}
+{"type": "issue", "issue_number": 12976, "created_at": "2023-10-20", "closed_at": "2023-10-20", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "Abhijith1190"}
+{"type": "issue", "issue_number": 12975, "created_at": "2023-10-20", "closed_at": null, "labels": ["C-grid", "I-defect", "needs-triaging"], "state": "open", "author": "joerg1985"}
+{"type": "issue", "issue_number": 12973, "created_at": "2023-10-20", "closed_at": "2023-11-17", "labels": ["R-awaiting answer", "I-defect", "I-issue-template", "G-chromedriver"], "state": "closed", "author": "saif8983ansari"}
+{"type": "issue", "issue_number": 12972, "created_at": "2023-10-19", "closed_at": "2023-11-01", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "MarcelWilson"}
+{"type": "issue", "issue_number": 12971, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "Mo0rBy"}
+{"type": "issue", "issue_number": 12970, "created_at": "2023-10-19", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "state": "open", "author": "RaHehl"}
+{"type": "issue", "issue_number": 12969, "created_at": "2023-10-19", "closed_at": "2023-10-19", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "bratwurzt"}
+{"type": "issue", "issue_number": 12967, "created_at": "2023-10-18", "closed_at": "2023-10-24", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "state": "closed", "author": "cdutton1"}
+{"type": "issue", "issue_number": 12965, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "youvegotnigel"}
+{"type": "issue", "issue_number": 12964, "created_at": "2023-10-18", "closed_at": null, "labels": ["C-grid", "I-defect"], "state": "open", "author": "bhecquet"}
+{"type": "issue", "issue_number": 12963, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": [], "state": "closed", "author": "leopom"}
+{"type": "issue", "issue_number": 12962, "created_at": "2023-10-18", "closed_at": "2023-10-26", "labels": ["R-awaiting answer", "C-java", "I-defect", "C-devtools"], "state": "closed", "author": "MarcJagtInfor"}
+{"type": "issue", "issue_number": 12961, "created_at": "2023-10-18", "closed_at": "2023-10-18", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "harmin-parra"}
+{"type": "issue", "issue_number": 12959, "created_at": "2023-10-17", "closed_at": "2023-10-17", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "harmin-parra"}
+{"type": "issue", "issue_number": 12958, "created_at": "2023-10-16", "closed_at": "2023-11-20", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "ssrmm"}
+{"type": "issue", "issue_number": 12957, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "fippo"}
+{"type": "issue", "issue_number": 12954, "created_at": "2023-10-16", "closed_at": "2023-10-24", "labels": ["R-awaiting answer", "I-defect", "G-chromedriver"], "state": "closed", "author": "rpudlowski93"}
+{"type": "issue", "issue_number": 12953, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": [], "state": "closed", "author": "devinschumacher"}
+{"type": "issue", "issue_number": 12952, "created_at": "2023-10-16", "closed_at": "2023-10-16", "labels": ["G-msedgedriver"], "state": "closed", "author": "csharsha"}
+{"type": "issue", "issue_number": 12950, "created_at": "2023-10-14", "closed_at": "2023-11-10", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "state": "closed", "author": "csgbn"}
+{"type": "issue", "issue_number": 12949, "created_at": "2023-10-14", "closed_at": null, "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "state": "open", "author": "foshesss"}
+{"type": "issue", "issue_number": 12947, "created_at": "2023-10-13", "closed_at": null, "labels": ["C-nodejs", "I-defect"], "state": "open", "author": "djelinek"}
+{"type": "issue", "issue_number": 12945, "created_at": "2023-10-13", "closed_at": "2023-10-16", "labels": [], "state": "closed", "author": "jaychoubaby"}
+{"type": "issue", "issue_number": 12944, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "YoungerThuggg"}
+{"type": "issue", "issue_number": 12939, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-defect", "C-rust"], "state": "open", "author": "elliottj"}
+{"type": "issue", "issue_number": 12938, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-defect", "C-rust"], "state": "open", "author": "elliottj"}
+{"type": "issue", "issue_number": 12936, "created_at": "2023-10-12", "closed_at": "2023-10-12", "labels": ["I-enhancement", "I-question", "needs-triaging"], "state": "closed", "author": "Aditi729"}
+{"type": "issue", "issue_number": 12935, "created_at": "2023-10-12", "closed_at": null, "labels": ["I-enhancement"], "state": "open", "author": "rsingh2023"}
+{"type": "issue", "issue_number": 12931, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["C-py", "I-defect", "C-rust"], "state": "closed", "author": "Gray-Falcon"}
+{"type": "issue", "issue_number": 12930, "created_at": "2023-10-11", "closed_at": "2023-10-17", "labels": [], "state": "closed", "author": "brenol"}
+{"type": "issue", "issue_number": 12929, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "bollwyvl"}
+{"type": "issue", "issue_number": 12927, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "state": "closed", "author": "TWiStErRob"}
+{"type": "issue", "issue_number": 12926, "created_at": "2023-10-11", "closed_at": "2023-10-16", "labels": ["I-enhancement", "C-rust"], "state": "closed", "author": "elliottj"}
+{"type": "issue", "issue_number": 12925, "created_at": "2023-10-11", "closed_at": "2023-10-13", "labels": ["I-question"], "state": "closed", "author": "andrei-z"}
+{"type": "issue", "issue_number": 12924, "created_at": "2023-10-11", "closed_at": null, "labels": ["C-java", "I-defect", "I-question"], "state": "open", "author": "joerg1985"}
+{"type": "issue", "issue_number": 12923, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": [], "state": "closed", "author": "vicozohili"}
+{"type": "issue", "issue_number": 12922, "created_at": "2023-10-11", "closed_at": "2023-10-11", "labels": ["I-defect", "I-issue-template"], "state": "closed", "author": "IvanRastamanov"}
+{"type": "issue", "issue_number": 12921, "created_at": "2023-10-11", "closed_at": "2023-11-02", "labels": ["C-grid", "I-defect"], "state": "closed", "author": "pogrebnyaksa"}
+{"type": "issue", "issue_number": 12918, "created_at": "2023-10-10", "closed_at": "2023-11-06", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "mykola-mokhnach"}
+{"type": "issue", "issue_number": 12915, "created_at": "2023-10-10", "closed_at": "2023-10-10", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "xtianus"}
+{"type": "issue", "issue_number": 12911, "created_at": "2023-10-10", "closed_at": null, "labels": ["I-defect", "I-issue-template"], "state": "open", "author": "msharma2020"}
+{"type": "issue", "issue_number": 12910, "created_at": "2023-10-09", "closed_at": "2023-10-10", "labels": ["needs-triaging", "G-chromedriver", "bug"], "state": "closed", "author": "Original-Sorrow"}
+{"type": "issue", "issue_number": 12908, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "raja-anbazhagan"}
+{"type": "issue", "issue_number": 12906, "created_at": "2023-10-09", "closed_at": "2023-10-09", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "biolds"}
+{"type": "issue", "issue_number": 12902, "created_at": "2023-10-09", "closed_at": "2023-10-17", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "alaahong"}
+{"type": "issue", "issue_number": 12900, "created_at": "2023-10-08", "closed_at": "2023-10-16", "labels": ["I-defect"], "state": "closed", "author": "johnago"}
+{"type": "issue", "issue_number": 12897, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "himanshu177"}
+{"type": "issue", "issue_number": 12896, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "paul11123"}
+{"type": "issue", "issue_number": 12895, "created_at": "2023-10-07", "closed_at": "2023-10-07", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "johnago"}
+{"type": "issue", "issue_number": 12892, "created_at": "2023-10-06", "closed_at": null, "labels": ["A-needs decision", "C-java"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12891, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "joseajunior"}
+{"type": "issue", "issue_number": 12889, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "IamRanjeetSingh"}
+{"type": "issue", "issue_number": 12888, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "johnago"}
+{"type": "issue", "issue_number": 12887, "created_at": "2023-10-06", "closed_at": "2023-10-23", "labels": ["C-rust"], "state": "closed", "author": "bonigarcia"}
+{"type": "issue", "issue_number": 12886, "created_at": "2023-10-06", "closed_at": "2023-10-17", "labels": ["I-question"], "state": "closed", "author": "SmartSureshBabu"}
+{"type": "issue", "issue_number": 12885, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-defect", "I-issue-template", "I-question", "needs-triaging"], "state": "closed", "author": "DomZZ"}
+{"type": "issue", "issue_number": 12884, "created_at": "2023-10-06", "closed_at": "2023-10-11", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "MrSerth"}
+{"type": "issue", "issue_number": 12883, "created_at": "2023-10-06", "closed_at": "2023-10-06", "labels": ["I-enhancement"], "state": "closed", "author": "ksingha161"}
+{"type": "issue", "issue_number": 12882, "created_at": "2023-10-06", "closed_at": "2023-11-17", "labels": ["C-java", "I-defect", "C-devtools"], "state": "closed", "author": "pujagani"}
+{"type": "issue", "issue_number": 12881, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["G-geckodriver"], "state": "closed", "author": "Ethan-DSB"}
+{"type": "issue", "issue_number": 12876, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["C-grid", "I-question"], "state": "closed", "author": "loki1507m"}
+{"type": "issue", "issue_number": 12875, "created_at": "2023-10-05", "closed_at": "2023-10-16", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "johnago"}
+{"type": "issue", "issue_number": 12872, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "Yash1067"}
+{"type": "issue", "issue_number": 12870, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["C-py", "I-defect", "needs-triaging"], "state": "closed", "author": "alexey-pelykh"}
+{"type": "issue", "issue_number": 12869, "created_at": "2023-10-05", "closed_at": "2023-10-06", "labels": ["C-java", "I-defect"], "state": "closed", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12868, "created_at": "2023-10-05", "closed_at": "2023-10-05", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "protect69"}
+{"type": "issue", "issue_number": 12865, "created_at": "2023-10-04", "closed_at": null, "labels": ["R-awaiting answer", "C-java", "I-defect"], "state": "open", "author": "Markedo"}
+{"type": "issue", "issue_number": 12867, "created_at": "2023-10-04", "closed_at": "2023-10-05", "labels": ["needs-triaging", "bug"], "state": "closed", "author": "rajeshsrinivas1991"}
+{"type": "issue", "issue_number": 12864, "created_at": "2023-10-03", "closed_at": null, "labels": ["I-enhancement", "needs-triaging"], "state": "open", "author": "cartersocha"}
+{"type": "issue", "issue_number": 12862, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["R-awaiting answer", "I-defect"], "state": "closed", "author": "searchexplore"}
+{"type": "issue", "issue_number": 12860, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "ZiTAL"}
+{"type": "issue", "issue_number": 12859, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "I-question", "needs-triaging"], "state": "closed", "author": "xaliander"}
+{"type": "issue", "issue_number": 12858, "created_at": "2023-10-03", "closed_at": "2023-10-03", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "MrLMrks"}
+{"type": "issue", "issue_number": 12857, "created_at": "2023-10-03", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "state": "open", "author": "NotJuba"}
+{"type": "issue", "issue_number": 12856, "created_at": "2023-10-03", "closed_at": "2023-10-10", "labels": ["R-awaiting answer", "C-dotnet", "I-defect"], "state": "closed", "author": "nairdinesh04"}
+{"type": "issue", "issue_number": 12855, "created_at": "2023-10-03", "closed_at": null, "labels": ["R-awaiting answer", "I-defect"], "state": "open", "author": "notSoTechnical"}
+{"type": "issue", "issue_number": 12854, "created_at": "2023-10-03", "closed_at": null, "labels": ["C-java", "I-defect"], "state": "open", "author": "titusfortner"}
+{"type": "issue", "issue_number": 12851, "created_at": "2023-10-02", "closed_at": "2023-10-02", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "sharutkarsh"}
+{"type": "issue", "issue_number": 12850, "created_at": "2023-10-02", "closed_at": null, "labels": ["R-awaiting answer", "I-enhancement"], "state": "open", "author": "MykolaGolubyev"}
+{"type": "issue", "issue_number": 12846, "created_at": "2023-10-01", "closed_at": "2023-10-01", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "tudubucket"}
+{"type": "issue", "issue_number": 12845, "created_at": "2023-09-30", "closed_at": "2023-10-02", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "HasiniRangana"}
+{"type": "issue", "issue_number": 12842, "created_at": "2023-09-29", "closed_at": "2023-10-01", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "state": "closed", "author": "Sigrec"}
+{"type": "issue", "issue_number": 12841, "created_at": "2023-09-29", "closed_at": "2023-09-30", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "lpcoutinho"}
+{"type": "issue", "issue_number": 12839, "created_at": "2023-09-29", "closed_at": "2023-10-06", "labels": ["C-grid", "R-awaiting answer", "I-defect"], "state": "closed", "author": "bhecquet"}
+{"type": "issue", "issue_number": 12837, "created_at": "2023-09-29", "closed_at": "2023-09-29", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "yanniszark"}
+{"type": "issue", "issue_number": 12836, "created_at": "2023-09-29", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "state": "open", "author": "webtoman"}
+{"type": "issue", "issue_number": 12833, "created_at": "2023-09-28", "closed_at": "2023-09-29", "labels": ["R-awaiting answer", "C-rb", "I-defect", "needs-triaging"], "state": "closed", "author": "pgundlupetvenkatesh"}
+{"type": "issue", "issue_number": 12832, "created_at": "2023-09-28", "closed_at": "2023-10-19", "labels": ["C-grid", "C-java", "I-defect"], "state": "closed", "author": "bhecquet"}
+{"type": "issue", "issue_number": 12831, "created_at": "2023-09-28", "closed_at": "2023-10-06", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "Artur-"}
+{"type": "issue", "issue_number": 12829, "created_at": "2023-09-27", "closed_at": "2023-09-27", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "rakeshkumarpanda"}
+{"type": "issue", "issue_number": 12828, "created_at": "2023-09-27", "closed_at": null, "labels": ["I-defect", "needs-triaging"], "state": "open", "author": "lugi0"}
+{"type": "issue", "issue_number": 12827, "created_at": "2023-09-26", "closed_at": "2023-09-27", "labels": ["I-question"], "state": "closed", "author": "briangits"}
+{"type": "issue", "issue_number": 12826, "created_at": "2023-09-26", "closed_at": "2023-09-28", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "state": "closed", "author": "ashwakpasha"}
+{"type": "issue", "issue_number": 12825, "created_at": "2023-09-26", "closed_at": "2023-09-29", "labels": ["C-java", "I-defect", "D-firefox", "C-devtools"], "state": "closed", "author": "Pe-te"}
+{"type": "issue", "issue_number": 12824, "created_at": "2023-09-26", "closed_at": "2023-09-26", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "MateuszMalik"}
+{"type": "issue", "issue_number": 12821, "created_at": "2023-09-25", "closed_at": null, "labels": ["C-dotnet", "I-enhancement", "needs-triaging"], "state": "open", "author": "sbakharev"}
+{"type": "issue", "issue_number": 12819, "created_at": "2023-09-25", "closed_at": "2023-09-27", "labels": ["R-awaiting answer", "I-defect", "needs-triaging"], "state": "closed", "author": "ZhaoYis"}
+{"type": "issue", "issue_number": 12818, "created_at": "2023-09-25", "closed_at": "2023-09-25", "labels": ["I-defect", "I-issue-template", "G-chromedriver"], "state": "closed", "author": "Yash1067"}
+{"type": "issue", "issue_number": 12815, "created_at": "2023-09-24", "closed_at": "2023-09-24", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "Z-YHDD"}
+{"type": "issue", "issue_number": 12814, "created_at": "2023-09-23", "closed_at": null, "labels": ["C-java", "I-enhancement", "needs-triaging"], "state": "open", "author": "joerg1985"}
+{"type": "issue", "issue_number": 12813, "created_at": "2023-09-22", "closed_at": null, "labels": ["R-awaiting answer", "C-dotnet", "I-defect", "needs-triaging"], "state": "open", "author": "PYasonau"}
+{"type": "issue", "issue_number": 12812, "created_at": "2023-09-22", "closed_at": "2023-09-28", "labels": ["I-defect"], "state": "closed", "author": "ShaheedHaque"}
+{"type": "issue", "issue_number": 12811, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-defect", "needs-triaging", "G-chromedriver"], "state": "closed", "author": "ZeldaFlower"}
+{"type": "issue", "issue_number": 12806, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": [], "state": "closed", "author": "SvetlaNorka"}
+{"type": "issue", "issue_number": 12805, "created_at": "2023-09-21", "closed_at": "2023-10-19", "labels": ["C-dotnet", "I-defect", "needs-triaging"], "state": "closed", "author": "drauch"}
+{"type": "issue", "issue_number": 12804, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "fuzzy-boiii23a"}
+{"type": "issue", "issue_number": 12803, "created_at": "2023-09-21", "closed_at": "2023-09-22", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "Duez-Yoan"}
+{"type": "issue", "issue_number": 12802, "created_at": "2023-09-21", "closed_at": "2023-10-20", "labels": ["I-defect", "C-rust"], "state": "closed", "author": "eravion"}
+{"type": "issue", "issue_number": 12801, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["I-defect", "needs-triaging"], "state": "closed", "author": "surajgupta7175"}
+{"type": "issue", "issue_number": 12800, "created_at": "2023-09-21", "closed_at": "2023-09-21", "labels": ["I-enhancement", "needs-triaging"], "state": "closed", "author": "harmin-parra"}
+{"type": "issue", "issue_number": 12799, "created_at": "2023-09-21", "closed_at": null, "labels": ["R-awaiting answer", "C-rb", "I-defect", "needs-triaging"], "state": "open", "author": "DanielHeath"}
+{"type": "pull_request", "pr_number": 13176, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13175, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "EdwinVanVliet"}
+{"type": "pull_request", "pr_number": 13174, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "EdwinVanVliet"}
+{"type": "pull_request", "pr_number": 13173, "created_at": "2023-11-20", "closed_at": null, "state": "open", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13166, "created_at": "2023-11-17", "closed_at": null, "state": "open", "author": "anemele"}
+{"type": "pull_request", "pr_number": 13165, "created_at": "2023-11-17", "closed_at": "2023-11-17", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 13162, "created_at": "2023-11-16", "closed_at": "2023-11-17", "state": "closed", "author": "asottile"}
+{"type": "pull_request", "pr_number": 13159, "created_at": "2023-11-16", "closed_at": "2023-11-16", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13153, "created_at": "2023-11-15", "closed_at": null, "state": "open", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 13151, "created_at": "2023-11-15", "closed_at": null, "state": "open", "author": "jnhyperion"}
+{"type": "pull_request", "pr_number": 13143, "created_at": "2023-11-11", "closed_at": "2023-11-14", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 13142, "created_at": "2023-11-11", "closed_at": "2023-11-15", "state": "closed", "author": "centic9"}
+{"type": "pull_request", "pr_number": 13140, "created_at": "2023-11-10", "closed_at": null, "state": "open", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 13136, "created_at": "2023-11-10", "closed_at": "2023-11-13", "state": "closed", "author": "purkhusid"}
+{"type": "pull_request", "pr_number": 13134, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13133, "created_at": "2023-11-10", "closed_at": "2023-11-10", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13131, "created_at": "2023-11-09", "closed_at": "2023-11-10", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 13129, "created_at": "2023-11-09", "closed_at": "2023-11-10", "state": "closed", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 13126, "created_at": "2023-11-09", "closed_at": null, "state": "open", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13125, "created_at": "2023-11-09", "closed_at": "2023-11-09", "state": "closed", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 13123, "created_at": "2023-11-09", "closed_at": null, "state": "open", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13120, "created_at": "2023-11-08", "closed_at": "2023-11-09", "state": "closed", "author": "icnocop"}
+{"type": "pull_request", "pr_number": 13117, "created_at": "2023-11-08", "closed_at": "2023-11-08", "state": "closed", "author": "purkhusid"}
+{"type": "pull_request", "pr_number": 13113, "created_at": "2023-11-08", "closed_at": "2023-11-14", "state": "closed", "author": "nikhlagrwl"}
+{"type": "pull_request", "pr_number": 13108, "created_at": "2023-11-07", "closed_at": "2023-11-09", "state": "closed", "author": "pinterior"}
+{"type": "pull_request", "pr_number": 13102, "created_at": "2023-11-06", "closed_at": null, "state": "open", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13101, "created_at": "2023-11-06", "closed_at": null, "state": "open", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13098, "created_at": "2023-11-04", "closed_at": "2023-11-06", "state": "closed", "author": "marvinruder"}
+{"type": "pull_request", "pr_number": 13093, "created_at": "2023-11-03", "closed_at": "2023-11-06", "state": "closed", "author": "joromero"}
+{"type": "pull_request", "pr_number": 13090, "created_at": "2023-11-03", "closed_at": "2023-11-10", "state": "closed", "author": "MatzFan"}
+{"type": "pull_request", "pr_number": 13088, "created_at": "2023-11-02", "closed_at": null, "state": "open", "author": "luketudge"}
+{"type": "pull_request", "pr_number": 13082, "created_at": "2023-11-01", "closed_at": null, "state": "open", "author": "pinterior"}
+{"type": "pull_request", "pr_number": 13078, "created_at": "2023-11-01", "closed_at": "2023-11-01", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 13071, "created_at": "2023-10-30", "closed_at": "2023-11-01", "state": "closed", "author": "mweinelt"}
+{"type": "pull_request", "pr_number": 13070, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "pinterior"}
+{"type": "pull_request", "pr_number": 13069, "created_at": "2023-10-30", "closed_at": "2023-11-01", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13068, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13067, "created_at": "2023-10-30", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13066, "created_at": "2023-10-30", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13065, "created_at": "2023-10-30", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13064, "created_at": "2023-10-30", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13059, "created_at": "2023-10-27", "closed_at": "2023-10-30", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13058, "created_at": "2023-10-27", "closed_at": "2023-11-01", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13057, "created_at": "2023-10-27", "closed_at": "2023-11-01", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13056, "created_at": "2023-10-26", "closed_at": "2023-11-01", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13055, "created_at": "2023-10-26", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13054, "created_at": "2023-10-26", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13053, "created_at": "2023-10-25", "closed_at": null, "state": "open", "author": "dlanza1"}
+{"type": "pull_request", "pr_number": 13052, "created_at": "2023-10-25", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13051, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13050, "created_at": "2023-10-25", "closed_at": "2023-10-27", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13049, "created_at": "2023-10-25", "closed_at": "2023-10-27", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13048, "created_at": "2023-10-25", "closed_at": "2023-10-25", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13047, "created_at": "2023-10-25", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13046, "created_at": "2023-10-25", "closed_at": "2023-10-27", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13045, "created_at": "2023-10-25", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13044, "created_at": "2023-10-25", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13043, "created_at": "2023-10-25", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13042, "created_at": "2023-10-25", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13041, "created_at": "2023-10-25", "closed_at": "2023-10-31", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13040, "created_at": "2023-10-25", "closed_at": "2023-11-01", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13039, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "AutomatedTester"}
+{"type": "pull_request", "pr_number": 13037, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13036, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13035, "created_at": "2023-10-24", "closed_at": "2023-10-25", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13034, "created_at": "2023-10-24", "closed_at": "2023-10-27", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13033, "created_at": "2023-10-24", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13032, "created_at": "2023-10-24", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13028, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 13027, "created_at": "2023-10-23", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13026, "created_at": "2023-10-23", "closed_at": null, "state": "open", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13025, "created_at": "2023-10-23", "closed_at": "2023-10-23", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13024, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13023, "created_at": "2023-10-22", "closed_at": "2023-11-01", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 13018, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13017, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13016, "created_at": "2023-10-22", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13015, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13014, "created_at": "2023-10-22", "closed_at": "2023-10-27", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13013, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13012, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13011, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13010, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13009, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13008, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13007, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13006, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13005, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13004, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13003, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13002, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13001, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 13000, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12998, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12999, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12997, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12995, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12996, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12994, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12993, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12992, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12991, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12990, "created_at": "2023-10-22", "closed_at": "2023-10-24", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12989, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12988, "created_at": "2023-10-22", "closed_at": "2023-10-23", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12987, "created_at": "2023-10-22", "closed_at": "2023-10-22", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12981, "created_at": "2023-10-21", "closed_at": "2023-11-01", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12980, "created_at": "2023-10-21", "closed_at": "2023-10-21", "state": "closed", "author": "ramyags123"}
+{"type": "pull_request", "pr_number": 12979, "created_at": "2023-10-20", "closed_at": "2023-11-01", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12978, "created_at": "2023-10-20", "closed_at": "2023-11-13", "state": "closed", "author": "joerg1985"}
+{"type": "pull_request", "pr_number": 12977, "created_at": "2023-10-20", "closed_at": "2023-10-31", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12974, "created_at": "2023-10-20", "closed_at": "2023-10-23", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12968, "created_at": "2023-10-18", "closed_at": "2023-11-01", "state": "closed", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12966, "created_at": "2023-10-18", "closed_at": "2023-10-18", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12960, "created_at": "2023-10-17", "closed_at": "2023-11-16", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12956, "created_at": "2023-10-16", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12955, "created_at": "2023-10-16", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12951, "created_at": "2023-10-16", "closed_at": null, "state": "open", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12948, "created_at": "2023-10-13", "closed_at": "2023-10-16", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12946, "created_at": "2023-10-13", "closed_at": "2023-10-16", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12943, "created_at": "2023-10-12", "closed_at": "2023-10-16", "state": "closed", "author": "joerg1985"}
+{"type": "pull_request", "pr_number": 12942, "created_at": "2023-10-12", "closed_at": null, "state": "open", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12941, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12940, "created_at": "2023-10-12", "closed_at": "2023-10-17", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 12937, "created_at": "2023-10-12", "closed_at": "2023-10-12", "state": "closed", "author": "sazi-y"}
+{"type": "pull_request", "pr_number": 12934, "created_at": "2023-10-11", "closed_at": null, "state": "open", "author": "asolntsev"}
+{"type": "pull_request", "pr_number": 12933, "created_at": "2023-10-11", "closed_at": "2023-10-12", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12932, "created_at": "2023-10-11", "closed_at": "2023-10-24", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12928, "created_at": "2023-10-11", "closed_at": "2023-10-11", "state": "closed", "author": "bollwyvl"}
+{"type": "pull_request", "pr_number": 12920, "created_at": "2023-10-10", "closed_at": "2023-10-11", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12919, "created_at": "2023-10-10", "closed_at": "2023-10-11", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12917, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "joerg1985"}
+{"type": "pull_request", "pr_number": 12916, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 12914, "created_at": "2023-10-10", "closed_at": "2023-10-11", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12913, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 12912, "created_at": "2023-10-10", "closed_at": "2023-10-10", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 12909, "created_at": "2023-10-09", "closed_at": "2023-10-11", "state": "closed", "author": "danielrozenberg"}
+{"type": "pull_request", "pr_number": 12907, "created_at": "2023-10-09", "closed_at": null, "state": "open", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 12904, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12903, "created_at": "2023-10-09", "closed_at": "2023-10-17", "state": "closed", "author": "alaahong"}
+{"type": "pull_request", "pr_number": 12901, "created_at": "2023-10-09", "closed_at": "2023-10-09", "state": "closed", "author": "Prince23gitof"}
+{"type": "pull_request", "pr_number": 12899, "created_at": "2023-10-07", "closed_at": "2023-10-08", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12898, "created_at": "2023-10-07", "closed_at": "2023-10-11", "state": "closed", "author": "joerg1985"}
+{"type": "pull_request", "pr_number": 12894, "created_at": "2023-10-06", "closed_at": "2023-10-08", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12893, "created_at": "2023-10-06", "closed_at": "2023-10-10", "state": "closed", "author": "manuelsblanco"}
+{"type": "pull_request", "pr_number": 12890, "created_at": "2023-10-06", "closed_at": "2023-10-07", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12880, "created_at": "2023-10-05", "closed_at": "2023-10-06", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12879, "created_at": "2023-10-05", "closed_at": "2023-10-06", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12878, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12877, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12874, "created_at": "2023-10-05", "closed_at": "2023-10-06", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 12873, "created_at": "2023-10-05", "closed_at": "2023-10-31", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12871, "created_at": "2023-10-05", "closed_at": "2023-10-05", "state": "closed", "author": "alexey-pelykh"}
+{"type": "pull_request", "pr_number": 12866, "created_at": "2023-10-04", "closed_at": "2023-10-06", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12863, "created_at": "2023-10-03", "closed_at": "2023-10-05", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12861, "created_at": "2023-10-03", "closed_at": "2023-10-04", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12853, "created_at": "2023-10-02", "closed_at": "2023-10-05", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12852, "created_at": "2023-10-02", "closed_at": "2023-10-09", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12849, "created_at": "2023-10-02", "closed_at": "2023-10-05", "state": "closed", "author": "joerg1985"}
+{"type": "pull_request", "pr_number": 12848, "created_at": "2023-10-02", "closed_at": "2023-10-19", "state": "closed", "author": "bhecquet"}
+{"type": "pull_request", "pr_number": 12847, "created_at": "2023-10-01", "closed_at": null, "state": "open", "author": "shs96c"}
+{"type": "pull_request", "pr_number": 12844, "created_at": "2023-09-30", "closed_at": "2023-11-20", "state": "closed", "author": "aguspe"}
+{"type": "pull_request", "pr_number": 12843, "created_at": "2023-09-30", "closed_at": "2023-10-06", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12840, "created_at": "2023-09-29", "closed_at": "2023-09-30", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12838, "created_at": "2023-09-29", "closed_at": "2023-10-06", "state": "closed", "author": "pujagani"}
+{"type": "pull_request", "pr_number": 12835, "created_at": "2023-09-29", "closed_at": "2023-10-07", "state": "closed", "author": "bonigarcia"}
+{"type": "pull_request", "pr_number": 12834, "created_at": "2023-09-28", "closed_at": "2023-09-29", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12830, "created_at": "2023-09-27", "closed_at": "2023-10-06", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12823, "created_at": "2023-09-26", "closed_at": "2023-09-26", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12820, "created_at": "2023-09-25", "closed_at": "2023-09-26", "state": "closed", "author": "nvborisenko"}
+{"type": "pull_request", "pr_number": 12817, "created_at": "2023-09-25", "closed_at": "2023-09-25", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12816, "created_at": "2023-09-24", "closed_at": "2023-09-25", "state": "closed", "author": "titusfortner"}
+{"type": "pull_request", "pr_number": 12810, "created_at": "2023-09-21", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12809, "created_at": "2023-09-21", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12808, "created_at": "2023-09-21", "closed_at": null, "state": "open", "author": "dependabot[bot]"}
+{"type": "pull_request", "pr_number": 12807, "created_at": "2023-09-21", "closed_at": "2023-09-24", "state": "closed", "author": "bonigarcia"}
