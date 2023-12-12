@@ -1,0 +1,13 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/prophet'
+  args: ['build', '-t', 'gcr.io/prophet-405823/prophet', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/prophet'
+  args: ['push', 'gcr.io/prophet-405823/prophet']
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'prophet', '--image', 'gcr.io/prophet-405823/prophet', '--region', 'us-central1', '--platform', 'managed','--port','80']
+images:
+- gcr.io/prophet-405823/prophet

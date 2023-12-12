@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "prophet-405823",
+  "private_key_id": "57e70e8081a423754dc3182b9dccbf4b1e1aea22",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDg6L58YnqFdc/y\n0n8sXQZ9nqRDjQNiRZfsUZIptDYjEO5MvJPjBdAc++ccAXCTEX3oV0hcVCccxJb8\nqJ5D2UJF5f5M0gxrReHx3dU1YpVRtiIzF+AJvdeDFfNRXSs/2LQfKY1zfXoidnjr\nOqlsPXQLTp1TntK1XXRhUYmrlWCuvFu3JgtrhAmN4mPqvmjiAvQuB8k0iZpbrN9N\nIQV86o7KtWz4G6HC9w+H5AkvGzQOfsOyKPxNC5KySki9vseTfRpgYM93WFnI0B4Y\n/ECH8MiNRDv2zjKJPeG2mQI+UnV3TUdjuLY+CERjChi3pBa8Jixu68vUBnfRgHzV\nXJUmXWR5AgMBAAECggEAAgGBZWmZbyRIWQGQmcwwmSE3lNSmoZM+UiC+HXoae4CU\np4GNDhrIquGCQ6ktoFopFc/leNFVUffc4t78Hl3LLgVpmbTL4I8Mf1Q7qRC6hTKL\nJoqBeITFbcld1K1wi866eIat2MhXNQR6epqY1TrNFKa8V3kUpwJw3cdU439fD9/g\n54TvP5UenXVtkNupUd+VLTY45axY92BfQ2jy+t02t6GKnarjmwjwVscfcY7LqKk8\nWFWcYyAeBcL09IHejASGRflT/l+GIiuyDzWyUsC+byURe77nYmY9ER+H5kATwXEw\nlFh7MCa2KHHQB/gGrPNYDZrRcwKTTUdbu3GNOALswQKBgQD1i3eWqCytRgdBmNkj\nZ7Od8R79h3+DzsiyEgGrK1cV4b4OpdBfXdnWbKbXtOMtJ+/yjB4RSN3hbx4BgA4C\nJunQLYE2lw/CeYkdEKtCMKHQHl6W3jHVUbaA+h6r5NNk+ZDS12rJpNC9JrrSscdn\nRFpXsZRAYik50/BfHoZab4VISQKBgQDqfFcuPZiIe4TXTMJfvc08DI6GFSv4c1cV\n5PdTZIsdcKCKPz1X46vXV3pp5duEnsZwGuS3czRqlN2Q1mditXfJ3vSibG4JGXsF\n5EowuyOHQ4ksu5bVF0iK188Tpz+N9tyjLXRzqF8HtvUPXvdWyXic62Lol00CfSoP\nyRuUCOcasQKBgQDTjhs2GaWMkMZVtSx4PbPaw9FwnJq35KS0D6GSaZ/5gWqv0hsq\n34B9J1XEidwlnsA0mJabS82nmoYewsbPAdn3fA1VDGgOpYoGGcOEHsR7vH7Au6Xx\n5ho5G8brURb1a7RkhCdEnpUeM01JlNR528F+xsg1hJ2CbmEugu0849LQyQKBgQCt\nD2IEpb9bE9bCVEus/9dmd1oFScDvGKlwZlHHwZAPBV3nSq9Km6TrRQv69oOiiNCq\nUp71aliIRSCV0jfxmT80xZHGAsLfgmfSvF+pQaUCIu0uD7FNymZm2sphlfGJJGZJ\nJLYq2lxwxC5vzsY7zmxvXCbexTQ4HwqZJfNtuXhfsQKBgQCTiv58SKb/u5TEx9oZ\nL2Ry0LZkCgojCF8SALWvcPq4RM8EcABQc2Fqv1mBeGsn9yRmwh2aZYkzGmoAYqOs\nNvm4xKE5B4F9v4UhNniSEoQBisQNZ6Rf0NDc4l5Ibb+RUF3/B2VXiKdb26ljpBE6\nG68LwpQTpwyv6wtqeBI5F5Z+Ow==\n-----END PRIVATE KEY-----\n",
+  "client_email": "prophetserviceaccount@prophet-405823.iam.gserviceaccount.com",
+  "client_id": "106693929221919505073",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/prophetserviceaccount%40prophet-405823.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
