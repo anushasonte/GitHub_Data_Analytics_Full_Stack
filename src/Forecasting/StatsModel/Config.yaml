@@ -1,0 +1,13 @@
+steps:
+# Build the container image
+- name: 'gcr.io/statsmodel-405900/statsmodel'
+  args: ['build', '-t', 'gcr.io/statsmodel-405900/statsmodel', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/statsmodel-405900/statsmodel'
+  args: ['push', 'gcr.io/statsmodel-405900/statsmodel']
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'statsmodel', '--image', 'gcr.io/statsmodel-405900/statsmodel', '--region', 'us-central1', '--platform', 'managed','--port','80']
+images:
+- gcr.io/statsmodel-405900/statsmodel
