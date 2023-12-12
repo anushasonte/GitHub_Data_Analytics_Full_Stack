@@ -1,0 +1,13 @@
+steps:
+# Build the container image
+- name: 'gcr.io/cloud-builders/lstm'
+  args: ['build', '-t', 'gcr.io/lstm-asset-405718/lstm', '.']
+# Push the container image to Container Registry
+- name: 'gcr.io/cloud-builders/lstm'
+  args: ['push', 'gcr.io/lstm-asset-405718/lstm']
+# Deploy container image to Cloud Run
+- name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+  entrypoint: gcloud
+  args: ['run', 'deploy', 'lstm', '--image', 'gcr.io/lstm-asset-405718/lstm', '--region', 'us-central1', '--platform', 'managed','--port','80']
+images:
+- gcr.io/lstm-asset-405718/lstm
